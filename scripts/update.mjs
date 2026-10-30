@@ -29,12 +29,16 @@ const sourceMeta = Object.fromEntries((db.sources ?? []).map((s) => [s.id, s]));
 const isKnown = (artist, title, sourceId) =>
   Boolean(albums.get(albumKey(artist, title))?.picks?.some((p) => p.source === sourceId));
 
+// Album already saved for a review URL, so a source can keep its names stable across parsing methods.
+const byUrl = new Map([...albums.values()].flatMap((a) => a.picks.map((p) => [p.url, a])));
+const knownAlbum = (url) => byUrl.get(url) ?? null;
+
 for (const source of sources) {
   const meta = (sourceMeta[source.id] ??= { id: source.id });
   Object.assign(meta, { name: source.name, list: source.list });
   try {
     console.log(`→ ${source.name} · ${source.list}`);
-    const items = await source.fetch({ isKnown });
+    const items = await source.fetch({ isKnown, knownAlbum });
     if (!items.length) throw new Error('0 álbumes (¿cambió el formato?)');
     console.log(`  ${items.length} álbumes`);
     for (const it of items) {
