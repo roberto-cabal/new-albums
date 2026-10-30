@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T19:05:29.801Z",
+ "updatedAt": "2026-10-30T19:10:04.835Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 56,
-   "checkedAt": "2026-10-30T19:05:29.801Z"
+   "checkedAt": "2026-10-30T19:10:04.835Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-10-30T19:05:29.801Z"
+   "checkedAt": "2026-10-30T19:10:04.835Z"
   },
   {
    "id": "stereogum",
@@ -29,17 +29,17 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-10-30T19:05:29.801Z"
+   "checkedAt": "2026-10-30T19:10:04.835Z"
   },
   {
    "id": "quietus",
    "name": "The Quietus",
    "list": "Album of the Week",
    "homepage": "https://thequietus.com/columns/quietus-reviews/album-of-the-week/",
-   "ok": false,
-   "error": "HTTP 403 https://thequietus.com/wp-json/wp/v2/posts?categories=27&per_page=30&_embed=wp:term&_fields=link,date_gmt,title,yoast_head_json,_links,_embedded",
-   "count": 30,
-   "checkedAt": "2026-10-30T19:05:29.801Z"
+   "ok": true,
+   "error": null,
+   "count": 32,
+   "checkedAt": "2026-10-30T19:10:04.835Z"
   }
  ],
  "albums": [
@@ -141,7 +141,7 @@
      "url": "https://thequietus.com/quietus-reviews/album-of-the-week/leo-chadburn-phaedra-ensemble-english-dancing-master-review/",
      "date": "2026-10-29T09:47:20.000Z",
      "score": null,
-     "note": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to the rave at Castlemorton Common",
+     "note": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to raving at Castlemorton Common",
      "listenUrl": null,
      "rank": 0
     }
@@ -1128,7 +1128,7 @@
      "url": "https://thequietus.com/quietus-reviews/album-of-the-week/vanishing-twin-archives-review/",
      "date": "2026-10-01T07:30:00.000Z",
      "score": null,
-     "note": "Vanishing Twin's Archives is our Album of the Week and sounds like Chiastic Slide-era Autechre reimagining The Wicker Man OST.",
+     "note": "Absence makes the art grow bolder says Will Ainsley about Archives, which sounds like Chiastic Slide-era Autechre reimagining the Wicker Man soundtrack",
      "listenUrl": null,
      "rank": 4
     }
@@ -2762,7 +2762,7 @@
      "url": "https://thequietus.com/quietus-reviews/album-of-the-week/snakes-on-an-astral-plane-nagabhutam-by-neptunian-maximalism/",
      "date": "2026-08-06T05:08:00.000Z",
      "score": null,
-     "note": "A live album from the freewheeling Belgian metal collective proves improvised music is at its best when the players leave their egos behind at the door, finds Jacob Manieson",
+     "note": "A live album from the freewheeling Belgian metal collective, recorded April 2025, proves improvised music is at its best when the players leave their egos behind at the door, finds Jacob Manieson",
      "listenUrl": null,
      "rank": 12
     }
@@ -3730,7 +3730,7 @@
      "url": "https://thequietus.com/quietus-reviews/album-of-the-week/plastic-alphabet-actual-earth-music-volume-3-4-by-earthball/",
      "date": "2026-06-25T07:54:07.000Z",
      "score": null,
-     "note": "Exploratory Canadians capture lighning in a bottle, marshalling their transcendent free rock into a package that feels joyful, communicating effortlessly",
+     "note": "Exploratory Canadians capture lightning in a bottle, marshalling their transcendent free rock into a package that feels joyful, communicating effortlessly",
      "listenUrl": null,
      "rank": 18
     }
@@ -5484,6 +5484,53 @@
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
   },
   {
+   "id": "sunn-o::sunn-o",
+   "artist": "SUNN O)))",
+   "title": "SUNN O)))",
+   "firstSeen": "2026-10-30T19:10:04.835Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/the-band-whom-the-trees-loved-sunn-o-by-sunn-o/",
+     "date": "2026-04-02T05:30:00.000Z",
+     "score": null,
+     "note": "Stripped back to a two-piece, the latest from the Seattle-born drone monsters returns the group to their thrillingly arboreal roots",
+     "listenUrl": null,
+     "rank": 30
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/04/Sunn-O-by-Charles-Peterson-1007528-700x466.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/SUNN%20O)))%20SUNN%20O)))/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/sunn-o/1839324568",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=SUNN%20O)))%20SUNN%20O)))",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=SUNN%20O)))%20SUNN%20O)))&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/875613322",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-03",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:10:04.835Z",
+   "addedAt": "2026-04-02T05:30:00.000Z",
+   "lastPickAt": "2026-04-02T05:30:00.000Z"
+  },
+  {
    "id": "slayyyter::wor-t-girl-in-america",
    "artist": "Slayyyter",
    "title": "WOR$T GIRL IN AMERICA",
@@ -5620,6 +5667,53 @@
    "releaseDate": "2026-03-20",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "kinact::kinshasa-in-action",
+   "artist": "KinAct",
+   "title": "Kinshasa in Action",
+   "firstSeen": "2026-10-30T19:10:04.835Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/kinact-kinshasa-in-action-review/",
+     "date": "2026-03-26T09:40:14.000Z",
+     "score": null,
+     "note": "Congolese collective build sonic starships ouf of the scrapyards of Africa, transforming ritual into auditory assault",
+     "listenUrl": null,
+     "rank": 31
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/03/KINACT-shot-19-by-Violaine-Morgan-Le-Fur-700x466.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/KinAct%20Kinshasa%20in%20Action/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/kinshasa-in-action/1886474264",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=KinAct%20Kinshasa%20in%20Action",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=KinAct%20Kinshasa%20in%20Action&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/943412351",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-27",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:10:04.835Z",
+   "addedAt": "2026-03-26T09:40:14.000Z",
+   "lastPickAt": "2026-03-26T09:40:14.000Z"
   },
   {
    "id": "underscores::u",
