@@ -1,0 +1,57 @@
+name: Actualizar listas y publicar
+
+on:
+  schedule:
+    - cron: '17 */3 * * *' # cada 3 horas
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ['public/data/**']
+
+# Sin permisos por defecto; cada job pide solo lo que necesita.
+permissions: {}
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # guardar albums.json en el repo
+    steps:
+      # Acciones fijadas por SHA (el comentario indica la versión) para que un tag movido no cambie lo que corre.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+      - name: Descargar listas y resolver links
+        run: node scripts/update.mjs
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      - name: Guardar datos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/albums.json
+          git diff --cached --quiet || git commit -m "Actualizar álbumes $(date -u +%F\ %H:%M)"
+          git push
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
+        with:
+          path: public
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
+      - id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5

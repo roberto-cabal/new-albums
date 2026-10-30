@@ -1,0 +1,5183 @@
+{
+ "updatedAt": "2026-10-30T14:49:40.760Z",
+ "sources": [
+  {
+   "id": "needledrop",
+   "name": "The Needle Drop",
+   "list": "Loved List",
+   "homepage": "https://theneedledrop.com/loved-list/2026/",
+   "ok": true,
+   "error": null,
+   "count": 56,
+   "checkedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "pitchfork",
+   "name": "Pitchfork",
+   "list": "Best New Albums",
+   "homepage": "https://pitchfork.com/reviews/best/albums/",
+   "ok": true,
+   "error": null,
+   "count": 30,
+   "checkedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "stereogum",
+   "name": "Stereogum",
+   "list": "Album of the Week",
+   "homepage": "https://www.stereogum.com/category/reviews/album-of-the-week/",
+   "ok": true,
+   "error": null,
+   "count": 39,
+   "checkedAt": "2026-10-30T14:49:40.760Z"
+  }
+ ],
+ "albums": [
+  {
+   "id": "vanessa-rossetto::the-professional",
+   "artist": "Vanessa Rossetto",
+   "title": "The Professional",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://erstwhilerecords.bandcamp.com/album/the-professional",
+     "rank": 3
+    }
+   ],
+   "cover": null,
+   "genre": null,
+   "addedAt": "2026-10-30T13:42:56.621Z",
+   "lastPickAt": "2026-10-30T13:42:56.621Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Vanessa%20Rossetto%20The%20Professional/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/search?term=Vanessa%20Rossetto%20The%20Professional",
+     "exact": false
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Vanessa%20Rossetto%20The%20Professional",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://erstwhilerecords.bandcamp.com/album/the-professional",
+     "exact": true
+    }
+   },
+   "releaseDate": null,
+   "linksComplete": false,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "leroy::status-update-music",
+   "artist": "leroy",
+   "title": "status update music",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://janeremover.bandcamp.com/album/status-update-music",
+     "rank": 4
+    }
+   ],
+   "cover": null,
+   "genre": null,
+   "addedAt": "2026-10-30T13:42:56.621Z",
+   "lastPickAt": "2026-10-30T13:42:56.621Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/leroy%20status%20update%20music/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/search?term=leroy%20status%20update%20music",
+     "exact": false
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=leroy%20status%20update%20music",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://janeremover.bandcamp.com/album/status-update-music",
+     "exact": true
+    }
+   },
+   "releaseDate": null,
+   "linksComplete": false,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "diiv::zirp",
+   "artist": "DIIV",
+   "title": "ZIRP!",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+     "date": "2026-10-27T20:25:11.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/a3856471150_10_047c1d.jpg",
+   "genre": null,
+   "addedAt": "2026-10-27T20:25:11.000Z",
+   "lastPickAt": "2026-10-27T20:25:11.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/DIIV%20ZIRP!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/zirp/6790597250",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=DIIV%20ZIRP!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=DIIV%20ZIRP!&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-10-30",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "heavensouls::cantu-of-the-sower",
+   "artist": "heavensouls",
+   "title": "\"cantu\" of the sower",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 0
+    },
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/",
+     "date": "2026-10-26T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "An album-length EP by the 20-year-old producer is a dizzying and boundless collage of collages, using free-jazz logic and digital overload to chart new emotional terrain.",
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6adb85c8eb79c260502e90fb/1:1/w_768,c_limit/heavensouls%20Cantu%20of%20the%20sower.jpg",
+   "genre": "Experimental",
+   "addedAt": "2026-10-26T04:03:00.000Z",
+   "lastPickAt": "2026-10-26T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/heavensouls%20%22cantu%22%20of%20the%20sower/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/cantu-of-the-sower/6796075558",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=heavensouls%20%22cantu%22%20of%20the%20sower",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=heavensouls%20%22cantu%22%20of%20the%20sower&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1041550602",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-07",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "brakence::marrow",
+   "artist": "brakence",
+   "title": "marroW",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://www.qobuz.com/us-en/album/marrow-brakence/qk51l8qhg08pm",
+     "rank": 0
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/f9a09fcf05772360180e819835f02f04/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-10-23T12:00:00.000Z",
+   "lastPickAt": "2026-10-23T12:00:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/brakence%20marroW/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/marrow/6814885746",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=brakence%20marroW",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=brakence%20marroW&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1125475692",
+     "exact": true
+    },
+    "qobuz": {
+     "url": "https://www.qobuz.com/us-en/album/marrow-brakence/qk51l8qhg08pm",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-23",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "fine::jazz-dreams",
+   "artist": "Fine",
+   "title": "Jazz dreams",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/",
+     "date": "2026-10-23T04:03:00.000Z",
+     "score": 8.7,
+     "bnm": false,
+     "note": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
+     "listenUrl": null,
+     "rank": 1
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6ab1771595d5696b67afdb2c/1:1/w_768,c_limit/a0271857415_10.jpg",
+   "genre": "Pop/R&B",
+   "addedAt": "2026-10-23T04:03:00.000Z",
+   "lastPickAt": "2026-10-23T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Fine%20Jazz%20dreams/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/jazz-dreams/6804420071",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Fine%20Jazz%20dreams",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Fine%20Jazz%20dreams&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1061005242",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-23",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "alchemical-sisters::alchemical-sisters",
+   "artist": "Alchemical Sisters",
+   "title": "Alchemical Sisters",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/",
+     "date": "2026-10-22T04:03:00.000Z",
+     "score": 8.3,
+     "bnm": false,
+     "note": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
+     "listenUrl": null,
+     "rank": 2
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a885e2c3ebe66b3901a13cd/1:1/w_768,c_limit/Eris-Drew-Octo-Octa-Alchemical-Sisters.jpeg",
+   "genre": "Electronic",
+   "addedAt": "2026-10-22T04:03:00.000Z",
+   "lastPickAt": "2026-10-22T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Alchemical%20Sisters%20Alchemical%20Sisters/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/alchemical-sisters/6813844215",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Alchemical%20Sisters%20Alchemical%20Sisters",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Alchemical%20Sisters%20Alchemical%20Sisters&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1105218542",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-19",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "josh-johnson::animative",
+   "artist": "Josh Johnson",
+   "title": "Animative",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/",
+     "date": "2026-10-20T17:51:53.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 1
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Animative.jpg",
+   "genre": null,
+   "addedAt": "2026-10-20T17:51:53.000Z",
+   "lastPickAt": "2026-10-20T17:51:53.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Josh%20Johnson%20Animative/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/animative/6795766313",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Josh%20Johnson%20Animative",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Josh%20Johnson%20Animative&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-10-23",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "worldpeace-dmt::stick-around-for-tea",
+   "artist": "Worldpeace DMT",
+   "title": "Stick Around for Tea",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/",
+     "date": "2026-10-19T04:03:00.000Z",
+     "score": 8.3,
+     "bnm": false,
+     "note": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
+     "listenUrl": null,
+     "rank": 3
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6ad133ea47a15edc7845996a/1:1/w_768,c_limit/Worldpeace%20DMT%20-%20Stick%20Around%20for%20Tea%20album%20art.jpg",
+   "genre": "Pop/R&B",
+   "addedAt": "2026-10-19T04:03:00.000Z",
+   "lastPickAt": "2026-10-19T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Worldpeace%20DMT%20Stick%20Around%20for%20Tea/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/stick-around-for-tea/6812472458",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Worldpeace%20DMT%20Stick%20Around%20for%20Tea",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Worldpeace%20DMT%20Stick%20Around%20for%20Tea&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1079691752",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-16",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "djrum::dj-kicks",
+   "artist": "Djrum",
+   "title": "DJ-Kicks",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/",
+     "date": "2026-10-17T04:00:00.000Z",
+     "score": 8.4,
+     "bnm": false,
+     "note": "The UK selector throws caution—and genre—to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
+     "listenUrl": null,
+     "rank": 4
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6ad0e91d056973d40b8be89e/1:1/w_768,c_limit/Djrum%20-%20DJ-Kicks.jpg",
+   "genre": "Electronic",
+   "addedAt": "2026-10-17T04:00:00.000Z",
+   "lastPickAt": "2026-10-17T04:00:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Djrum%20DJ-Kicks/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/psychic-video-dj-kicks-single/6785915576",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Djrum%20DJ-Kicks",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Djrum%20DJ-Kicks&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1050589732",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-02",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "the-avalanches::no-bad-memories",
+   "artist": "The Avalanches",
+   "title": "No Bad Memories",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 1
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/636c69416eb6a6b9e9493d4671f4bd66/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-10-16T12:00:00.000Z",
+   "lastPickAt": "2026-10-16T12:00:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/The%20Avalanches%20No%20Bad%20Memories/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/no-bad-memories/6794202148",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=The%20Avalanches%20No%20Bad%20Memories",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=The%20Avalanches%20No%20Bad%20Memories&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1059322172",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-16",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "@::autosmile",
+   "artist": "@",
+   "title": "Autosmile",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/at-sign-autosmile/",
+     "date": "2026-10-16T04:03:00.000Z",
+     "score": 8.6,
+     "bnm": false,
+     "note": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
+     "listenUrl": null,
+     "rank": 5
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a3be91e393fc0fa5a7423cb/1:1/w_768,c_limit/@-Autosmile.jpeg",
+   "genre": "Rock",
+   "addedAt": "2026-10-16T04:03:00.000Z",
+   "lastPickAt": "2026-10-16T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/%40%20Autosmile/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/autosmile/6776384289",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=%40%20Autosmile",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=%40%20Autosmile&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1103263772",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-16",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "godflesh::decay",
+   "artist": "Godflesh",
+   "title": "Decay",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/godflesh-decay-album-review-bhkypakzovq/",
+     "date": "2026-10-14T22:56:11.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 2
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/f93ac4a05846d7457a0d7563f19a1ece/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-10-14T22:56:11.000Z",
+   "lastPickAt": "2026-10-14T22:56:11.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Godflesh%20Decay/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/decay/6779721992",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Godflesh%20Decay",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Godflesh%20Decay&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1004358491",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-25",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "sophia-stel::the-greatest-album-of-all-time",
+   "artist": "Sophia Stel",
+   "title": "the greatest album of all time",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/",
+     "date": "2026-10-13T14:38:41.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 2
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Sophia-Stel-The-Greatest-Album-Of-All-Time.jpg",
+   "genre": null,
+   "addedAt": "2026-10-13T14:38:41.000Z",
+   "lastPickAt": "2026-10-13T14:38:41.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Sophia%20Stel%20the%20greatest%20album%20of%20all%20time/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/the-greatest-album-of-all-time/6808639680",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Sophia%20Stel%20the%20greatest%20album%20of%20all%20time",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Sophia%20Stel%20the%20greatest%20album%20of%20all%20time&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1070880252",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-16",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "jess-williamson::a-mile-south-of-heaven",
+   "artist": "Jess Williamson",
+   "title": "A Mile South of Heaven",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/",
+     "date": "2026-10-13T05:54:08.180Z",
+     "score": 8.4,
+     "bnm": false,
+     "note": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
+     "listenUrl": null,
+     "rank": 6
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6ab178b1e1cdfe6681b364a7/1:1/w_768,c_limit/3605.jpg",
+   "genre": "Folk/Country",
+   "addedAt": "2026-10-13T05:54:08.180Z",
+   "lastPickAt": "2026-10-13T05:54:08.180Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Jess%20Williamson%20A%20Mile%20South%20of%20Heaven/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/a-mile-south-of-heaven/6778575167",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Jess%20Williamson%20A%20Mile%20South%20of%20Heaven",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Jess%20Williamson%20A%20Mile%20South%20of%20Heaven&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1022847451",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-09",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "swans::newly-sentient-being",
+   "artist": "Swans",
+   "title": "Newly Sentient Being",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/swans-newly-sentient-being-album-review-9xsmpdaz-7k/",
+     "date": "2026-10-12T13:28:12.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 4
+    },
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://swans.bandcamp.com/album/newly-sentient-being",
+     "rank": 2
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/67/61/85676142-ad0f-ae20-885c-cd7365aba950/658457060964_cover.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-10-12T13:28:12.000Z",
+   "lastPickAt": "2026-10-12T13:28:12.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Swans%20Newly%20Sentient%20Being/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/newly-sentient-being-live/6792129504",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Swans%20Newly%20Sentient%20Being",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://swans.bandcamp.com/album/newly-sentient-being",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-02",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "marina-herlop::dja-dja",
+   "artist": "Marina Herlop",
+   "title": "Dja Dja",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/",
+     "date": "2026-10-12T04:03:00.000Z",
+     "score": 8.5,
+     "bnm": false,
+     "note": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and more dazzling than anything she’s done to date.",
+     "listenUrl": null,
+     "rank": 7
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a452b81a7029f511eacd6da/1:1/w_768,c_limit/Marina-Herlop-Dja-Dja.jpeg",
+   "genre": "Electronic",
+   "addedAt": "2026-10-12T04:03:00.000Z",
+   "lastPickAt": "2026-10-12T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Marina%20Herlop%20Dja%20Dja/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/dja-dja/6793133608",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Marina%20Herlop%20Dja%20Dja",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Marina%20Herlop%20Dja%20Dja&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1034390172",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-09",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "cameron-winter::live-at-carnegie-hall",
+   "artist": "Cameron Winter",
+   "title": "Live at Carnegie Hall",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/cameron-winter-live-at-carnegie-hall-album-review-ib7gmiqm9xa/",
+     "date": "2026-10-13T12:45:16.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 3
+    },
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall",
+     "rank": 1
+    },
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/",
+     "date": "2026-10-09T04:03:00.000Z",
+     "score": 8.9,
+     "bnm": false,
+     "note": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
+     "listenUrl": null,
+     "rank": 8
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/",
+     "date": "2026-10-06T15:00:16.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 3
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a8374d55eeaf65ef2de9c77/1:1/w_768,c_limit/Live%20at%20Carnegie%20Hall_1500X.jpg",
+   "genre": "Rock",
+   "addedAt": "2026-10-06T15:00:16.000Z",
+   "lastPickAt": "2026-10-13T12:45:16.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Cameron%20Winter%20Live%20at%20Carnegie%20Hall/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/live-at-carnegie-hall/6801645193",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Cameron%20Winter%20Live%20at%20Carnegie%20Hall",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall",
+     "exact": true
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1054542922",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-09",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "300skullsandcounting-jenny-sparks::this-is-spa-town",
+   "artist": "300SkullsAndCounting / Jenny Sparks",
+   "title": "THIS IS SPA TOWN!",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/",
+     "date": "2026-10-01T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "The UK artist brings a frenzy of club-grime provocation and internet humor to his glitched-out emo, but his portrayal of small-town malaise is what makes it a riot.",
+     "listenUrl": null,
+     "rank": 9
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6abd510c90e6bf2bda5674d9/1:1/w_768,c_limit/300SkullsAndCounting%20Jenny%20Sparks%20This%20Is%20Spa%20Town.png",
+   "genre": "Experimental",
+   "addedAt": "2026-10-01T04:03:00.000Z",
+   "lastPickAt": "2026-10-01T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/300SkullsAndCounting%20%2F%20Jenny%20Sparks%20THIS%20IS%20SPA%20TOWN!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/this-is-spa-town/6810312248",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=300SkullsAndCounting%20%2F%20Jenny%20Sparks%20THIS%20IS%20SPA%20TOWN!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=300SkullsAndCounting%20%2F%20Jenny%20Sparks%20THIS%20IS%20SPA%20TOWN!&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1074863162",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "protomartyr::hotel-usona",
+   "artist": "Protomartyr",
+   "title": "Hotel Usona",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/protomartyr-hotel-usona-album-review-uiolbxfsg6q/",
+     "date": "2026-09-30T12:19:11.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 6
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/dd/cc/8cddcc79-f688-f2c3-8bae-0f4d839a4b0a/887828057160.png/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-09-30T12:19:11.000Z",
+   "lastPickAt": "2026-09-30T12:19:11.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Protomartyr%20Hotel%20Usona/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/hotel-usona/6783429344",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Protomartyr%20Hotel%20Usona",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Protomartyr%20Hotel%20Usona&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1012616941",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-25",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "tinashe::popstar",
+   "artist": "Tinashe",
+   "title": "Popstar",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/tinashe-popstar-album-review-zyxjzinfzqc/",
+     "date": "2026-09-30T15:01:10.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 5
+    },
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/tinashe-popstar/",
+     "date": "2026-09-30T04:03:00.000Z",
+     "score": 9,
+     "bnm": false,
+     "note": "Tinashe’s eighth album is her best and bravest yet: more ambitious, more focused, and effortlessly in touch with the zeitgeist. It’s the best pop album of the year.",
+     "listenUrl": null,
+     "rank": 10
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6ab4131ef7ef2378a6776d41/1:1/w_768,c_limit/Tinashe-%20Popstar%20.jpg",
+   "genre": "Pop/R&B",
+   "addedAt": "2026-09-30T04:03:00.000Z",
+   "lastPickAt": "2026-09-30T15:01:10.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Tinashe%20Popstar/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/popstar/6789739137",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Tinashe%20Popstar",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Tinashe%20Popstar&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1026129572",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-25",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "greg-freeman::all-set-the-bone",
+   "artist": "Greg Freeman",
+   "title": "All Set The Bone",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/",
+     "date": "2026-09-29T13:42:50.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 4
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Greg-Freeman-All-Set-The-Bone.jpeg",
+   "genre": null,
+   "addedAt": "2026-09-29T13:42:50.000Z",
+   "lastPickAt": "2026-09-29T13:42:50.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Greg%20Freeman%20All%20Set%20The%20Bone/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/all-set-the-bone/6784790284",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Greg%20Freeman%20All%20Set%20The%20Bone",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Greg%20Freeman%20All%20Set%20The%20Bone&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1013794361",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-02",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "gilla-band::pugnello",
+   "artist": "Gilla Band",
+   "title": "Pugnello",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/gilla-band-pugnello/",
+     "date": "2026-09-25T04:03:00.000Z",
+     "score": 8.8,
+     "bnm": false,
+     "note": "Exploding its signature blend of noise-punk and dance music to masterful extremes, the Irish band gets louder, rawer, funnier, and more methodical on its exhilarating fourth album.",
+     "listenUrl": null,
+     "rank": 11
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/",
+     "date": "2026-09-22T14:08:27.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 5
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6ab1778795d5696b67afdb32/1:1/w_768,c_limit/191402061673.png",
+   "genre": "Rock",
+   "addedAt": "2026-09-22T14:08:27.000Z",
+   "lastPickAt": "2026-09-25T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Gilla%20Band%20Pugnello/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/pugnello/6778540217",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Gilla%20Band%20Pugnello",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Gilla%20Band%20Pugnello&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1069894161",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-25",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "alex-cameron::late-to-set",
+   "artist": "Alex Cameron",
+   "title": "Late to Set",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/alex-cameron-late-to-set-album-review-hdkungce03g/",
+     "date": "2026-09-18T12:48:16.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 7
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/5f/20/cd5f20d4-cf63-981a-73ee-d9f5870538b6/5063960172311_cover.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-09-18T12:48:16.000Z",
+   "lastPickAt": "2026-09-18T12:48:16.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Alex%20Cameron%20Late%20to%20Set/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/late-to-set/1890280512",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Alex%20Cameron%20Late%20to%20Set",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Alex%20Cameron%20Late%20to%20Set&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/953348521",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "standing-on-the-corner::standing-on-the-corner-ii",
+   "artist": "Standing on the Corner",
+   "title": "Standing on the Corner \"II\"",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/standing-on-the-corner-standing-on-the-corner-ii-album-review-e7jocrmhrvw/",
+     "date": "2026-09-17T12:05:26.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 8
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/a2ce91f10c5da76681ba0b11665b2c2d/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-09-17T12:05:26.000Z",
+   "lastPickAt": "2026-09-17T12:05:26.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Standing%20on%20the%20Corner%20Standing%20on%20the%20Corner%20%22II%22/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/standing-on-the-corner-ii/6810745803",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Standing%20on%20the%20Corner%20Standing%20on%20the%20Corner%20%22II%22",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Standing%20on%20the%20Corner%20Standing%20on%20the%20Corner%20%22II%22&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1075808742",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-11",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "slow-pulp::melodie",
+   "artist": "Slow Pulp",
+   "title": "Melodie",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2511446/album-of-the-week-slow-pulp-melodie/reviews/album-of-the-week/",
+     "date": "2026-09-15T15:27:35.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 6
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Slow_Pulp_Melodie_3000.jpeg",
+   "genre": null,
+   "addedAt": "2026-09-15T15:27:35.000Z",
+   "lastPickAt": "2026-09-15T15:27:35.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Slow%20Pulp%20Melodie/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/melodie/6769823972",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Slow%20Pulp%20Melodie",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Slow%20Pulp%20Melodie&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/982951161",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-18",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "chat-pile::who-loves-the-sun",
+   "artist": "Chat Pile",
+   "title": "Who Loves the Sun",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/chat-pile-who-loves-the-sun-album-review-xivxvpzewha/",
+     "date": "2026-09-09T12:43:35.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 9
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/e07e3e7632d66462f645d590d127672f/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-09-09T12:43:35.000Z",
+   "lastPickAt": "2026-09-09T12:43:35.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Chat%20Pile%20Who%20Loves%20the%20Sun/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/who-loves-the-sun/6769103496",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Chat%20Pile%20Who%20Loves%20the%20Sun",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Chat%20Pile%20Who%20Loves%20the%20Sun&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/988884981",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-04",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "this-is-lorelei::the-singer-in-my-band",
+   "artist": "This Is Lorelei",
+   "title": "The Singer In My Band",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2510281/album-of-the-week-this-is-lorelei-the-singer-in-my-band/reviews/album-of-the-week/",
+     "date": "2026-09-08T14:05:45.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 7
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/This-Is-Lorelei-The-Singer-In-My-Band.jpg",
+   "genre": null,
+   "addedAt": "2026-09-08T14:05:45.000Z",
+   "lastPickAt": "2026-09-08T14:05:45.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/This%20Is%20Lorelei%20The%20Singer%20In%20My%20Band/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/the-singer-in-my-band/6774172428",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=This%20Is%20Lorelei%20The%20Singer%20In%20My%20Band",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=This%20Is%20Lorelei%20The%20Singer%20In%20My%20Band&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1058739242",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-11",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "ty-segall::chrome",
+   "artist": "Ty Segall",
+   "title": "Chrome",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/ty-segall-chrome-album-review-ycikgxu_hfu/",
+     "date": "2026-09-04T13:09:24.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 10
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/66/49/ce66499d-b120-92e4-f015-5776a7fa4d7a/781484098027.png/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-09-04T13:09:24.000Z",
+   "lastPickAt": "2026-09-04T13:09:24.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Ty%20Segall%20Chrome/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/chrome/1895415425",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Ty%20Segall%20Chrome",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Ty%20Segall%20Chrome&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/971641211",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-28",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "lex-walton::ultimate-love-forever",
+   "artist": "Lex Walton",
+   "title": "Ultimate Love Forever",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/lex-walton-ultimate-love-forever/",
+     "date": "2026-09-03T04:03:00.000Z",
+     "score": 8.3,
+     "bnm": false,
+     "note": "Earnest and disaffected, ironic and confrontational, the Brooklyn songwriter’s Sub Pop debut channels trans rage into scrappy DIY punk with no patience left.",
+     "listenUrl": null,
+     "rank": 12
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a9857dd83bf94901ac8f2c6/1:1/w_768,c_limit/Lex%20Walton%20-%20Ultimate%20Love%20Forever%20album%20art.png",
+   "genre": "Rock",
+   "addedAt": "2026-09-03T04:03:00.000Z",
+   "lastPickAt": "2026-09-03T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Lex%20Walton%20Ultimate%20Love%20Forever/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/ultimate-love-forever/6791754055",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Lex%20Walton%20Ultimate%20Love%20Forever",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Lex%20Walton%20Ultimate%20Love%20Forever&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1031062762",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-26",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "interpol::this-mirror-weighs-a-ton",
+   "artist": "Interpol",
+   "title": "This Mirror Weighs a Ton",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/interpol-this-mirror-weighs-a-ton-album-review-b3b0xaqakqu/",
+     "date": "2026-09-01T22:24:27.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 11
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/5b5fd451786ea4dda1b85984d9cfa4ac/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-09-01T22:24:27.000Z",
+   "lastPickAt": "2026-09-01T22:24:27.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Interpol%20This%20Mirror%20Weighs%20a%20Ton/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/this-mirror-weighs-a-ton/6768694728",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Interpol%20This%20Mirror%20Weighs%20a%20Ton",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Interpol%20This%20Mirror%20Weighs%20a%20Ton&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/981299781",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-28",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "lily-seabird::lightspheres-on-their-way",
+   "artist": "Lily Seabird",
+   "title": "Lightspheres On Their Way",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2509424/album-of-the-week-lily-seabird-lightspheres-on-their-way/reviews/album-of-the-week/",
+     "date": "2026-09-01T15:42:53.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 8
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/unnamed-2026-08-25T173205.318.jpg",
+   "genre": null,
+   "addedAt": "2026-09-01T15:42:53.000Z",
+   "lastPickAt": "2026-09-01T15:42:53.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Lily%20Seabird%20Lightspheres%20On%20Their%20Way/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/lightspheres-on-their-way/6771438710",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Lily%20Seabird%20Lightspheres%20On%20Their%20Way",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Lily%20Seabird%20Lightspheres%20On%20Their%20Way&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/987359231",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-02",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "denzel-curry-and-kenneth-blume::ii",
+   "artist": "Denzel Curry & Kenneth Blume",
+   "title": "ii",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/denzel-curry-kenneth-blume-ii-album-review-6afnvgzdzb0/",
+     "date": "2026-08-27T22:44:26.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 12
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/78df7ecc02feba801c606eb234c55b5d/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-08-27T22:44:26.000Z",
+   "lastPickAt": "2026-08-27T22:44:26.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Denzel%20Curry%20%26%20Kenneth%20Blume%20ii/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/ii/6788465743",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Denzel%20Curry%20%26%20Kenneth%20Blume%20ii",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Denzel%20Curry%20%26%20Kenneth%20Blume%20ii&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1053829292",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-21",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "open-mike-eagle-and-kenny-segal::doomed",
+   "artist": "Open Mike Eagle & Kenny Segal",
+   "title": "DOOMED!",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/open-mike-eagle-kenny-segal-doomed-album-review-pjvax4ykcqw/",
+     "date": "2026-08-26T14:32:48.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 13
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d2/49/fdd24946-305e-ade3-0209-cdfc2868cd68/5063961889331_cover.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-08-26T14:32:48.000Z",
+   "lastPickAt": "2026-08-26T14:32:48.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Open%20Mike%20Eagle%20%26%20Kenny%20Segal%20DOOMED!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/doomed/6777189951",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Open%20Mike%20Eagle%20%26%20Kenny%20Segal%20DOOMED!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Open%20Mike%20Eagle%20%26%20Kenny%20Segal%20DOOMED!&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/998793451",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-14",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "curio-curio::curio-curio",
+   "artist": "Curió Curió",
+   "title": "Curió Curió",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/curi-curi-self-titled-album-review-kirbrhqfzzu/",
+     "date": "2026-08-26T14:31:10.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 15
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/b3/2f/ddb32fc5-4252-6cab-895d-4e8ce1b2851b/cover.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-08-26T14:31:10.000Z",
+   "lastPickAt": "2026-08-26T14:31:10.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/curi%C3%B3-curi%C3%B3/1893291679",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/961159741",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "maripool::rotten-luck",
+   "artist": "Maripool",
+   "title": "Rotten Luck",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2509250/album-of-the-week-maripool-rotten-luck/reviews/album-of-the-week/",
+     "date": "2026-08-25T15:15:54.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 9
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/image_3-1.jpeg",
+   "genre": null,
+   "addedAt": "2026-08-25T15:15:54.000Z",
+   "lastPickAt": "2026-08-25T15:15:54.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Maripool%20Rotten%20Luck/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/rotten-luck/6800289898",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Maripool%20Rotten%20Luck",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Maripool%20Rotten%20Luck&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1051440252",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-28",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "lambchop::punching-the-clown",
+   "artist": "Lambchop",
+   "title": "Punching the Clown",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/lambchop-punching-the-clown/",
+     "date": "2026-08-25T04:03:00.000Z",
+     "score": 8.5,
+     "bnm": false,
+     "note": "Kurt Wagner reinvents his band yet again, this time slimming down to a bare-bones acoustic setup and stripping away the studio artifice. But his storytelling remains as expansive as ever.",
+     "listenUrl": null,
+     "rank": 13
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a8c5ccc67a78f90c0d9d783/1:1/w_768,c_limit/Lambchop%20-%20Punching%20the%20Clown.jpg",
+   "genre": "Rock",
+   "addedAt": "2026-08-25T04:03:00.000Z",
+   "lastPickAt": "2026-08-25T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Lambchop%20Punching%20the%20Clown/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/punching-the-clown/1892045992",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Lambchop%20Punching%20the%20Clown",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Lambchop%20Punching%20the%20Clown&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-08-21",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "twisted-teens::florida-water-blues",
+   "artist": "Twisted Teens",
+   "title": "Florida Water Blues",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/twisted-teens-florida-water-blues-album-review-szksmuf0m8k/",
+     "date": "2026-08-19T12:46:24.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 19
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/29/e9/f129e944-a215-dd6d-4c80-a8bd4237ece6/artwork.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-08-19T12:46:24.000Z",
+   "lastPickAt": "2026-08-19T12:46:24.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Twisted%20Teens%20Florida%20Water%20Blues/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/florida-water-blues-single/6784953318",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Twisted%20Teens%20Florida%20Water%20Blues",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Twisted%20Teens%20Florida%20Water%20Blues&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1012903461",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-07",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "no-cure::it-is-going-to-get-dark",
+   "artist": "No Cure",
+   "title": "It Is Going to Get Dark",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/no-cure-it-is-going-to-get-dark-album-review-ygtuxv3vh-u/",
+     "date": "2026-08-19T12:34:44.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 17
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/019c1c179da034cae78a102dbd839ef3/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-08-19T12:34:44.000Z",
+   "lastPickAt": "2026-08-19T12:34:44.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/No%20Cure%20It%20Is%20Going%20to%20Get%20Dark/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/it-is-going-to-get-dark/6764899702",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=No%20Cure%20It%20Is%20Going%20to%20Get%20Dark",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=No%20Cure%20It%20Is%20Going%20to%20Get%20Dark&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/972957011",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-10",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "westside-cowboy::it-goes-on",
+   "artist": "Westside Cowboy",
+   "title": "It Goes On",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/",
+     "date": "2026-08-18T14:16:12.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 10
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/Westside-Cowboy-It-Goes-On.jpg",
+   "genre": null,
+   "addedAt": "2026-08-18T14:16:12.000Z",
+   "lastPickAt": "2026-08-18T14:16:12.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Westside%20Cowboy%20It%20Goes%20On/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/it-goes-on/6768651964",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Westside%20Cowboy%20It%20Goes%20On",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Westside%20Cowboy%20It%20Goes%20On&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1053836512",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-21",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "phoebe-bridgers::lost-weekend",
+   "artist": "Phoebe Bridgers",
+   "title": "Lost Weekend",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 14
+    },
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/",
+     "date": "2026-08-13T04:03:00.000Z",
+     "score": 8.4,
+     "bnm": false,
+     "note": "For her third solo album, Phoebe Bridgers expands and contracts, capturing experiences that are strange, solitary, and hers alone. It is the quietest, most cohesive record in her discography.",
+     "listenUrl": null,
+     "rank": 15
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a3bde6801a6ab17fa387818/1:1/w_768,c_limit/unnamed%20(48).jpg",
+   "genre": "Folk/Country",
+   "addedAt": "2026-08-13T04:03:00.000Z",
+   "lastPickAt": "2026-08-13T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Phoebe%20Bridgers%20Lost%20Weekend/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/lost-weekend/6781051268",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Phoebe%20Bridgers%20Lost%20Weekend",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Phoebe%20Bridgers%20Lost%20Weekend&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1050716582",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-14",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "nino-paid::somewhere-over-the-rainbow",
+   "artist": "Nino Paid",
+   "title": "Somewhere Over the Rainbow",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/nino-paid-somewhere-over-the-rainbow/",
+     "date": "2026-08-12T04:03:00.000Z",
+     "score": 8.3,
+     "bnm": false,
+     "note": "There are many rappers out there who dig deep into their lives for heavy stories of pain and sorrow. The DMV rapper does this too, but he elevates the art form to a whole new level.",
+     "listenUrl": null,
+     "rank": 16
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a70ef5fe24a0e2460878423/1:1/w_768,c_limit/196874628348.jpg",
+   "genre": "Rap",
+   "addedAt": "2026-08-12T04:03:00.000Z",
+   "lastPickAt": "2026-08-12T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Nino%20Paid%20Somewhere%20Over%20the%20Rainbow/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/somewhere-over-the-rainbow/6796756524",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Nino%20Paid%20Somewhere%20Over%20the%20Rainbow",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Nino%20Paid%20Somewhere%20Over%20the%20Rainbow&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1043194762",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-04",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "l-rain::fata-morgana",
+   "artist": "L’Rain",
+   "title": "fata morgana",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/lrain-fata-morgana/",
+     "date": "2026-08-14T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "The experimental Brooklyn project returns with a serene and spectral new album, using an ever-shifting musical backdrop to explore themes of illusion and doubt.",
+     "listenUrl": null,
+     "rank": 14
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2507540/album-of-the-week-lrain-fata-morgana/reviews/album-of-the-week/",
+     "date": "2026-08-11T14:42:49.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 11
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a29d6e31e3965e99ceed885/1:1/w_768,c_limit/L'Rain%20-%20fata%20morgana%20album%20art.jpg",
+   "genre": "Experimental",
+   "addedAt": "2026-08-11T14:42:49.000Z",
+   "lastPickAt": "2026-08-14T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/L%E2%80%99Rain%20fata%20morgana/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/fata-morgana/6768756916",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=L%E2%80%99Rain%20fata%20morgana",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=L%E2%80%99Rain%20fata%20morgana&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/981421871",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-14",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "swaggerboyz::perdiendo-rasgos-adolescentes",
+   "artist": "Swaggerboyz",
+   "title": "PERDIENDO RASGOS ADOLESCENTES",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/swaggerboyz-perdiendo-rasgos-adolescentes-album-review/",
+     "date": "2026-08-11T14:34:04.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 16
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/32/66/0b3266a8-a9d5-95f6-882e-9fcdac01ac9b/885288027136.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-08-11T14:34:04.000Z",
+   "lastPickAt": "2026-08-11T14:34:04.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Swaggerboyz%20PERDIENDO%20RASGOS%20ADOLESCENTES/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/perdiendo-rasgos-adolescentes/6790923844",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Swaggerboyz%20PERDIENDO%20RASGOS%20ADOLESCENTES",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Swaggerboyz%20PERDIENDO%20RASGOS%20ADOLESCENTES&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-07-23",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "ceremony::tell-me-your-dream",
+   "artist": "Ceremony",
+   "title": "Tell Me Your Dream",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2506867/album-of-the-week-ceremony-tell-me-your-dream/reviews/album-of-the-week/",
+     "date": "2026-08-04T14:25:33.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 12
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Ceremony-Tell-Me-Your-Dream.jpg",
+   "genre": null,
+   "addedAt": "2026-08-04T14:25:33.000Z",
+   "lastPickAt": "2026-08-04T14:25:33.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Ceremony%20Tell%20Me%20Your%20Dream/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/tell-me-your-dream/6768712658",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Ceremony%20Tell%20Me%20Your%20Dream",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Ceremony%20Tell%20Me%20Your%20Dream&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/981350091",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-07",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "mallory-hawk::chinook",
+   "artist": "Mallory Hawk",
+   "title": "Chinook",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/",
+     "date": "2026-07-28T17:00:13.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 13
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Mallory-Hawk-Chinook-Cover-final-1-scaled-2.jpg",
+   "genre": null,
+   "addedAt": "2026-07-28T17:00:13.000Z",
+   "lastPickAt": "2026-07-28T17:00:13.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Mallory%20Hawk%20Chinook/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/chinook/1895766308",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Mallory%20Hawk%20Chinook",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Mallory%20Hawk%20Chinook&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/971586081",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-31",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "slayr::avant-nova",
+   "artist": "slayr",
+   "title": "AVANT NOVA (EP)",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/slayr-avant-nova-ep-review-qdksmqvci7s/",
+     "date": "2026-07-27T15:23:16.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 20
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/47/bf/c447bf4e-0b3f-e278-4665-bebe8a087cf5/196874554166.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-07-27T15:23:16.000Z",
+   "lastPickAt": "2026-07-27T15:23:16.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/slayr%20AVANT%20NOVA%20(EP)/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/avant-nova-ep/6786787330",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=slayr%20AVANT%20NOVA%20(EP)",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=slayr%20AVANT%20NOVA%20(EP)&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-07-10",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "picture::uuuuuuuu",
+   "artist": "Picture",
+   "title": "Uuuuuuuu",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/picture-uuuuuuuu/",
+     "date": "2026-07-27T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "Natal Zaks brings dub techno to a higher level on an energetic and atmospheric 2x12\", another pin in the lapel of the new and outstanding Short Span label.",
+     "listenUrl": null,
+     "rank": 17
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a63b68adf8edba43266a72a/1:1/w_768,c_limit/Picture%20Uuuuuuuu.jpg",
+   "genre": "Electronic",
+   "addedAt": "2026-07-27T04:03:00.000Z",
+   "lastPickAt": "2026-07-27T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Picture%20Uuuuuuuu/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/uuuuuuuu/6821957116",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Picture%20Uuuuuuuu",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Picture%20Uuuuuuuu&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1119584992",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-19",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "nia-archives::emotional-junglist",
+   "artist": "Nia Archives",
+   "title": "Emotional Junglist",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/nia-archives-emotional-junglist-album-review-gf18oakoj0u/",
+     "date": "2026-07-24T13:18:49.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 21
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/04/ea/cd04ea55-727d-782a-5ca6-265e0ecc1040/26UMGIM39397.rgb.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-07-24T13:18:49.000Z",
+   "lastPickAt": "2026-07-24T13:18:49.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Nia%20Archives%20Emotional%20Junglist/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/emotional-junglist/1892437345",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Nia%20Archives%20Emotional%20Junglist",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Nia%20Archives%20Emotional%20Junglist&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1025538962",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-17",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "charli-xcx::music-fashion-film",
+   "artist": "Charli xcx",
+   "title": "Music, Fashion, Film",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/charli-xcx-music-fashion-film-album-review-jwfzslpasjy/",
+     "date": "2026-07-30T18:53:57.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 18
+    },
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/charli-xcx-music-fashion-film/",
+     "date": "2026-07-24T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "On the follow-up to BRAT, the pop auteur pivots to a referential, proudly tossed-off rock sound that offers mystifying glances behind the curtain of stardom.",
+     "listenUrl": null,
+     "rank": 18
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a1d8c4a7bd12195f2446647/1:1/w_768,c_limit/Charli-XCX-Music-Fashion-Film.jpeg",
+   "genre": "Pop/R&B",
+   "addedAt": "2026-07-24T04:03:00.000Z",
+   "lastPickAt": "2026-07-30T18:53:57.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Charli%20xcx%20Music%2C%20Fashion%2C%20Film/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/music-fashion-film-b-sides-edition/6794163232",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Charli%20xcx%20Music%2C%20Fashion%2C%20Film",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Charli%20xcx%20Music%2C%20Fashion%2C%20Film&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1034857732",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-26",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "ꉺლ-இ-ꉺლ::ʅ-o-o",
+   "artist": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ",
+   "title": "ʅ():: ● o ● o ● ҈҈҈҈҈ :()(...",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/four-tet-weird-album-name-review/",
+     "date": "2026-07-21T17:29:17.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 22
+    }
+   ],
+   "cover": null,
+   "genre": null,
+   "addedAt": "2026-07-21T17:29:17.000Z",
+   "lastPickAt": "2026-07-21T17:29:17.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E%20%E0%BC%8E%E0%BA%B6%20%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96%20%EA%89%BA%E1%83%9A%20%CA%85()%3A%3A%20%E2%97%8F%20o%20%E2%97%8F%20o%20%E2%97%8F%20%D2%88%D2%88%D2%88%D2%88%D2%88%20%3A()(.../albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/search?term=%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E%20%E0%BC%8E%E0%BA%B6%20%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96%20%EA%89%BA%E1%83%9A%20%CA%85()%3A%3A%20%E2%97%8F%20o%20%E2%97%8F%20o%20%E2%97%8F%20%D2%88%D2%88%D2%88%D2%88%D2%88%20%3A()(...",
+     "exact": false
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E%20%E0%BC%8E%E0%BA%B6%20%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96%20%EA%89%BA%E1%83%9A%20%CA%85()%3A%3A%20%E2%97%8F%20o%20%E2%97%8F%20o%20%E2%97%8F%20%D2%88%D2%88%D2%88%D2%88%D2%88%20%3A()(...",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E%20%E0%BC%8E%E0%BA%B6%20%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96%20%EA%89%BA%E1%83%9A%20%CA%85()%3A%3A%20%E2%97%8F%20o%20%E2%97%8F%20o%20%E2%97%8F%20%D2%88%D2%88%D2%88%D2%88%D2%88%20%3A()(...&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": null,
+   "linksComplete": false,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "nick-hakim::i-can-see",
+   "artist": "Nick Hakim",
+   "title": "I Can See",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/",
+     "date": "2026-07-21T13:38:43.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 14
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/unnamed-2026-07-15T163831.418.jpg",
+   "genre": null,
+   "addedAt": "2026-07-21T13:38:43.000Z",
+   "lastPickAt": "2026-07-21T13:38:43.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Nick%20Hakim%20I%20Can%20See/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/i-can-see/6769136946",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Nick%20Hakim%20I%20Can%20See",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Nick%20Hakim%20I%20Can%20See&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/982213821",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "quicksand::bring-on-the-psychics",
+   "artist": "Quicksand",
+   "title": "Bring On The Psychics",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2504902/album-of-the-week-quicksand-bring-on-the-psychics/reviews/album-of-the-week/",
+     "date": "2026-07-14T14:00:20.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 15
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Quicksand-Bring-On-The-Psychics.jpg",
+   "genre": null,
+   "addedAt": "2026-07-14T14:00:20.000Z",
+   "lastPickAt": "2026-07-14T14:00:20.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Quicksand%20Bring%20On%20The%20Psychics/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/bring-on-the-psychics/1889232715",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Quicksand%20Bring%20On%20The%20Psychics",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Quicksand%20Bring%20On%20The%20Psychics&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-07-17",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "nirosta-steel::my-skyscraper",
+   "artist": "Nirosta Steel",
+   "title": "My Skyscraper",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/",
+     "date": "2026-07-09T04:03:00.000Z",
+     "score": 9,
+     "bnm": false,
+     "note": "The longtime Arthur Russell collaborator finally gets a solo exhibition: a gorgeously realized and fundamentally incomplete work of sensual art-folk, leftfield disco, and experimental synth-pop. It’s at once an archival triumph and one of the year’s most thrilling new releases.",
+     "listenUrl": null,
+     "rank": 19
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a4ea158145e5bc58a483445/1:1/w_768,c_limit/Nirosta%20Steel%20-%20My%20Skyscraper%20album%20art.jpg",
+   "genre": "Experimental",
+   "addedAt": "2026-07-09T04:03:00.000Z",
+   "lastPickAt": "2026-07-09T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Nirosta%20Steel%20My%20Skyscraper/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/my-skyscraper/6769192019",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Nirosta%20Steel%20My%20Skyscraper",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Nirosta%20Steel%20My%20Skyscraper&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/982330701",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-29",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "kelela::new-avatar",
+   "artist": "Kelela",
+   "title": "new avatar",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/kelela-new-avatar-album-review-p6iipuvb17q/",
+     "date": "2026-07-17T19:39:10.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 23
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/",
+     "date": "2026-07-07T15:40:20.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 16
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/a1820018607_10.jpg",
+   "genre": null,
+   "addedAt": "2026-07-07T15:40:20.000Z",
+   "lastPickAt": "2026-07-17T19:39:10.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Kelela%20new%20avatar/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/new-avatar/1888561538",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Kelela%20new%20avatar",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Kelela%20new%20avatar&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/949008581",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-10",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "kelsey-lu::so-help-me-god",
+   "artist": "Kelsey Lu",
+   "title": "So Help Me God",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/kelsey-lu-so-help-me-god/",
+     "date": "2026-06-30T17:40:10.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 26
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/0f4b9b57d66c1da65b0b8d63ac924cde/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-06-30T17:40:10.000Z",
+   "lastPickAt": "2026-06-30T17:40:10.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Kelsey%20Lu%20So%20Help%20Me%20God/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/so-help-me-god/1876521144",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Kelsey%20Lu%20So%20Help%20Me%20God",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Kelsey%20Lu%20So%20Help%20Me%20God&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/916637351",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-12",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "nixon-boyd::every-time-we-turn-a-corner",
+   "artist": "Nixon Boyd",
+   "title": "Every Time We Turn A Corner",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2503205/album-of-the-week-nixon-boyd-every-time-we-turn-a-corner/reviews/album-of-the-week/",
+     "date": "2026-06-30T13:09:35.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 17
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/download-1.jpeg",
+   "genre": null,
+   "addedAt": "2026-06-30T13:09:35.000Z",
+   "lastPickAt": "2026-06-30T13:09:35.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Nixon%20Boyd%20Every%20Time%20We%20Turn%20A%20Corner/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/every-time-we-turn-a-corner/1875803297",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Nixon%20Boyd%20Every%20Time%20We%20Turn%20A%20Corner",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Nixon%20Boyd%20Every%20Time%20We%20Turn%20A%20Corner&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/914751641",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-03",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "sml::spontaneous-music-live",
+   "artist": "SML",
+   "title": "Spontaneous Music Live",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/sml-spontaneous-music-live/",
+     "date": "2026-07-03T15:21:09.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 25
+    },
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/sml-spontaneous-music-live/",
+     "date": "2026-06-30T04:03:00.000Z",
+     "score": 8.4,
+     "bnm": false,
+     "note": "The L.A. improv quintet made its first two LPs by remixing key moments from its gigs; now, on a pair of astonishing unedited live takes, the group proves that performance is the heart of its music.",
+     "listenUrl": null,
+     "rank": 20
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a42a44b70798f2594513ffc/1:1/w_768,c_limit/SML%20-%20Spontaneous%20Music%20Live.jpg",
+   "genre": "Electronic",
+   "addedAt": "2026-06-30T04:03:00.000Z",
+   "lastPickAt": "2026-07-03T15:21:09.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/SML%20Spontaneous%20Music%20Live/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/spontaneous-music-live/1892919451",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=SML%20Spontaneous%20Music%20Live",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=SML%20Spontaneous%20Music%20Live&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-06-26",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "tierra-whack::whack-s-museum",
+   "artist": "Tierra Whack",
+   "title": "WHACK'S MUSEUM",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/tierra-whack-whacks-museum/",
+     "date": "2026-06-25T14:21:11.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 27
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/3d/16/593d1699-7a94-ddc4-908e-eb48aed1ce87/26UMGIM65013.rgb.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-06-25T14:21:11.000Z",
+   "lastPickAt": "2026-06-25T14:21:11.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Tierra%20Whack%20WHACK'S%20MUSEUM/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/whacks-museum/6779443177",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Tierra%20Whack%20WHACK'S%20MUSEUM",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Tierra%20Whack%20WHACK'S%20MUSEUM&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1007413391",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-18",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "tasha::you-are-spring",
+   "artist": "Tasha",
+   "title": "You Are Spring!",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/",
+     "date": "2026-06-23T15:51:36.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 18
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/download-9.png",
+   "genre": null,
+   "addedAt": "2026-06-23T15:51:36.000Z",
+   "lastPickAt": "2026-06-23T15:51:36.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Tasha%20You%20Are%20Spring!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/you-are-spring/1887589690",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Tasha%20You%20Are%20Spring!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Tasha%20You%20Are%20Spring!&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/946471951",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-26",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "styrofoam-winos::any-river",
+   "artist": "Styrofoam Winos",
+   "title": "Any River",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2502000/album-of-the-week-styrofoam-winos-any-river/reviews/album-of-the-week/",
+     "date": "2026-06-16T14:51:24.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 19
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1568021251_10-1.jpg",
+   "genre": null,
+   "addedAt": "2026-06-16T14:51:24.000Z",
+   "lastPickAt": "2026-06-16T14:51:24.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Styrofoam%20Winos%20Any%20River/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/any-river/1880736660",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Styrofoam%20Winos%20Any%20River",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Styrofoam%20Winos%20Any%20River&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/928844991",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-19",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "olivia-rodrigo::you-seem-pretty-sad-for-a-girl-so-in-love",
+   "artist": "Olivia Rodrigo",
+   "title": "you seem pretty sad for a girl so in love",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/",
+     "date": "2026-06-22T19:00:29.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 28
+    },
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/",
+     "date": "2026-06-12T04:03:00.000Z",
+     "score": 8.3,
+     "bnm": false,
+     "note": "The pop star’s third album is a heartbreaking account of an intense romance and its demise. Its mood is perfectly reflected in the music, and her evolution as a songwriter is a sight to behold.",
+     "listenUrl": null,
+     "rank": 21
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a1064f4cdd971dc49dbe97b/1:1/w_768,c_limit/Olivia%20Rodrigo%20-%20You%20Seem%20Pretty%20Sad%20for%20a%20Girl%20So%20in%20Love%20album%20art%20(no%20sticker).png",
+   "genre": "Pop/R&B",
+   "addedAt": "2026-06-12T04:03:00.000Z",
+   "lastPickAt": "2026-06-22T19:00:29.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Olivia%20Rodrigo%20you%20seem%20pretty%20sad%20for%20a%20girl%20so%20in%20love/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/6779097512",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Olivia%20Rodrigo%20you%20seem%20pretty%20sad%20for%20a%20girl%20so%20in%20love",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Olivia%20Rodrigo%20you%20seem%20pretty%20sad%20for%20a%20girl%20so%20in%20love&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1002561451",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-12",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "wiki::ancient-history",
+   "artist": "Wiki",
+   "title": "Ancient History",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/",
+     "date": "2026-06-09T14:58:56.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 20
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Wiki-Ancient-History.jpg",
+   "genre": null,
+   "addedAt": "2026-06-09T14:58:56.000Z",
+   "lastPickAt": "2026-06-09T14:58:56.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Wiki%20Ancient%20History/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/ancient-history/1896019015",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Wiki%20Ancient%20History",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Wiki%20Ancient%20History&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/973640761",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-12",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "b0yg1rl-novagang::exit-2b",
+   "artist": "B0YG1RL / Novagang",
+   "title": "EXIT 2B",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/",
+     "date": "2026-06-09T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "The Miami duo’s electrifying, boundary-bending combination of Haitian kompa, underground rap, reggaeton, electro-pop, and baile funk is loud as hell and rich in egalitarian spirit.",
+     "listenUrl": null,
+     "rank": 22
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a0b5f507fc6f92eeff4275c/1:1/w_768,c_limit/B0YG1RL:%20EXIT%202B.jpg",
+   "genre": "Electronic",
+   "addedAt": "2026-06-09T04:03:00.000Z",
+   "lastPickAt": "2026-06-09T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/B0YG1RL%20%2F%20Novagang%20EXIT%202B/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/exit-2b/6769526101",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=B0YG1RL%20%2F%20Novagang%20EXIT%202B",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=B0YG1RL%20%2F%20Novagang%20EXIT%202B&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/983030841",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-18",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "iceage::for-love-of-grace-and-the-hereafter",
+   "artist": "Iceage",
+   "title": "For Love of Grace & the Hereafter",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/iceage-for-love-of-grace-the-hereafter/",
+     "date": "2026-06-04T11:52:07.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 29
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/663157ef2287ac5bbb21a7795b61183c/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-06-04T11:52:07.000Z",
+   "lastPickAt": "2026-06-04T11:52:07.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Iceage%20For%20Love%20of%20Grace%20%26%20the%20Hereafter/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/for-love-of-grace-the-hereafter/1880484160",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Iceage%20For%20Love%20of%20Grace%20%26%20the%20Hereafter",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Iceage%20For%20Love%20of%20Grace%20%26%20the%20Hereafter&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/928265631",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-29",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "slippers::slippers-08",
+   "artist": "Slippers",
+   "title": "Slippers 08",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2500983/album-of-the-week-slippers-slippers-08/reviews/album-of-the-week/",
+     "date": "2026-06-02T16:05:14.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 21
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1243030580_10.jpg",
+   "genre": null,
+   "addedAt": "2026-06-02T16:05:14.000Z",
+   "lastPickAt": "2026-06-02T16:05:14.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Slippers%20Slippers%2008/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/slippers-08/1883100068",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Slippers%20Slippers%2008",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Slippers%20Slippers%2008&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/934247461",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-05",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "genesis-owusu::redstar-wu-and-the-worldwide-scourge",
+   "artist": "Genesis Owusu",
+   "title": "Redstar Wu & the Worldwide Scourge",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/genesis-owusu-redstar-wu-the-worldwide-scourge/",
+     "date": "2026-05-29T16:31:02.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 30
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/706fd8ee89513b7bea5de80753ad820c/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-05-29T16:31:02.000Z",
+   "lastPickAt": "2026-05-29T16:31:02.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Genesis%20Owusu%20Redstar%20Wu%20%26%20the%20Worldwide%20Scourge/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/redstar-wu-the-worldwide-scourge/1887196431",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Genesis%20Owusu%20Redstar%20Wu%20%26%20the%20Worldwide%20Scourge",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Genesis%20Owusu%20Redstar%20Wu%20%26%20the%20Worldwide%20Scourge&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/945270951",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-15",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "boards-of-canada::inferno",
+   "artist": "Boards of Canada",
+   "title": "Inferno",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/boards-of-canada-inferno/",
+     "date": "2026-05-29T04:03:00.000Z",
+     "score": 8.6,
+     "bnm": false,
+     "note": "Laced with occult imagery and enigmatic samples, the Scottish duo’s immersive new album—their first in 13 years—offers some of the most captivating music of their career.",
+     "listenUrl": null,
+     "rank": 23
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6a184638c26aa3f286532e4a/1:1/w_768,c_limit/Boards%20of%20Canada%20Inferno.png",
+   "genre": "Electronic",
+   "addedAt": "2026-05-29T04:03:00.000Z",
+   "lastPickAt": "2026-05-29T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Boards%20of%20Canada%20Inferno/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/inferno/1890015523",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Boards%20of%20Canada%20Inferno",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Boards%20of%20Canada%20Inferno&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/992223821",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-29",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "ear::rumspringa",
+   "artist": "ear",
+   "title": "Rumspringa",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2500138/album-of-the-week-ear-rumspringa/reviews/album-of-the-week/",
+     "date": "2026-05-26T19:30:31.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 22
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/ear-Rumspringa.jpg",
+   "genre": null,
+   "addedAt": "2026-05-26T19:30:31.000Z",
+   "lastPickAt": "2026-05-26T19:30:31.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/ear%20Rumspringa/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/rumspringa/6766858352",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=ear%20Rumspringa",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=ear%20Rumspringa&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/976882981",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-29",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "lowertown::ugly-duckling-union",
+   "artist": "Lowertown",
+   "title": "Ugly Duckling Union",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2499260/album-of-the-week-lowertown-ugly-duckling-union/reviews/album-of-the-week/",
+     "date": "2026-05-19T19:19:40.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 23
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Lowertown-Album-Art-Ugly-Duckling-Union.jpg",
+   "genre": null,
+   "addedAt": "2026-05-19T19:19:40.000Z",
+   "lastPickAt": "2026-05-19T19:19:40.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Lowertown%20Ugly%20Duckling%20Union/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/ugly-duckling-union/1872171971",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Lowertown%20Ugly%20Duckling%20Union",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Lowertown%20Ugly%20Duckling%20Union&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/905631762",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-22",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "the-lemon-twigs::look-for-your-mind",
+   "artist": "The Lemon Twigs",
+   "title": "Look for Your Mind!",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/the-lemon-twigs-look-for-your-mind/",
+     "date": "2026-05-14T16:03:01.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 32
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/8b/c8/668bc89c-6bff-2485-6d84-4ab11b8abed2/cover.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-05-14T16:03:01.000Z",
+   "lastPickAt": "2026-05-14T16:03:01.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/The%20Lemon%20Twigs%20Look%20for%20Your%20Mind!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/look-for-your-mind/6789935518",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=The%20Lemon%20Twigs%20Look%20for%20Your%20Mind!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=The%20Lemon%20Twigs%20Look%20for%20Your%20Mind!&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1030560442",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-08",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "touch-girl-apple-blossom::graceful",
+   "artist": "Touch Girl Apple Blossom",
+   "title": "Graceful",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2498695/album-of-the-week-touch-girl-apple-blossom-graceful/reviews/album-of-the-week/",
+     "date": "2026-05-12T20:10:47.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 24
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/tgab.jpg",
+   "genre": null,
+   "addedAt": "2026-05-12T20:10:47.000Z",
+   "lastPickAt": "2026-05-12T20:10:47.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Touch%20Girl%20Apple%20Blossom%20Graceful/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/graceful/1872109276",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Touch%20Girl%20Apple%20Blossom%20Graceful",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Touch%20Girl%20Apple%20Blossom%20Graceful&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/905469442",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-15",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "aldous-harding::train-on-the-island",
+   "artist": "Aldous Harding",
+   "title": "Train on the Island",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/",
+     "date": "2026-05-08T04:03:00.000Z",
+     "score": 9,
+     "bnm": false,
+     "note": "On her spellbinding fifth album, Aldous Harding steps closer than ever to the camera lens without coming into focus. It’s an oblique character study of herself, and the best album of her career so far.",
+     "listenUrl": null,
+     "rank": 24
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/",
+     "date": "2026-05-05T17:30:31.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 25
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/69a74be0d195be68418183f5/1:1/w_768,c_limit/aldous%20harding%20train%20on%20the%20island.png",
+   "genre": "Folk/Country",
+   "addedAt": "2026-05-05T17:30:31.000Z",
+   "lastPickAt": "2026-05-08T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Aldous%20Harding%20Train%20on%20the%20Island/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/train-on-the-island/1876846303",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Aldous%20Harding%20Train%20on%20the%20Island",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Aldous%20Harding%20Train%20on%20the%20Island&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/962725431",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-08",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "ana-roxanne::poem-1",
+   "artist": "Ana Roxanne",
+   "title": "Poem 1",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/",
+     "date": "2026-05-05T04:03:00.000Z",
+     "score": 8.6,
+     "bnm": false,
+     "note": "The ambient musician’s new album is a tremendous leap in scale, a quiet conjuring of vast, prayerlike yearning.",
+     "listenUrl": null,
+     "rank": 25
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/699483a0916d569fd95d34db/1:1/w_768,c_limit/Ana-Roxanne-Poem-1.jpeg",
+   "genre": "Experimental",
+   "addedAt": "2026-05-05T04:03:00.000Z",
+   "lastPickAt": "2026-05-05T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Ana%20Roxanne%20Poem%201/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/poem-1/1876977313",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Ana%20Roxanne%20Poem%201",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Ana%20Roxanne%20Poem%201&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/917903281",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-01",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "lip-critic::theft-world",
+   "artist": "Lip Critic",
+   "title": "Theft World",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/lip-critic-theft-world/",
+     "date": "2026-05-22T12:15:10.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 31
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2497108/album-of-the-week-lip-critic-theft-world/reviews/album-of-the-week/",
+     "date": "2026-04-28T16:01:05.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 26
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Theft-World.jpg",
+   "genre": null,
+   "addedAt": "2026-04-28T16:01:05.000Z",
+   "lastPickAt": "2026-05-22T12:15:10.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Lip%20Critic%20Theft%20World/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/theft-world/1852812554",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Lip%20Critic%20Theft%20World",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Lip%20Critic%20Theft%20World&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/855538852",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-01",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "kaataira::caminhos-de-agua",
+   "artist": "Kaátaìra",
+   "title": "Caminhos de Água",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://kaatayra.bandcamp.com/album/caminhos-de-gua",
+     "rank": 5
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/f1/a4/94f1a4b8-61cc-f049-c8a5-b005bdc42216/7333583275293.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-04-24T12:00:00.000Z",
+   "lastPickAt": "2026-04-24T12:00:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Ka%C3%A1ta%C3%ACra%20Caminhos%20de%20%C3%81gua/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/caminhos-de-%C3%A1gua/6768540877",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Ka%C3%A1ta%C3%ACra%20Caminhos%20de%20%C3%81gua",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://kaatayra.bandcamp.com/album/caminhos-de-gua",
+     "exact": true
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/980957941",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "starker::living-type-dangerous-vol-1",
+   "artist": "Starker",
+   "title": "LIVING TYPE DANGEROUS Vol. 1",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/starker-living-type-dangerous-vol-1/",
+     "date": "2026-04-23T04:03:00.000Z",
+     "score": 8.4,
+     "bnm": false,
+     "note": "Retro but never dusty, the rapper’s brilliantly bugged-out new tape sounds like a New York that hardly exists anymore.",
+     "listenUrl": null,
+     "rank": 26
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/69e91650556614c9bfc04bcd/1:1/w_768,c_limit/Starker%20-%20LIVING%20TYPE%20DANGEROUS%20Vol.%201%20album%20art.jpg",
+   "genre": "Rap",
+   "addedAt": "2026-04-23T04:03:00.000Z",
+   "lastPickAt": "2026-04-23T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Starker%20LIVING%20TYPE%20DANGEROUS%20Vol.%201/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/search?term=Starker%20LIVING%20TYPE%20DANGEROUS%20Vol.%201",
+     "exact": false
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Starker%20LIVING%20TYPE%20DANGEROUS%20Vol.%201",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Starker%20LIVING%20TYPE%20DANGEROUS%20Vol.%201&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": null,
+   "linksComplete": false,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "carla-dal-forno::confession",
+   "artist": "Carla dal Forno",
+   "title": "Confession",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2496478/album-of-the-week-carla-dal-forno-confession/reviews/album-of-the-week/",
+     "date": "2026-04-21T18:45:12.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 27
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Carla-Dal-Forno-Confession.jpg",
+   "genre": null,
+   "addedAt": "2026-04-21T18:45:12.000Z",
+   "lastPickAt": "2026-04-21T18:45:12.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Carla%20dal%20Forno%20Confession/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/confession/1875260543",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Carla%20dal%20Forno%20Confession",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Carla%20dal%20Forno%20Confession&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/913273941",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "jessie-ware::superbloom",
+   "artist": "Jessie Ware",
+   "title": "Superbloom",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/jessie-ware-superbloom/",
+     "date": "2026-04-21T17:19:45.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 33
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/ab/34/50ab34f5-11bc-5e78-9c43-80aca9e301b4/25UM2IM06906.rgb.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-04-21T17:19:45.000Z",
+   "lastPickAt": "2026-04-21T17:19:45.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Jessie%20Ware%20Superbloom/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/superbloom/1869414259",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Jessie%20Ware%20Superbloom",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Jessie%20Ware%20Superbloom&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/958349621",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-17",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "winston-hightower::100-acre-wood",
+   "artist": "Winston Hightower",
+   "title": "100 Acre Wood",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2495758/album-of-the-week-winston-hightower-100-acre-wood/reviews/album-of-the-week/",
+     "date": "2026-04-14T19:07:09.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 28
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/100-Acre-Wood.jpg",
+   "genre": null,
+   "addedAt": "2026-04-14T19:07:09.000Z",
+   "lastPickAt": "2026-04-14T19:07:09.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Winston%20Hightower%20100%20Acre%20Wood/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/100-acre-wood/1867514434",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Winston%20Hightower%20100%20Acre%20Wood",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Winston%20Hightower%20100%20Acre%20Wood&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/893488172",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-17",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "thundercat::distracted",
+   "artist": "Thundercat",
+   "title": "Distracted",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/thundercat-distracted-album-review/",
+     "date": "2026-04-13T12:10:41.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 34
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-04-13T12:10:41.000Z",
+   "lastPickAt": "2026-04-13T12:10:41.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Thundercat%20Distracted/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/distracted/1861531667",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Thundercat%20Distracted",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Thundercat%20Distracted&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/909026472",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-03",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "my-new-band-believe::my-new-band-believe",
+   "artist": "My New Band Believe",
+   "title": "My New Band Believe",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/my-new-band-believe-my-new-band-believe/",
+     "date": "2026-04-10T04:03:00.000Z",
+     "score": 8.4,
+     "bnm": false,
+     "note": "Former Black Midi bassist Cameron Picton’s dazzlingly complicated solo debut is a tangle of baroque melodies, chamber-punk arrangements, and garden-path lyrics.",
+     "listenUrl": null,
+     "rank": 27
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/69d67c86fb43b4012c9d2abd/1:1/w_768,c_limit/My%20New%20Band%20Believe%20-%20My%20New%20Band%20Believe%20album%20art%20HI%20RES.png",
+   "genre": "Rock",
+   "addedAt": "2026-04-10T04:03:00.000Z",
+   "lastPickAt": "2026-04-10T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/My%20New%20Band%20Believe%20My%20New%20Band%20Believe/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/my-new-band-believe/1866890640",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=My%20New%20Band%20Believe%20My%20New%20Band%20Believe",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=My%20New%20Band%20Believe%20My%20New%20Band%20Believe&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/943136991",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-10",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "wendy-eisenberg::wendy-eisenberg",
+   "artist": "Wendy Eisenberg",
+   "title": "Wendy Eisenberg",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/wendy-eisenberg-wendy-eisenberg/",
+     "date": "2026-04-09T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "On a daring new album, the singer-songwriter and guitar virtuoso examines happiness, love, and memory with a forensic curiosity.",
+     "listenUrl": null,
+     "rank": 28
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/69d6a561117a16414f93f9e4/1:1/w_768,c_limit/Wendy%20Eisenberg%20Wendy%20Eisenberg.jpg",
+   "genre": "Rock",
+   "addedAt": "2026-04-09T04:03:00.000Z",
+   "lastPickAt": "2026-04-09T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Wendy%20Eisenberg%20Wendy%20Eisenberg/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/wendy-eisenberg/1865963435",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Wendy%20Eisenberg%20Wendy%20Eisenberg",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Wendy%20Eisenberg%20Wendy%20Eisenberg&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/889526672",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-03",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "wu-lyf::a-wave-that-will-never-break",
+   "artist": "WU LYF",
+   "title": "A Wave That Will Never Break",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2494947/album-of-the-week-wu-lyf-a-wave-that-will-never-break/reviews/album-of-the-week/",
+     "date": "2026-04-07T15:06:11.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 29
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/WU-LYF-A-Wave-That-Will-Never-Break.jpeg",
+   "genre": null,
+   "addedAt": "2026-04-07T15:06:11.000Z",
+   "lastPickAt": "2026-04-07T15:06:11.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/WU%20LYF%20A%20Wave%20That%20Will%20Never%20Break/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/search?term=WU%20LYF%20A%20Wave%20That%20Will%20Never%20Break",
+     "exact": false
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=WU%20LYF%20A%20Wave%20That%20Will%20Never%20Break",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=WU%20LYF%20A%20Wave%20That%20Will%20Never%20Break&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": null,
+   "linksComplete": false,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "slayyyter::wor-t-girl-in-america",
+   "artist": "Slayyyter",
+   "title": "WOR$T GIRL IN AMERICA",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/slayyyter-worst-girl-in-america/",
+     "date": "2026-04-02T04:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "Smelling like burnt rubber and mall body mist, the pop provocateur’s loud, wild new album swerves hard into club antagonism.",
+     "listenUrl": null,
+     "rank": 29
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/69cd5ad80c5bb9f902012376/1:1/w_768,c_limit/Slayyyter%20-%20WOR$T%20GIRL%20IN%20AMERICA%20album%20art.jpg",
+   "genre": "Pop/R&B",
+   "addedAt": "2026-04-02T04:03:00.000Z",
+   "lastPickAt": "2026-04-02T04:03:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Slayyyter%20WOR%24T%20GIRL%20IN%20AMERICA/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/wor%24t-girl-in-america/1867530577",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Slayyyter%20WOR%24T%20GIRL%20IN%20AMERICA",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Slayyyter%20WOR%24T%20GIRL%20IN%20AMERICA&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/945645941",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-27",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "makthaverskan::glass-and-bones",
+   "artist": "Makthaverskan",
+   "title": "Glass And Bones",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2494076/album-of-the-week-makthaverskan-glass-and-bones/reviews/album-of-the-week/",
+     "date": "2026-03-31T15:00:05.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 30
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/Cover_-Makthaverskan-Glass-and-Bones.png",
+   "genre": null,
+   "addedAt": "2026-03-31T15:00:05.000Z",
+   "lastPickAt": "2026-03-31T15:00:05.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Makthaverskan%20Glass%20And%20Bones/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/glass-and-bones/1853457041",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Makthaverskan%20Glass%20And%20Bones",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Makthaverskan%20Glass%20And%20Bones&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/857953822",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-03",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "neurosis::an-undying-love-for-a-burning-world",
+   "artist": "Neurosis",
+   "title": "An Undying Love for a Burning World",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/neurosis-an-undying-love-for-a-burning-world-album-review/",
+     "date": "2026-03-30T19:00:09.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 35
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/e1/f6/b9e1f691-4ea1-3c6e-1e85-7fb3101b89c9/769152436630.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-03-30T19:00:09.000Z",
+   "lastPickAt": "2026-03-30T19:00:09.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Neurosis%20An%20Undying%20Love%20for%20a%20Burning%20World/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/an-undying-love-for-a-burning-world/1882105289",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Neurosis%20An%20Undying%20Love%20for%20a%20Burning%20World",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Neurosis%20An%20Undying%20Love%20for%20a%20Burning%20World&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-03-20",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "underscores::u",
+   "artist": "underscores",
+   "title": "U",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/underscores-u-album-review/",
+     "date": "2026-03-25T13:15:30.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 36
+    },
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://underscores.bandcamp.com/album/u",
+     "rank": 6
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/2b7ebf336f61c1aca52c0bfec0a4b30e/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-03-25T13:15:30.000Z",
+   "lastPickAt": "2026-03-25T13:15:30.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/underscores%20U/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/u/1878382378",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=underscores%20U",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://underscores.bandcamp.com/album/u",
+     "exact": true
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/938302501",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-20",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "james-blake::trying-times",
+   "artist": "James Blake",
+   "title": "Trying Times",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/james-blake-trying-times-album-review/",
+     "date": "2026-03-23T12:47:28.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 38
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/00/19/c500197f-a99c-c3aa-65f2-2a3a78b90630/00198704897481_Cover.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-03-23T12:47:28.000Z",
+   "lastPickAt": "2026-03-23T12:47:28.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/James%20Blake%20Trying%20Times/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/trying-times/1880811313",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=James%20Blake%20Trying%20Times",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=James%20Blake%20Trying%20Times&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/918222951",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-13",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "slayr::half-blood",
+   "artist": "slayr",
+   "title": "Half Blood (BloodLuxe)",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/slayr-half-blood-bloodluxe-mixtape-review/",
+     "date": "2026-03-23T12:43:26.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 37
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/ae542da8789dbc3cb732aab931093b31/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-03-23T12:43:26.000Z",
+   "lastPickAt": "2026-03-23T12:43:26.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/slayr%20Half%20Blood%20(BloodLuxe)/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/half-blood-bloodluxe/1896352425",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=slayr%20Half%20Blood%20(BloodLuxe)",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=slayr%20Half%20Blood%20(BloodLuxe)&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/931925521",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-06",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "grace-ives::girlfriend",
+   "artist": "Grace Ives",
+   "title": "Girlfriend",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2492498/album-of-the-week-grace-ives-girlfriend/reviews/album-of-the-week/",
+     "date": "2026-03-17T16:15:16.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 31
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/Grace-Ives-Girlfriend.jpg",
+   "genre": null,
+   "addedAt": "2026-03-17T16:15:16.000Z",
+   "lastPickAt": "2026-03-17T16:15:16.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Grace%20Ives%20Girlfriend/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/girlfriend/1876369944",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Grace%20Ives%20Girlfriend",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Grace%20Ives%20Girlfriend&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/916255791",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-20",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "bill-callahan::my-days-of-58",
+   "artist": "Bill Callahan",
+   "title": "My Days of 58",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/bill-callahan-my-days-of-58-album-review/",
+     "date": "2026-03-16T13:13:58.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 39
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/8e/7a/1d8e7ab4-364a-b86d-0c23-c920c25ee502/781484096429.png/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-03-16T13:13:58.000Z",
+   "lastPickAt": "2026-03-16T13:13:58.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Bill%20Callahan%20My%20Days%20of%2058/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/my-days-of-58/1846471021",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Bill%20Callahan%20My%20Days%20of%2058",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Bill%20Callahan%20My%20Days%20of%2058&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/843297562",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-27",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "kim-gordon::play-me",
+   "artist": "Kim Gordon",
+   "title": "PLAY ME",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2491669/album-of-the-week-kim-gordon-play-me/reviews/album-of-the-week/",
+     "date": "2026-03-10T13:30:08.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 32
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/cover-Kim-Gordon-PLAY-ME.jpg",
+   "genre": null,
+   "addedAt": "2026-03-10T13:30:08.000Z",
+   "lastPickAt": "2026-03-10T13:30:08.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Kim%20Gordon%20PLAY%20ME/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/play-me/1859967390",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Kim%20Gordon%20PLAY%20ME",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Kim%20Gordon%20PLAY%20ME&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/922568841",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-13",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "gena::the-pleasure-is-yours",
+   "artist": "GENA",
+   "title": "The Pleasure Is Yours",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/gena-the-pleasure-is-yours-album-review/",
+     "date": "2026-03-10T12:11:33.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 40
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/04992a627a83f8676aa972a391dada0d/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-03-10T12:11:33.000Z",
+   "lastPickAt": "2026-03-10T12:11:33.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/GENA%20The%20Pleasure%20Is%20Yours/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/the-pleasure-is-yours/1860331452",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=GENA%20The%20Pleasure%20Is%20Yours",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=GENA%20The%20Pleasure%20Is%20Yours&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/874655802",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-27",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "gorillaz::the-mountain",
+   "artist": "Gorillaz",
+   "title": "The Mountain",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/gorillaz-the-mountain-album-review/",
+     "date": "2026-03-05T23:20:58.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 41
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/fb86decc775f4140fdc5c9433ac1170d/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-03-05T23:20:58.000Z",
+   "lastPickAt": "2026-03-05T23:20:58.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Gorillaz%20The%20Mountain/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/the-mountain-special-digital-edition/1880345579",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Gorillaz%20The%20Mountain",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Gorillaz%20The%20Mountain&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/923651461",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-03-02",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "various-artists::help-2",
+   "artist": "Various Artists’",
+   "title": "HELP(2)",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2490550/album-of-the-week-war-childs-help2/reviews/album-of-the-week/",
+     "date": "2026-03-03T15:39:37.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 33
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Help2.jpeg",
+   "genre": null,
+   "addedAt": "2026-03-03T15:39:37.000Z",
+   "lastPickAt": "2026-03-03T15:39:37.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Various%20Artists%E2%80%99%20HELP(2)/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/search?term=Various%20Artists%E2%80%99%20HELP(2)",
+     "exact": false
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Various%20Artists%E2%80%99%20HELP(2)",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Various%20Artists%E2%80%99%20HELP(2)&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": null,
+   "linksComplete": false,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "jill-scott::to-whom-this-may-concern",
+   "artist": "Jill Scott",
+   "title": "To Whom This May Concern",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/jill-scott-to-whom-this-may-concern-album-review/",
+     "date": "2026-02-27T18:12:50.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 42
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/f6/b4/f8f6b4c1-8f02-6604-bb51-2dc54bfa9ec2/820200224248.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-02-27T18:12:50.000Z",
+   "lastPickAt": "2026-02-27T18:12:50.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Jill%20Scott%20To%20Whom%20This%20May%20Concern/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/to-whom-this-may-concern/1876937000",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Jill%20Scott%20To%20Whom%20This%20May%20Concern",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Jill%20Scott%20To%20Whom%20This%20May%20Concern&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/916936241",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-12",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "deathcrash::somersaults",
+   "artist": "deathcrash",
+   "title": "Somersaults",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2490127/album-of-the-week-deathcrash-somersaults/reviews/album-of-the-week/",
+     "date": "2026-02-24T20:25:02.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 34
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Deathcrash-Somersaults.jpg",
+   "genre": null,
+   "addedAt": "2026-02-24T20:25:02.000Z",
+   "lastPickAt": "2026-02-24T20:25:02.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/deathcrash%20Somersaults/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/somersaults/1847159406",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=deathcrash%20Somersaults",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=deathcrash%20Somersaults&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/840690512",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-27",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "converge::love-is-not-enough",
+   "artist": "Converge",
+   "title": "Love Is Not Enough",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/converge-love-is-not-enough-album-review/",
+     "date": "2026-02-21T19:48:39.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 43
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c0/d2/30c0d2e8-c0b8-ee61-bcc4-b29809b67fd2/0045778813568.png/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-02-21T19:48:39.000Z",
+   "lastPickAt": "2026-02-21T19:48:39.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Converge%20Love%20Is%20Not%20Enough/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/love-is-not-enough/1848413292",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Converge%20Love%20Is%20Not%20Enough",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Converge%20Love%20Is%20Not%20Enough&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/843150572",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-13",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "mx-lonely::all-monsters",
+   "artist": "Mx Lonely",
+   "title": "All Monsters",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2489529/album-of-the-week-mx-lonely-all-monsters/reviews/album-of-the-week/",
+     "date": "2026-02-18T14:32:14.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 35
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Mx-Lonely-All-Monsters.jpg",
+   "genre": null,
+   "addedAt": "2026-02-18T14:32:14.000Z",
+   "lastPickAt": "2026-02-18T14:32:14.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Mx%20Lonely%20All%20Monsters/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/all-monsters/1846864362",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Mx%20Lonely%20All%20Monsters",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Mx%20Lonely%20All%20Monsters&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/839847222",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-20",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "earth-tongue::dungeon-vision",
+   "artist": "Earth Tongue",
+   "title": "Dungeon Vision",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 24
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/69/5d/ed695dd0-e14e-1599-a5d6-d1ca237ffde8/657628456629.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-02-13T12:00:00.000Z",
+   "lastPickAt": "2026-02-13T12:00:00.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Earth%20Tongue%20Dungeon%20Vision/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/dungeon-vision/1854844603",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Earth%20Tongue%20Dungeon%20Vision",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Earth%20Tongue%20Dungeon%20Vision&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/878090952",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-13",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "hemlocke-springs::the-apple-tree-under-the-sea",
+   "artist": "hemlocke springs",
+   "title": "the apple tree under the sea",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/hemlocke-springs-the-apple-tree-under-the-sea-album-review/",
+     "date": "2026-02-19T12:33:53.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 44
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2488732/album-of-the-week-hemlocke-springs-the-apple-tree-under-the-sea/reviews/album-of-the-week/",
+     "date": "2026-02-10T17:22:17.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 36
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Hemlocke-Springs.jpg",
+   "genre": null,
+   "addedAt": "2026-02-10T17:22:17.000Z",
+   "lastPickAt": "2026-02-19T12:33:53.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/hemlocke%20springs%20the%20apple%20tree%20under%20the%20sea/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/the-apple-tree-under-the-sea/1877161526",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=hemlocke%20springs%20the%20apple%20tree%20under%20the%20sea",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=hemlocke%20springs%20the%20apple%20tree%20under%20the%20sea&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/918595161",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-13",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "by-storm::my-ghosts-go-ghost",
+   "artist": "By Storm",
+   "title": "My Ghosts Go Ghost",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/by-storm-my-ghosts-go-ghost-album-review/",
+     "date": "2026-02-09T13:16:43.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 46
+    },
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://injuryreserve.bandcamp.com/album/my-ghosts-go-ghost",
+     "rank": 7
+    }
+   ],
+   "cover": "https://cdn-images.dzcdn.net/images/cover/d3bcfd14e834207f8aa86ef8e63607a2/1000x1000-000000-80-0-0.jpg",
+   "genre": null,
+   "addedAt": "2026-02-09T13:16:43.000Z",
+   "lastPickAt": "2026-02-09T13:16:43.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/By%20Storm%20My%20Ghosts%20Go%20Ghost/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/my-ghosts-go-ghost/1869647098",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=By%20Storm%20My%20Ghosts%20Go%20Ghost",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://injuryreserve.bandcamp.com/album/my-ghosts-go-ghost",
+     "exact": true
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/898884552",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-01-30",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "idk::e-t-d-s",
+   "artist": "IDK",
+   "title": "e.t.d.s.",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/idk-e-t-d-s-mixtape-review/",
+     "date": "2026-02-05T21:43:14.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 47
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/7f/db/777fdb02-af33-dcb3-0297-aa9310c77fe0/663918829998.jpg/600x600bb.jpg",
+   "genre": null,
+   "addedAt": "2026-02-05T21:43:14.000Z",
+   "lastPickAt": "2026-02-05T21:43:14.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/IDK%20e.t.d.s./albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/e-t-d-s/1872476970",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=IDK%20e.t.d.s.",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=IDK%20e.t.d.s.&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/859881652",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-01-22",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "mandy-indiana::urgh",
+   "artist": "Mandy, Indiana",
+   "title": "URGH",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/mandy-indiana-urgh-album-review/",
+     "date": "2026-02-13T18:59:42.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 45
+    },
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2487243/album-of-the-week-mandy-indiana-urgh/reviews/album-of-the-week/",
+     "date": "2026-02-03T18:41:11.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 37
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/Mandy-Indiana-URGH-album-art.jpg",
+   "genre": null,
+   "addedAt": "2026-02-03T18:41:11.000Z",
+   "lastPickAt": "2026-02-13T18:59:42.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Mandy%2C%20Indiana%20URGH/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/urgh/1846434012",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Mandy%2C%20Indiana%20URGH",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Mandy%2C%20Indiana%20URGH&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/838657112",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-02-06",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "joyce-manor::i-used-to-go-to-this-bar",
+   "artist": "Joyce Manor",
+   "title": "I Used To Go To This Bar",
+   "firstSeen": "2026-10-30T13:42:56.621Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2486605/album-of-the-week-joyce-manor-i-used-to-go-to-this-bar/reviews/album-of-the-week/",
+     "date": "2026-01-27T15:22:58.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 38
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2025/10/joyce-manor-1759755999.jpg",
+   "genre": null,
+   "addedAt": "2026-01-27T15:22:58.000Z",
+   "lastPickAt": "2026-01-27T15:22:58.000Z",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Joyce%20Manor%20I%20Used%20To%20Go%20To%20This%20Bar/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/i-used-to-go-to-this-bar/1839918836",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Joyce%20Manor%20I%20Used%20To%20Go%20To%20This%20Bar",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Joyce%20Manor%20I%20Used%20To%20Go%20To%20This%20Bar&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/833869002",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-01-30",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  }
+ ]
+}

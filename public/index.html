@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Discos Nuevos</title>
+  <meta name="description" content="Los mejores álbumes nuevos según The Needle Drop, Pitchfork y Stereogum, con links para escucharlos en Spotify, Apple Music y más. Se actualiza varias veces al día.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%23111'/><circle cx='50' cy='50' r='14' fill='%23ff5a36'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1 class="logo">Discos <em>Nuevos</em></h1>
+      <p class="tagline">Lo mejor de la música nueva, reunido de las listas que más respetamos.</p>
+      <p class="updated" id="updated" aria-live="polite"></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="pick" class="pick" aria-label="Recomendación del día" hidden></section>
+
+    <section class="trend" aria-labelledby="trend-title" hidden>
+      <div class="trend-head">
+        <div>
+          <h2 id="trend-title">Álbumes por semana</h2>
+          <p class="trend-sub" id="trend-sub"></p>
+        </div>
+        <div class="seg" id="trend-mode" role="group" aria-label="Escala">
+          <button type="button" data-mode="weekly" aria-pressed="true">Por semana</button>
+          <button type="button" data-mode="avg" aria-pressed="false">Promedio 4 sem.</button>
+        </div>
+      </div>
+      <div class="trend-legend" id="trend-legend"></div>
+      <div class="trend-chart" id="trend-chart"></div>
+      <details class="trend-table"><summary>Ver como tabla</summary><div id="trend-table"></div></details>
+    </section>
+
+    <section class="controls" aria-label="Filtros">
+      <input id="search" type="search" placeholder="Buscar artista, álbum o género…" autocomplete="off">
+      <div class="chips" id="sources" role="group" aria-label="Listas"></div>
+      <div class="row">
+        <label class="toggle"><input type="checkbox" id="consensus"> Solo en 2+ listas</label>
+        <label class="sort">Ordenar
+          <select id="sort">
+            <option value="recent">Más recientes</option>
+            <option value="consensus">Consenso</option>
+            <option value="score">Calificación Pitchfork</option>
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <p class="count" id="count"></p>
+    <section class="grid" id="grid" aria-label="Álbumes"></section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Fuentes: <span id="source-links"></span>. Los datos pertenecen a sus respectivos medios; aquí solo enlazamos a sus reseñas.</p>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

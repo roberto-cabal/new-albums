@@ -1,0 +1,12 @@
+{
+  "name": "new-music",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agregador de listas de música nueva recomendada (The Needle Drop, Pitchfork, Bandcamp Daily, Stereogum)",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
