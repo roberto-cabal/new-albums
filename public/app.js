@@ -3,9 +3,9 @@ const REFRESH_MS = 10 * 60 * 1000;
 const NEW_DAYS = 7;
 const DAY = 86400000;
 
-const SOURCE_COLORS = { needledrop: 'var(--needledrop)', pitchfork: 'var(--pitchfork)', stereogum: 'var(--stereogum)', bandcamp: 'var(--bandcamp)' };
+const SOURCE_COLORS = { needledrop: 'var(--needledrop)', pitchfork: 'var(--pitchfork)', stereogum: 'var(--stereogum)', bandcamp: 'var(--bandcamp)', quietus: 'var(--quietus)' };
 // Chart strokes: brand colors re-stepped so the lines stay distinguishable (incl. color blindness) on both themes.
-const CHART_COLORS = { needledrop: 'var(--chart-needledrop)', pitchfork: 'var(--chart-pitchfork)', stereogum: 'var(--chart-stereogum)', bandcamp: 'var(--chart-bandcamp)' };
+const CHART_COLORS = { needledrop: 'var(--chart-needledrop)', pitchfork: 'var(--chart-pitchfork)', stereogum: 'var(--chart-stereogum)', bandcamp: 'var(--chart-bandcamp)', quietus: 'var(--chart-quietus)' };
 const TREND_WEEKS = 52;
 const SERVICES = [
   ['spotify', 'Spotify', '#1db954'],

@@ -9,10 +9,12 @@
   --pitchfork: #e0352b;
   --stereogum: #2f6fe4;
   --bandcamp: #1da0c3;
+  --quietus: #2e9d57;
   --chart-needledrop: #c29a00;
   --chart-pitchfork: #b81d3a;
   --chart-stereogum: #2f6fe4;
   --chart-bandcamp: #1a8fae;
+  --chart-quietus: #24874a;
   --shadow: 0 1px 2px rgb(0 0 0 / .05), 0 8px 24px rgb(0 0 0 / .06);
   color-scheme: light;
 }
@@ -26,6 +28,7 @@
     --chart-needledrop: #b08f00;
     --chart-pitchfork: #c2263f;
     --chart-stereogum: #5b8ff0;
+    --chart-quietus: #4cb873;
     --shadow: 0 1px 2px rgb(0 0 0 / .4), 0 8px 24px rgb(0 0 0 / .3);
     color-scheme: dark;
   }
@@ -33,6 +36,7 @@
 :root[data-theme="dark"] {
   --bg: #0f0e0c; --surface: #1a1916; --ink: #f3efe7; --muted: #a39d91; --line: #2c2a25;
   --chart-needledrop: #b08f00; --chart-pitchfork: #c2263f; --chart-stereogum: #5b8ff0;
+  --chart-quietus: #4cb873;
   --shadow: 0 1px 2px rgb(0 0 0 / .4), 0 8px 24px rgb(0 0 0 / .3);
   color-scheme: dark;
 }

@@ -9,6 +9,7 @@ Página que reúne los mejores álbumes nuevos de varias listas curadas y enlaza
 | [The Needle Drop · Loved List](https://theneedledrop.com/loved-list/2026/) (Anthony 8/10+ y austen) | HTML de la página del año en curso |
 | [Pitchfork · Best New Albums](https://pitchfork.com/reviews/best/albums/) | JSON embebido en la página (incluye calificación, género y portada) |
 | [Stereogum · Album of the Week](https://www.stereogum.com/category/reviews/album-of-the-week/) | RSS |
+| [The Quietus · Album of the Week](https://thequietus.com/columns/quietus-reviews/album-of-the-week/) | API REST de WordPress (artista y álbum vienen como taxonomías) |
 | Bandcamp Daily · Album of the Day | **Desactivada**: Bandcamp responde con un bloqueo anti-bot. El código está en `scripts/sources/bandcamp.mjs` |
 
 Los álbumes que aparecen en varias listas se fusionan en una sola tarjeta (filtro “Solo en 2+ listas”).

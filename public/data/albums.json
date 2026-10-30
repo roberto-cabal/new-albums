@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T18:42:28.763Z",
+ "updatedAt": "2026-10-30T19:03:19.178Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 56,
-   "checkedAt": "2026-10-30T18:42:28.763Z"
+   "checkedAt": "2026-10-30T19:03:19.178Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-10-30T18:42:28.763Z"
+   "checkedAt": "2026-10-30T19:03:19.178Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,17 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-10-30T18:42:28.763Z"
+   "checkedAt": "2026-10-30T19:03:19.178Z"
+  },
+  {
+   "id": "quietus",
+   "name": "The Quietus",
+   "list": "Album of the Week",
+   "homepage": "https://thequietus.com/columns/quietus-reviews/album-of-the-week/",
+   "ok": true,
+   "error": null,
+   "count": 30,
+   "checkedAt": "2026-10-30T19:03:19.178Z"
   }
  ],
  "albums": [
@@ -118,6 +128,49 @@
    "releaseDate": null,
    "linksComplete": false,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "leo-chadburn-and-phaedra-ensemble::english-dancing-master",
+   "artist": "Leo Chadburn & Phaedra Ensemble",
+   "title": "English Dancing Master",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/leo-chadburn-phaedra-ensemble-english-dancing-master-review/",
+     "date": "2026-10-29T09:47:20.000Z",
+     "score": null,
+     "note": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to the rave at Castlemorton Common",
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/10/Shadows-2021-Credit-Leo-Chadburn-1024x767.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Leo%20Chadburn%20%26%20Phaedra%20Ensemble%20English%20Dancing%20Master/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/english-dancing-master/6816930479",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Leo%20Chadburn%20%26%20Phaedra%20Ensemble%20English%20Dancing%20Master",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Leo%20Chadburn%20%26%20Phaedra%20Ensemble%20English%20Dancing%20Master&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-10-30",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-10-29T09:47:20.000Z",
+   "lastPickAt": "2026-10-29T09:47:20.000Z"
   },
   {
    "id": "diiv::zirp",
@@ -318,6 +371,53 @@
    "releaseDate": "2026-10-23",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "shovel-dance-collective::everything-in-readiness",
+   "artist": "Shovel Dance Collective",
+   "title": "Everything in Readiness",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/everything-in-readiness-shovel-dance-collective-review/",
+     "date": "2026-10-22T07:46:50.000Z",
+     "score": null,
+     "note": "The London experimental folk outliers’ triumphant third album is a demonstration of traditional music at its most progressive, outward-looking and migratory",
+     "listenUrl": null,
+     "rank": 1
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/10/Shovel-Dance-Collective-by-Brad-Gilbert-horizontal-03-1024x682.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Shovel%20Dance%20Collective%20Everything%20in%20Readiness/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/everything-in-readiness/6793973178",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Shovel%20Dance%20Collective%20Everything%20in%20Readiness",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Shovel%20Dance%20Collective%20Everything%20in%20Readiness&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1036301592",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-23",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-10-22T07:46:50.000Z",
+   "lastPickAt": "2026-10-22T07:46:50.000Z"
   },
   {
    "id": "alchemical-sisters::alchemical-sisters",
@@ -602,6 +702,53 @@
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
   },
   {
+   "id": "czn::parallel-commutator",
+   "artist": "CZN",
+   "title": "Parallel Commutator",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/parallel-commutator-czn-review/",
+     "date": "2026-10-15T08:51:33.000Z",
+     "score": null,
+     "note": "The third album to feature Valentina Magaletti in as many weeks finds the tireless rhythmic innovator teaming up with sculptor and gong-maker João Pais Filipe plus producer Leon Marks for an album of clattering polyrhythms and subtle synth washes",
+     "listenUrl": null,
+     "rank": 2
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/10/CZN-press-shot-1-1024x682.jpeg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/CZN%20Parallel%20Commutator/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/parallel-commutator-ep/6800335136",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=CZN%20Parallel%20Commutator",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=CZN%20Parallel%20Commutator&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1051535602",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-16",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-10-15T08:51:33.000Z",
+   "lastPickAt": "2026-10-15T08:51:33.000Z"
+  },
+  {
    "id": "godflesh::decay",
    "artist": "Godflesh",
    "title": "Decay",
@@ -845,6 +992,53 @@
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
   },
   {
+   "id": "10lec6::ako-akas",
+   "artist": "10LEC6",
+   "title": "Ako Akas",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/10lec6-ako-akas-review/",
+     "date": "2026-10-08T05:30:00.000Z",
+     "score": null,
+     "note": "Eight years after Bone Bame, the Paris collective return with a record named after a Cameroonian mountain that traps walkers in a dance they cannot quit. The reason they chose that story is more pointed than the sleeve lets on",
+     "listenUrl": null,
+     "rank": 3
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/10/unnamed-17-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/10LEC6%20Ako%20Akas/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/ako-akas/6819285988",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=10LEC6%20Ako%20Akas",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=10LEC6%20Ako%20Akas&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1114100642",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-09",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-10-08T05:30:00.000Z",
+   "lastPickAt": "2026-10-08T05:30:00.000Z"
+  },
+  {
    "id": "cameron-winter::live-at-carnegie-hall",
    "artist": "Cameron Winter",
    "title": "Live at Carnegie Hall",
@@ -921,6 +1115,53 @@
    "releaseDate": "2026-10-09",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "vanishing-twin::archives",
+   "artist": "Vanishing Twin",
+   "title": "Archives",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/vanishing-twin-archives-review/",
+     "date": "2026-10-01T07:30:00.000Z",
+     "score": null,
+     "note": "Vanishing Twin's Archives is our Album of the Week and sounds like Chiastic Slide-era Autechre reimagining The Wicker Man OST.",
+     "listenUrl": null,
+     "rank": 4
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/09/a2836792223_10-1024x1024.jpg",
+   "genre": "Electronic",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Vanishing%20Twin%20Archives/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/archives/6774158732",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Vanishing%20Twin%20Archives",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Vanishing%20Twin%20Archives&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/993083221",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-02",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-10-01T07:30:00.000Z",
+   "lastPickAt": "2026-10-01T07:30:00.000Z"
   },
   {
    "id": "300skullsandcounting-jenny-sparks::this-is-spa-town",
@@ -1123,6 +1364,53 @@
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
   },
   {
+   "id": "space-afrika::quiet-storm",
+   "artist": "Space Afrika",
+   "title": "Quiet Storm",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/quiet-storm-by-space-afrika-review/",
+     "date": "2026-09-24T05:30:00.000Z",
+     "score": null,
+     "note": "Manchester duo go big, vastly expanding their palette with strings, harps and a plethora of special guests",
+     "listenUrl": null,
+     "rank": 5
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/09/3-Alternate-Landscape-SpaceAfrika2026-TimonBenson-AlexanderLuc-OmarAfridi-VUJADE-02-1024x679.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Space%20Afrika%20Quiet%20Storm/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/quiet-storm/6774245309",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Space%20Afrika%20Quiet%20Storm",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Space%20Afrika%20Quiet%20Storm&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/993306691",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-25",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-09-24T05:30:00.000Z",
+   "lastPickAt": "2026-09-24T05:30:00.000Z"
+  },
+  {
    "id": "gilla-band::pugnello",
    "artist": "Gilla Band",
    "title": "Pugnello",
@@ -1275,6 +1563,49 @@
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
   },
   {
+   "id": "finn-loxbo::lummernikt",
+   "artist": "Finn Loxbo",
+   "title": "Lummernikt",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/tripping-the-light-fantastic-lummernikt-by-finn-loxbo-review/",
+     "date": "2026-09-17T05:41:00.000Z",
+     "score": null,
+     "note": "For all its stunning virtuosity, the tumbling fingerstyle guitar of Swedish guitarist Finn Loxbo is always in service to a set of brilliant compositional ideas",
+     "listenUrl": null,
+     "rank": 6
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/09/DSCF0528-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Finn%20Loxbo%20Lummernikt/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/search?term=Finn%20Loxbo%20Lummernikt",
+     "exact": false
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Finn%20Loxbo%20Lummernikt",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Finn%20Loxbo%20Lummernikt&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": null,
+   "linksComplete": false,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-09-17T05:41:00.000Z",
+   "lastPickAt": "2026-09-17T05:41:00.000Z"
+  },
+  {
    "id": "slow-pulp::melodie",
    "artist": "Slow Pulp",
    "title": "Melodie",
@@ -1320,6 +1651,53 @@
    "releaseDate": "2026-09-18",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "haruomi-hosono::yours-sincerely",
+   "artist": "Haruomi Hosono",
+   "title": "Yours Sincerely",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/haruomi-hosono-yours-sincerely-review/",
+     "date": "2026-09-10T05:09:00.000Z",
+     "score": null,
+     "note": "At 79 years old, the former Yellow Magic Orchestra and Happy End member has produced a true labour of love, offering a sometimes croonsome window on the sunlit uplands",
+     "listenUrl": null,
+     "rank": 7
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/09/Sincerely-Press-Photo-Credit_-Masahiro-Handa-1024x576.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Haruomi%20Hosono%20Yours%20Sincerely/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/yours-sincerely/6769082566",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Haruomi%20Hosono%20Yours%20Sincerely",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Haruomi%20Hosono%20Yours%20Sincerely&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1007306771",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-11",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-09-10T05:09:00.000Z",
+   "lastPickAt": "2026-09-10T05:09:00.000Z"
   },
   {
    "id": "chat-pile::who-loves-the-sun",
@@ -1461,6 +1839,53 @@
    "releaseDate": "2026-08-28",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "klara-lewis::opening",
+   "artist": "Klara Lewis",
+   "title": "Opening",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/the-in-between-opening-by-klara-lewis/",
+     "date": "2026-09-03T07:58:03.000Z",
+     "score": null,
+     "note": "The Swedish sound sculptor enters the backrooms with an album of unstable electronic textures united by their uncanny, reality-warping potential",
+     "listenUrl": null,
+     "rank": 8
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/09/01.-Klara-Lewis-2022.-Photo-by-Hampus-Hogberg-1024x768.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Klara%20Lewis%20Opening/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/opening/6802611783",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Klara%20Lewis%20Opening",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Klara%20Lewis%20Opening&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1057051892",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-09-04",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-09-03T07:58:03.000Z",
+   "lastPickAt": "2026-09-03T07:58:03.000Z"
   },
   {
    "id": "lex-walton::ultimate-love-forever",
@@ -1652,6 +2077,53 @@
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
   },
   {
+   "id": "ibukun-sunday::olusin-worshippers",
+   "artist": "Ibukun Sunday",
+   "title": "Olúsín [Worshippers]",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/ibukun-sunday-olusin-worshippers-review/",
+     "date": "2026-08-27T09:01:00.000Z",
+     "score": null,
+     "note": "The UK-based Nigerian producer stretches and pulls the sonics of sacred spaces into mind-bending new shapes",
+     "listenUrl": null,
+     "rank": 9
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/08/Ibukun-Sunday-on-25.10.2025-at-Daylight-Music-at-St-Johns-Leytonstone-credit-Kat-Ciemiega-Photography-1024x729.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Ibukun%20Sunday%20Ol%C3%BAs%C3%ADn%20%5BWorshippers%5D/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/olu-si-n-worshippers/6768613456",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Ibukun%20Sunday%20Ol%C3%BAs%C3%ADn%20%5BWorshippers%5D",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Ibukun%20Sunday%20Ol%C3%BAs%C3%ADn%20%5BWorshippers%5D&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/981103511",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-28",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-08-27T09:01:00.000Z",
+   "lastPickAt": "2026-08-27T09:01:00.000Z"
+  },
+  {
    "id": "open-mike-eagle-and-kenny-segal::doomed",
    "artist": "Open Mike Eagle & Kenny Segal",
    "title": "DOOMED!",
@@ -1837,6 +2309,53 @@
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
   },
   {
+   "id": "simansky-valko-podracky::k-drone",
+   "artist": "Šimanský Vaľko Podracký",
+   "title": "K-drone",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/simansky-valko-podracky-k-drone-review/",
+     "date": "2026-08-20T05:30:00.000Z",
+     "score": null,
+     "note": "Three explorers from the Czech-Slovak experimental music scene burrow deep into the woodland in search of some heady drones and – just maybe – a new experience of time itself",
+     "listenUrl": null,
+     "rank": 10
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/08/DSC04384c-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/%C5%A0imansk%C3%BD%20Va%C4%BEko%20Podrack%C3%BD%20K-drone/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/k-drone/6793593945",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=%C5%A0imansk%C3%BD%20Va%C4%BEko%20Podrack%C3%BD%20K-drone",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=%C5%A0imansk%C3%BD%20Va%C4%BEko%20Podrack%C3%BD%20K-drone&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1035425252",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-25",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-08-20T05:30:00.000Z",
+   "lastPickAt": "2026-08-20T05:30:00.000Z"
+  },
+  {
    "id": "twisted-teens::florida-water-blues",
    "artist": "Twisted Teens",
    "title": "Florida Water Blues",
@@ -1976,6 +2495,53 @@
    "releaseDate": "2026-08-21",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "james-ellis-ford::lost-in-another-world",
+   "artist": "James Ellis Ford",
+   "title": "Lost In Another World",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/trusting-in-the-process-lost-in-another-world-by-james-ellis-ford/",
+     "date": "2026-08-13T05:37:00.000Z",
+     "score": null,
+     "note": "Recorded at London's St Bartholomew's Hospital, the new album by the former member of Simian Mobile Disco and the Last Shadow Puppets lays bare a journey of sickness and recovery",
+     "listenUrl": null,
+     "rank": 11
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/08/James-Ellis-Ford-3351-pc-Dan-Wilton-landscape-extended-300-dpi-1024x732.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/James%20Ellis%20Ford%20Lost%20In%20Another%20World/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/lost-in-another-world/6779725963",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=James%20Ellis%20Ford%20Lost%20In%20Another%20World",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=James%20Ellis%20Ford%20Lost%20In%20Another%20World&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1004376461",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-14",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-08-13T05:37:00.000Z",
+   "lastPickAt": "2026-08-13T05:37:00.000Z"
   },
   {
    "id": "phoebe-bridgers::lost-weekend",
@@ -2185,6 +2751,53 @@
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
   },
   {
+   "id": "neptunian-maximalism::nagabhutam",
+   "artist": "Neptunian Maximalism",
+   "title": "Nāgabhūtaṃ",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/snakes-on-an-astral-plane-nagabhutam-by-neptunian-maximalism/",
+     "date": "2026-08-06T05:08:00.000Z",
+     "score": null,
+     "note": "A live album from the freewheeling Belgian metal collective proves improvised music is at its best when the players leave their egos behind at the door, finds Jacob Manieson",
+     "listenUrl": null,
+     "rank": 12
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/08/neptunian-landscape.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Neptunian%20Maximalism%20Na%CC%84gabhu%CC%84tam%CC%A3/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/na-gabhu-tam/6798429167",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Neptunian%20Maximalism%20Na%CC%84gabhu%CC%84tam%CC%A3",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Neptunian%20Maximalism%20Na%CC%84gabhu%CC%84tam%CC%A3&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1047250102",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-08-07",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-08-06T05:08:00.000Z",
+   "lastPickAt": "2026-08-06T05:08:00.000Z"
+  },
+  {
    "id": "ceremony::tell-me-your-dream",
    "artist": "Ceremony",
    "title": "Tell Me Your Dream",
@@ -2230,6 +2843,53 @@
    "releaseDate": "2026-08-07",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "arca::xxxxx",
+   "artist": "Arca",
+   "title": "XXXXX",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/xxxxx-arca-review/",
+     "date": "2026-07-30T05:30:00.000Z",
+     "score": null,
+     "note": "Her first album since the KICK pentalogy began life as a mixtape and still retains the rough energy of that looser, freer format",
+     "listenUrl": null,
+     "rank": 13
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/07/Nikki_Sequence-02.01_25_07_34.Still231-1024x576.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Arca%20XXXXX/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/xxxxx/6771049554",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Arca%20XXXXX",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Arca%20XXXXX&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/997302221",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-31",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-07-30T05:30:00.000Z",
+   "lastPickAt": "2026-07-30T05:30:00.000Z"
   },
   {
    "id": "mallory-hawk::chinook",
@@ -2475,6 +3135,53 @@
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
   },
   {
+   "id": "nick-granata::my-heart-is-running-backwards-a-martial-artist-with-a-closed-fist-woof",
+   "artist": "Nick Granata",
+   "title": "My Heart Is Running Backwards! A Martial Artist! With a Closed Fist! Woof!",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/my-heart-is-running-backwards-a-martial-artist-with-a-closed-fist-woof-nick-granata-review/",
+     "date": "2026-07-23T05:30:00.000Z",
+     "score": null,
+     "note": "The debut solo LP from Shovel Dance Collective’s Nick Granata is a whimsical triumph that weaves the humdrum minutiae of modern life into a rousing and transcendent progressive folk tapestry",
+     "listenUrl": null,
+     "rank": 14
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/07/ReptileTank04-credit-Robin-Bazalgette-1-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Nick%20Granata%20My%20Heart%20Is%20Running%20Backwards!%20A%20Martial%20Artist!%20With%20a%20Closed%20Fist!%20Woof!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/my-heart-is-running-backwards-a-martial-artist/6770570819",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Nick%20Granata%20My%20Heart%20Is%20Running%20Backwards!%20A%20Martial%20Artist!%20With%20a%20Closed%20Fist!%20Woof!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Nick%20Granata%20My%20Heart%20Is%20Running%20Backwards!%20A%20Martial%20Artist!%20With%20a%20Closed%20Fist!%20Woof!&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/985603511",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-07-23T05:30:00.000Z",
+   "lastPickAt": "2026-07-23T05:30:00.000Z"
+  },
+  {
    "id": "ꉺლ-இ-ꉺლ::ʅ-o-o",
    "artist": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ",
    "title": "ʅ():: ● o ● o ● ҈҈҈҈҈ :()(...",
@@ -2563,6 +3270,53 @@
    "releaseDate": "2026-07-24",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "ferries::eye-wander",
+   "artist": "Ferries",
+   "title": "Eye Wander",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/ferries-eye-wander-review/",
+     "date": "2026-07-16T08:42:26.000Z",
+     "score": null,
+     "note": "The anonymous band’s second album lacks in nuance, but makes up for it for the fascinating connection between dub and krautrock it reveals",
+     "listenUrl": null,
+     "rank": 15
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/07/Ferries_EyeWander_exploded_pack_shot_WOE029.jpeg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Ferries%20Eye%20Wander/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/eye-wander/1893179487",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Ferries%20Eye%20Wander",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Ferries%20Eye%20Wander&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/960816191",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-17",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-07-16T08:42:26.000Z",
+   "lastPickAt": "2026-07-16T08:42:26.000Z"
   },
   {
    "id": "quicksand::bring-on-the-psychics",
@@ -2680,6 +3434,16 @@
      "note": null,
      "listenUrl": null,
      "rank": 16
+    },
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/the-expanding-universe-new-avatar-by-kelela/",
+     "date": "2026-07-09T05:30:00.000Z",
+     "score": null,
+     "note": "The new album from the Washington DC-born singer makes a strong case for the argument that R&B is the most versatile, wide-ranging genre on the block",
+     "listenUrl": null,
+     "rank": 16
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/a1820018607_10.jpg",
@@ -2711,6 +3475,53 @@
    "releaseDate": "2026-07-10",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "anton-pearson::driving-through-belgium",
+   "artist": "Anton Pearson",
+   "title": "Driving Through Belgium",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/driving-through-belgium-anton-pearson-review/",
+     "date": "2026-07-02T05:30:00.000Z",
+     "score": null,
+     "note": "This ambient side project from the guitarist in Squid reaches back through a deep history of British music inspired by the countryside",
+     "listenUrl": null,
+     "rank": 17
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/07/AntonPearson_credit_HollyWhitaker-1024x668.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Anton%20Pearson%20Driving%20Through%20Belgium/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/driving-through-belgium/1893777745",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Anton%20Pearson%20Driving%20Through%20Belgium",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Anton%20Pearson%20Driving%20Through%20Belgium&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/962395761",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-07-03",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-07-02T05:30:00.000Z",
+   "lastPickAt": "2026-07-02T05:30:00.000Z"
   },
   {
    "id": "kelsey-lu::so-help-me-god",
@@ -2908,6 +3719,53 @@
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
   },
   {
+   "id": "earthball::actual-earth-music-volume-3-and-4",
+   "artist": "EarthBall",
+   "title": "Actual Earth Music – Volume 3 & 4",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/plastic-alphabet-actual-earth-music-volume-3-4-by-earthball/",
+     "date": "2026-06-25T07:54:07.000Z",
+     "score": null,
+     "note": "Exploratory Canadians capture lighning in a bottle, marshalling their transcendent free rock into a package that feels joyful, communicating effortlessly",
+     "listenUrl": null,
+     "rank": 18
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/06/EarthBall-2026-scanner-1024x1024.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/EarthBall%20Actual%20Earth%20Music%20%E2%80%93%20Volume%203%20%26%204/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/actual-earth-music-volume-3-4/1890143673",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=EarthBall%20Actual%20Earth%20Music%20%E2%80%93%20Volume%203%20%26%204",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=EarthBall%20Actual%20Earth%20Music%20%E2%80%93%20Volume%203%20%26%204&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/952996331",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-26",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-06-25T07:54:07.000Z",
+   "lastPickAt": "2026-06-25T07:54:07.000Z"
+  },
+  {
    "id": "tasha::you-are-spring",
    "artist": "Tasha",
    "title": "You Are Spring!",
@@ -2953,6 +3811,53 @@
    "releaseDate": "2026-06-26",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "tony-njoku::a-world-of-bodies-on-fire",
+   "artist": "Tony Njoku",
+   "title": "A World of Bodies on Fire",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/a-world-of-bodies-on-fire-by-tony-njoku-review/",
+     "date": "2026-06-18T05:30:00.000Z",
+     "score": null,
+     "note": "Eschewing his former maximalist approach to music making, Tony Njoku’s new EP sounds like a complete reset, where he rediscovers his voice and lets go of frustration through meditations for synth and piano",
+     "listenUrl": null,
+     "rank": 19
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/06/DSC00376-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Tony%20Njoku%20A%20World%20of%20Bodies%20on%20Fire/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/a-world-of-bodies-on-fire-ep/1888070509",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Tony%20Njoku%20A%20World%20of%20Bodies%20on%20Fire",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Tony%20Njoku%20A%20World%20of%20Bodies%20on%20Fire&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/947734121",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-12",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-06-18T05:30:00.000Z",
+   "lastPickAt": "2026-06-18T05:30:00.000Z"
   },
   {
    "id": "styrofoam-winos::any-river",
@@ -3058,6 +3963,53 @@
    "releaseDate": "2026-06-12",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "horse-lords::demand-to-be-taken-to-heaven-alive",
+   "artist": "Horse Lords",
+   "title": "Demand to Be Taken to Heaven Alive!",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/society-of-the-spectacles-demand-to-be-taken-to-heaven-alive-by-horse-lords/",
+     "date": "2026-06-11T08:08:34.000Z",
+     "score": null,
+     "note": "Baltimore avant-rock group propose a revolution in everyday life, reconstructing American vernacular traditions from the ground up",
+     "listenUrl": null,
+     "rank": 20
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/06/Horse_Lords_credit_Kasia_Zacharko_002-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Horse%20Lords%20Demand%20to%20Be%20Taken%20to%20Heaven%20Alive!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/demand-to-be-taken-to-heaven-alive/1880763995",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Horse%20Lords%20Demand%20to%20Be%20Taken%20to%20Heaven%20Alive!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Horse%20Lords%20Demand%20to%20Be%20Taken%20to%20Heaven%20Alive!&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/928895911",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-12",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-06-11T08:08:34.000Z",
+   "lastPickAt": "2026-06-11T08:08:34.000Z"
   },
   {
    "id": "wiki::ancient-history",
@@ -3202,6 +4154,53 @@
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
   },
   {
+   "id": "blood-incantation::all-gates-open-original-motion-picture-soundtrack",
+   "artist": "Blood Incantation",
+   "title": "All Gates Open: Original Motion Picture Soundtrack",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/blood-incantation-all-gates-open-ost-review/",
+     "date": "2026-06-04T05:30:00.000Z",
+     "score": null,
+     "note": "The soundtrack to a new film about the Denver heavy metal four-piece takes the listener deep into an exploration of outer – and inner – space",
+     "listenUrl": null,
+     "rank": 21
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/06/BloodIn_-Alessandro-di-Martino-1024x576.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Blood%20Incantation%20All%20Gates%20Open%3A%20Original%20Motion%20Picture%20Soundtrack/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/all-gates-open-original-motion-picture-soundtrack/1892301244",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Blood%20Incantation%20All%20Gates%20Open%3A%20Original%20Motion%20Picture%20Soundtrack",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Blood%20Incantation%20All%20Gates%20Open%3A%20Original%20Motion%20Picture%20Soundtrack&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/958515151",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-06-05",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-06-04T05:30:00.000Z",
+   "lastPickAt": "2026-06-04T05:30:00.000Z"
+  },
+  {
    "id": "slippers::slippers-08",
    "artist": "Slippers",
    "title": "Slippers 08",
@@ -3344,6 +4343,49 @@
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
   },
   {
+   "id": "deafkids::cicatrizes-do-futuro",
+   "artist": "Deafkids",
+   "title": "Cicatrizes Do Futuro",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/deafkids-cicatrizes-do-futuro-review/",
+     "date": "2026-05-28T06:00:00.000Z",
+     "score": null,
+     "note": "Drawing inspiration from the carnival-esque rituals of Bumba Meu Boi, the Brazilian duo find paths to the future in ancient rhythms, not far-off galaxies",
+     "listenUrl": null,
+     "rank": 22
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/05/DEAFKIDS_2026_H_02_CREDIT_IVI-MAIGA-BUGRIMENKO.jpg-1024x680.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Deafkids%20Cicatrizes%20Do%20Futuro/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/cicatrizes-do-futuro/1882671571",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Deafkids%20Cicatrizes%20Do%20Futuro",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Deafkids%20Cicatrizes%20Do%20Futuro&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-05-29",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-05-28T06:00:00.000Z",
+   "lastPickAt": "2026-05-28T06:00:00.000Z"
+  },
+  {
    "id": "ear::rumspringa",
    "artist": "ear",
    "title": "Rumspringa",
@@ -3389,6 +4431,53 @@
    "releaseDate": "2026-05-29",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z"
+  },
+  {
+   "id": "magic-tuber-stringband::heavy-water",
+   "artist": "Magic Tuber Stringband",
+   "title": "Heavy Water",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/heavy-water-magic-tuber-stringband-review/",
+     "date": "2026-05-21T05:30:00.000Z",
+     "score": null,
+     "note": "Magic Tuber Stringband’s first LP as a trio is a work of unruly beauty that doubles as a cautionary tale, says Bernie Brooks",
+     "listenUrl": null,
+     "rank": 23
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/05/13-Magic-Tuber-Stringband-by-Dani-Smith-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Magic%20Tuber%20Stringband%20Heavy%20Water/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/heavy-water/1876063899",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Magic%20Tuber%20Stringband%20Heavy%20Water",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Magic%20Tuber%20Stringband%20Heavy%20Water&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/915490391",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-22",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-05-21T05:30:00.000Z",
+   "lastPickAt": "2026-05-21T05:30:00.000Z"
   },
   {
    "id": "lowertown::ugly-duckling-union",
@@ -3485,6 +4574,53 @@
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
   },
   {
+   "id": "sam-hoyek::demonstration-01-anomalous",
+   "artist": "Sam Hoyek",
+   "title": "Demonstration 01: Anomalous",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/shatterproof-demonstration-01-anomalous-by-sam-hoyek/",
+     "date": "2026-05-14T08:27:59.000Z",
+     "score": null,
+     "note": "An album of sonic and metaphysical skirmishes from the Syrian-born, Montreal-based experimental musician",
+     "listenUrl": null,
+     "rank": 24
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/05/dd0f0a4d-365b-458a-9d8f-c6f62d3db62c-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Sam%20Hoyek%20Demonstration%2001%3A%20Anomalous/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/demonstration-01-anomalous-ep/1894069264",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Sam%20Hoyek%20Demonstration%2001%3A%20Anomalous",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Sam%20Hoyek%20Demonstration%2001%3A%20Anomalous&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/964112781",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-15",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-05-14T08:27:59.000Z",
+   "lastPickAt": "2026-05-14T08:27:59.000Z"
+  },
+  {
    "id": "touch-girl-apple-blossom::graceful",
    "artist": "Touch Girl Apple Blossom",
    "title": "Graceful",
@@ -3530,6 +4666,53 @@
    "releaseDate": "2026-05-15",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "guttersnipe::extinction-burst",
+   "artist": "Guttersnipe",
+   "title": "Extinction Burst!",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/extinction-burst-guttersnipe-review/",
+     "date": "2026-05-07T08:36:41.000Z",
+     "score": null,
+     "note": "Back after an eight-year album gap, the Leeds duo have met the moment, matching the scale of our psychic overwhelm with an album of more-than-human intensity",
+     "listenUrl": null,
+     "rank": 25
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/05/guttersnipe_1_1_-1024x683.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Guttersnipe%20Extinction%20Burst!/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/extinction-burst/1883153535",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Guttersnipe%20Extinction%20Burst!",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Guttersnipe%20Extinction%20Burst!&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/937831041",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-08",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-05-07T08:36:41.000Z",
+   "lastPickAt": "2026-05-07T08:36:41.000Z"
   },
   {
    "id": "aldous-harding::train-on-the-island",
@@ -3638,6 +4821,53 @@
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
   },
   {
+   "id": "ben-vida::oblivion-seekers",
+   "artist": "Ben Vida",
+   "title": "Oblivion Seekers",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/oblivion-seekers-ben-vida-review/",
+     "date": "2026-04-30T05:15:00.000Z",
+     "score": null,
+     "note": "Following a series of journeys in tech-abstraction, the American composer swerves towards the analogue and the limpid presence of the human voice",
+     "listenUrl": null,
+     "rank": 26
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2024/05/tq_ImageShare.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Ben%20Vida%20Oblivion%20Seekers/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/oblivion-seekers/1872123126",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Ben%20Vida%20Oblivion%20Seekers",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Ben%20Vida%20Oblivion%20Seekers&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/905500902",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-05-01",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-04-30T05:15:00.000Z",
+   "lastPickAt": "2026-04-30T05:15:00.000Z"
+  },
+  {
    "id": "lip-critic::theft-world",
    "artist": "Lip Critic",
    "title": "Theft World",
@@ -3740,6 +4970,53 @@
    "releaseDate": "2026-04-24",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "serokolo-7::maramfa-musick-pro",
+   "artist": "Serokolo 7",
+   "title": "Maramfa Musick Pro",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/maramfa-musick-pro-serokolo-7-review/",
+     "date": "2026-04-23T08:02:58.000Z",
+     "score": null,
+     "note": "On his new album, Maramfa Musick Pro, the 27-year-old South African producer bypasses the polished globalism of modern club music to deliver a raw, ancestral, and intensely localised masterpiece",
+     "listenUrl": null,
+     "rank": 27
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/04/serokolo-landscape.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Serokolo%207%20Maramfa%20Musick%20Pro/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/maramfa-musik-pro/1890549948",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Serokolo%207%20Maramfa%20Musick%20Pro",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Serokolo%207%20Maramfa%20Musick%20Pro&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/954075251",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-24",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-04-23T08:02:58.000Z",
+   "lastPickAt": "2026-04-23T08:02:58.000Z"
   },
   {
    "id": "starker::living-type-dangerous-vol-1",
@@ -3878,6 +5155,53 @@
    "releaseDate": "2026-04-17",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "kristen-gallerneaux::life-day",
+   "artist": "Kristen Gallerneaux",
+   "title": "Life Day",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/life-day-by-kristen-gallerneaux-review/",
+     "date": "2026-04-16T05:10:00.000Z",
+     "score": null,
+     "note": "Suffused with birdsong and seemingly haunted acoustic instruments, the new album from the Michigan-based artist and curator evokes the eerie sonics of the hospital ward, finds Joel Stern",
+     "listenUrl": null,
+     "rank": 28
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/04/Stacked-6-300-1024x576.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Kristen%20Gallerneaux%20Life%20Day/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/life-day/1890109625",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Kristen%20Gallerneaux%20Life%20Day",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Kristen%20Gallerneaux%20Life%20Day&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1122493582",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-19",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-04-16T05:10:00.000Z",
+   "lastPickAt": "2026-04-16T05:10:00.000Z"
   },
   {
    "id": "winston-hightower::100-acre-wood",
@@ -4020,6 +5344,53 @@
    "releaseDate": "2026-04-10",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z"
+  },
+  {
+   "id": "upsammy-and-valentina-magaletti::seismo",
+   "artist": "Upsammy & Valentina Magaletti",
+   "title": "Seismo",
+   "firstSeen": "2026-10-30T19:03:19.178Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/seismo-upsammy-valentina-magaletti-review/",
+     "date": "2026-04-09T08:25:35.000Z",
+     "score": null,
+     "note": "Originally commissioned by Amsterdam's Rijksmuseum, this collaboration between the Amsterdam-based producer and ther UK's busiest drummer opens up dazzling worlds of percussive sound",
+     "listenUrl": null,
+     "rank": 29
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/04/MUTEK26_Upsammy-ValentinaMagaletti_Bruno-Aiello-Destombes_DSC07821-1024x663.jpeg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Upsammy%20%26%20Valentina%20Magaletti%20Seismo/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/seismo/1867239458",
+     "exact": true
+    },
+    "youtubeMusic": {
+     "url": "https://music.youtube.com/search?q=Upsammy%20%26%20Valentina%20Magaletti%20Seismo",
+     "exact": false
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Upsammy%20%26%20Valentina%20Magaletti%20Seismo&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/920382971",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-04-10",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "addedAt": "2026-04-09T08:25:35.000Z",
+   "lastPickAt": "2026-04-09T08:25:35.000Z"
   },
   {
    "id": "wendy-eisenberg::wendy-eisenberg",
