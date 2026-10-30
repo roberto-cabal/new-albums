@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T19:03:19.178Z",
+ "updatedAt": "2026-10-30T19:05:29.801Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 56,
-   "checkedAt": "2026-10-30T19:03:19.178Z"
+   "checkedAt": "2026-10-30T19:05:29.801Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-10-30T19:03:19.178Z"
+   "checkedAt": "2026-10-30T19:05:29.801Z"
   },
   {
    "id": "stereogum",
@@ -29,17 +29,17 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-10-30T19:03:19.178Z"
+   "checkedAt": "2026-10-30T19:05:29.801Z"
   },
   {
    "id": "quietus",
    "name": "The Quietus",
    "list": "Album of the Week",
    "homepage": "https://thequietus.com/columns/quietus-reviews/album-of-the-week/",
-   "ok": true,
-   "error": null,
+   "ok": false,
+   "error": "HTTP 403 https://thequietus.com/wp-json/wp/v2/posts?categories=27&per_page=30&_embed=wp:term&_fields=link,date_gmt,title,yoast_head_json,_links,_embedded",
    "count": 30,
-   "checkedAt": "2026-10-30T19:03:19.178Z"
+   "checkedAt": "2026-10-30T19:05:29.801Z"
   }
  ],
  "albums": [
