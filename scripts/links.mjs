@@ -69,7 +69,7 @@ async function getSpotifyToken() {
   return spotifyToken.value;
 }
 
-async function spotify(artist, title) {
+export async function spotify(artist, title) {
   const token = await getSpotifyToken();
   if (!token) return null;
   const q = encodeURIComponent(`${artist} ${title}`);

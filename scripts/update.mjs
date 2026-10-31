@@ -4,13 +4,14 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import allSources from './sources/index.mjs';
 import { albumKey } from './util.mjs';
-import { resolveLinks } from './links.mjs';
+import { resolveLinks, spotify } from './links.mjs';
 
 const sources = allSources.filter((s) => s.enabled !== false);
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DB_PATH = join(ROOT, 'public', 'data', 'albums.json');
 const MAX_RESOLVE = Number(process.env.MAX_RESOLVE ?? 250);
 const RECHECK_DAYS = 7;
+const spotifyOn = Boolean(process.env.SPOTIFY_CLIENT_ID && process.env.SPOTIFY_CLIENT_SECRET);
 const DAY = 86400000;
 
 async function loadDb() {
@@ -88,6 +89,26 @@ for (const album of pending.slice(0, MAX_RESOLVE)) {
   album.releaseDate ||= r.releaseDate;
   album.linksComplete = r.complete;
   if (!r.hadErrors) album.linksCheckedAt = now;
+  if (spotifyOn && !r.hadErrors) album.spotifyCheckedAt = now;
+}
+
+// Albums resolved before Spotify credentials existed were marked complete with only a search link; look them up once.
+const backfill = spotifyOn
+  ? [...albums.values()].filter((a) => a.linksCheckedAt && !a.links?.spotify?.exact && !a.spotifyCheckedAt)
+  : [];
+if (backfill.length) console.log(`→ Buscando ${Math.min(backfill.length, MAX_RESOLVE)} / ${backfill.length} álbumes en Spotify`);
+for (const album of backfill.slice(0, MAX_RESOLVE)) {
+  try {
+    const sp = await spotify(album.artist, album.title);
+    if (sp?.url) album.links = { ...album.links, spotify: { url: sp.url, exact: true } };
+    // Not on Spotify yet: fall back to the weekly retry for incomplete albums.
+    else album.linksComplete = false;
+    album.cover ||= sp?.cover ?? null;
+    album.spotifyCheckedAt = now;
+  } catch (err) {
+    console.warn(`  ! Spotify: ${err.message}`);
+    if (err.status === 400 || err.status === 401) break; // bad credentials: every lookup would fail
+  }
 }
 
 for (const album of albums.values()) {
