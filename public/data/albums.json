@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T14:30:42.873Z",
+ "updatedAt": "2026-10-31T14:41:50.633Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 56,
-   "checkedAt": "2026-10-31T14:30:42.873Z"
+   "checkedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-10-31T14:30:42.873Z"
+   "checkedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-10-31T14:30:42.873Z"
+   "checkedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "quietus",
@@ -39,7 +39,7 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-10-31T14:30:42.873Z"
+   "checkedAt": "2026-10-31T14:41:50.633Z"
   }
  ],
  "albums": [
@@ -85,7 +85,8 @@
    "releaseDate": null,
    "linksComplete": false,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "leroy::status-update-music",
@@ -129,7 +130,8 @@
    "releaseDate": null,
    "linksComplete": false,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "leo-chadburn-and-phaedra-ensemble::english-dancing-master",
@@ -173,7 +175,8 @@
    "linksCheckedAt": "2026-10-30T19:03:19.178Z",
    "addedAt": "2026-10-29T09:47:20.000Z",
    "lastPickAt": "2026-10-29T09:47:20.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "diiv::zirp",
@@ -217,7 +220,8 @@
    "releaseDate": "2026-10-30",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "heavensouls::cantu-of-the-sower",
@@ -276,7 +280,8 @@
    "releaseDate": "2026-10-07",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "brakence::marrow",
@@ -328,7 +333,8 @@
    "releaseDate": "2026-10-23",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "fine::jazz-dreams",
@@ -377,7 +383,8 @@
    "releaseDate": "2026-10-23",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "shovel-dance-collective::everything-in-readiness",
@@ -425,7 +432,8 @@
    "linksCheckedAt": "2026-10-30T19:03:19.178Z",
    "addedAt": "2026-10-22T07:46:50.000Z",
    "lastPickAt": "2026-10-22T07:46:50.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "alchemical-sisters::alchemical-sisters",
@@ -474,7 +482,8 @@
    "releaseDate": "2026-10-19",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "josh-johnson::animative",
@@ -518,7 +527,8 @@
    "releaseDate": "2026-10-23",
    "linksComplete": false,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "worldpeace-dmt::stick-around-for-tea",
@@ -567,7 +577,8 @@
    "releaseDate": "2026-10-16",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "djrum::dj-kicks",
@@ -616,7 +627,8 @@
    "releaseDate": "2026-09-02",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
+   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
   },
   {
    "id": "the-avalanches::no-bad-memories",
