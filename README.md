@@ -23,6 +23,8 @@ Los álbumes que aparecen en varias listas se fusionan en una sola tarjeta (filt
 
 Los links con fondo sólido van directo al álbum; los punteados son búsquedas.
 
+Cada tarjeta incluye también un link de búsqueda a [Album of the Year](https://www.albumoftheyear.org/) para ver sus calificaciones. AOTY no se integra como lista porque bloquea las peticiones automáticas (Cloudflare) y no tiene API pública.
+
 ## Uso local
 
 ```bash

@@ -74,7 +74,13 @@ function listenLinks(a) {
       const title = l.exact ? `Escuchar en ${name}` : `Buscar en ${name}`;
       return `<a class="svc ${l.exact ? 'exact' : 'search'}" style="--svc:${color}" href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener" title="${title}">${name}</a>`;
     })
-    .join('');
+    .join('') + aotyLink(a);
+}
+
+// AOTY blocks automated requests, so we only link to its search and let the visitor's browser open it.
+function aotyLink(a) {
+  const q = encodeURIComponent(`${a.artist} ${a.title}`);
+  return `<a class="svc search" style="--svc:var(--muted)" href="https://www.albumoftheyear.org/search/?q=${q}" target="_blank" rel="noopener" title="Ver calificaciones en Album of the Year">AOTY</a>`;
 }
 
 function card(a) {
