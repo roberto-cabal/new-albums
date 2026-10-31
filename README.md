@@ -19,7 +19,7 @@ Los álbumes que aparecen en varias listas se fusionan en una sola tarjeta (filt
 - **Apple Music**: iTunes Search API (gratis, sin llave).
 - **Deezer**: API pública de búsqueda.
 - **Spotify**: link directo al álbum si configuras `SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`; si no, link de búsqueda.
-- **YouTube Music / Bandcamp**: link de búsqueda (o directo si la lista ya lo trae).
+- **Bandcamp**: link de búsqueda (o directo si la lista ya lo trae).
 
 Los links con fondo sólido van directo al álbum; los punteados son búsquedas.
 

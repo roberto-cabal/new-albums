@@ -73,10 +73,6 @@
      "url": "https://music.apple.com/us/search?term=Vanessa%20Rossetto%20The%20Professional",
      "exact": false
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Vanessa%20Rossetto%20The%20Professional",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://erstwhilerecords.bandcamp.com/album/the-professional",
      "exact": true
@@ -85,8 +81,7 @@
    "releaseDate": null,
    "linksComplete": false,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "leroy::status-update-music",
@@ -118,10 +113,6 @@
      "url": "https://music.apple.com/us/search?term=leroy%20status%20update%20music",
      "exact": false
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=leroy%20status%20update%20music",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://janeremover.bandcamp.com/album/status-update-music",
      "exact": true
@@ -130,8 +121,7 @@
    "releaseDate": null,
    "linksComplete": false,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "leo-chadburn-and-phaedra-ensemble::english-dancing-master",
@@ -161,10 +151,6 @@
      "url": "https://music.apple.com/us/album/english-dancing-master/6816930479",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Leo%20Chadburn%20%26%20Phaedra%20Ensemble%20English%20Dancing%20Master",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Leo%20Chadburn%20%26%20Phaedra%20Ensemble%20English%20Dancing%20Master&item_type=a",
      "exact": false
@@ -175,8 +161,7 @@
    "linksCheckedAt": "2026-10-30T19:03:19.178Z",
    "addedAt": "2026-10-29T09:47:20.000Z",
    "lastPickAt": "2026-10-29T09:47:20.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "diiv::zirp",
@@ -208,10 +193,6 @@
      "url": "https://music.apple.com/us/album/zirp/6790597250",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=DIIV%20ZIRP!",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=DIIV%20ZIRP!&item_type=a",
      "exact": false
@@ -220,8 +201,7 @@
    "releaseDate": "2026-10-30",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "heavensouls::cantu-of-the-sower",
@@ -264,10 +244,6 @@
      "url": "https://music.apple.com/us/album/cantu-of-the-sower/6796075558",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=heavensouls%20%22cantu%22%20of%20the%20sower",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=heavensouls%20%22cantu%22%20of%20the%20sower&item_type=a",
      "exact": false
@@ -280,8 +256,7 @@
    "releaseDate": "2026-10-07",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "brakence::marrow",
@@ -313,10 +288,6 @@
      "url": "https://music.apple.com/us/album/marrow/6814885746",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=brakence%20marroW",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=brakence%20marroW&item_type=a",
      "exact": false
@@ -333,8 +304,7 @@
    "releaseDate": "2026-10-23",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "fine::jazz-dreams",
@@ -367,10 +337,6 @@
      "url": "https://music.apple.com/us/album/jazz-dreams/6804420071",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Fine%20Jazz%20dreams",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Fine%20Jazz%20dreams&item_type=a",
      "exact": false
@@ -383,8 +349,7 @@
    "releaseDate": "2026-10-23",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "shovel-dance-collective::everything-in-readiness",
@@ -414,10 +379,6 @@
      "url": "https://music.apple.com/us/album/everything-in-readiness/6793973178",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Shovel%20Dance%20Collective%20Everything%20in%20Readiness",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Shovel%20Dance%20Collective%20Everything%20in%20Readiness&item_type=a",
      "exact": false
@@ -432,8 +393,7 @@
    "linksCheckedAt": "2026-10-30T19:03:19.178Z",
    "addedAt": "2026-10-22T07:46:50.000Z",
    "lastPickAt": "2026-10-22T07:46:50.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "alchemical-sisters::alchemical-sisters",
@@ -466,10 +426,6 @@
      "url": "https://music.apple.com/us/album/alchemical-sisters/6813844215",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Alchemical%20Sisters%20Alchemical%20Sisters",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Alchemical%20Sisters%20Alchemical%20Sisters&item_type=a",
      "exact": false
@@ -482,8 +438,7 @@
    "releaseDate": "2026-10-19",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "josh-johnson::animative",
@@ -515,10 +470,6 @@
      "url": "https://music.apple.com/us/album/animative/6795766313",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Josh%20Johnson%20Animative",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Josh%20Johnson%20Animative&item_type=a",
      "exact": false
@@ -527,8 +478,7 @@
    "releaseDate": "2026-10-23",
    "linksComplete": false,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "worldpeace-dmt::stick-around-for-tea",
@@ -561,10 +511,6 @@
      "url": "https://music.apple.com/us/album/stick-around-for-tea/6812472458",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Worldpeace%20DMT%20Stick%20Around%20for%20Tea",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Worldpeace%20DMT%20Stick%20Around%20for%20Tea&item_type=a",
      "exact": false
@@ -577,8 +523,7 @@
    "releaseDate": "2026-10-16",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "djrum::dj-kicks",
@@ -611,10 +556,6 @@
      "url": "https://music.apple.com/us/album/psychic-video-dj-kicks-single/6785915576",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Djrum%20DJ-Kicks",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Djrum%20DJ-Kicks&item_type=a",
      "exact": false
@@ -627,8 +568,7 @@
    "releaseDate": "2026-09-02",
    "linksComplete": true,
    "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z",
-   "youtubeCheckedAt": "2026-10-31T14:41:50.633Z"
+   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
    "id": "the-avalanches::no-bad-memories",
@@ -659,10 +599,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/no-bad-memories/6794202148",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=The%20Avalanches%20No%20Bad%20Memories",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=The%20Avalanches%20No%20Bad%20Memories&item_type=a",
@@ -709,10 +645,6 @@
      "url": "https://music.apple.com/us/album/autosmile/6776384289",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=%40%20Autosmile",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=%40%20Autosmile&item_type=a",
      "exact": false
@@ -754,10 +686,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/parallel-commutator-ep/6800335136",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=CZN%20Parallel%20Commutator",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=CZN%20Parallel%20Commutator&item_type=a",
@@ -805,10 +733,6 @@
      "url": "https://music.apple.com/us/album/decay/6779721992",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Godflesh%20Decay",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Godflesh%20Decay&item_type=a",
      "exact": false
@@ -852,10 +776,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/the-greatest-album-of-all-time/6808639680",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Sophia%20Stel%20the%20greatest%20album%20of%20all%20time",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Sophia%20Stel%20the%20greatest%20album%20of%20all%20time&item_type=a",
@@ -901,10 +821,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/a-mile-south-of-heaven/6778575167",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Jess%20Williamson%20A%20Mile%20South%20of%20Heaven",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Jess%20Williamson%20A%20Mile%20South%20of%20Heaven&item_type=a",
@@ -960,10 +876,6 @@
      "url": "https://music.apple.com/us/album/newly-sentient-being-live/6792129504",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Swans%20Newly%20Sentient%20Being",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://swans.bandcamp.com/album/newly-sentient-being",
      "exact": true
@@ -1004,10 +916,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/dja-dja/6793133608",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Marina%20Herlop%20Dja%20Dja",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Marina%20Herlop%20Dja%20Dja&item_type=a",
@@ -1050,10 +958,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/ako-akas/6819285988",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=10LEC6%20Ako%20Akas",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=10LEC6%20Ako%20Akas&item_type=a",
@@ -1132,10 +1036,6 @@
      "url": "https://music.apple.com/us/album/live-at-carnegie-hall/6801645193",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Cameron%20Winter%20Live%20at%20Carnegie%20Hall",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall",
      "exact": true
@@ -1177,10 +1077,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/archives/6774158732",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Vanishing%20Twin%20Archives",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Vanishing%20Twin%20Archives&item_type=a",
@@ -1229,10 +1125,6 @@
      "url": "https://music.apple.com/us/album/this-is-spa-town/6810312248",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=300SkullsAndCounting%20%2F%20Jenny%20Sparks%20THIS%20IS%20SPA%20TOWN!",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=300SkullsAndCounting%20%2F%20Jenny%20Sparks%20THIS%20IS%20SPA%20TOWN!&item_type=a",
      "exact": false
@@ -1276,10 +1168,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/hotel-usona/6783429344",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Protomartyr%20Hotel%20Usona",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Protomartyr%20Hotel%20Usona&item_type=a",
@@ -1336,10 +1224,6 @@
      "url": "https://music.apple.com/us/album/popstar/6789739137",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Tinashe%20Popstar",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Tinashe%20Popstar&item_type=a",
      "exact": false
@@ -1384,10 +1268,6 @@
      "url": "https://music.apple.com/us/album/all-set-the-bone/6784790284",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Greg%20Freeman%20All%20Set%20The%20Bone",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Greg%20Freeman%20All%20Set%20The%20Bone&item_type=a",
      "exact": false
@@ -1429,10 +1309,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/quiet-storm/6774245309",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Space%20Afrika%20Quiet%20Storm",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Space%20Afrika%20Quiet%20Storm&item_type=a",
@@ -1491,10 +1367,6 @@
      "url": "https://music.apple.com/us/album/pugnello/6778540217",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Gilla%20Band%20Pugnello",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Gilla%20Band%20Pugnello&item_type=a",
      "exact": false
@@ -1538,10 +1410,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/late-to-set/1890280512",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Alex%20Cameron%20Late%20to%20Set",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Alex%20Cameron%20Late%20to%20Set&item_type=a",
@@ -1587,10 +1455,6 @@
      "url": "https://music.apple.com/us/album/standing-on-the-corner-ii/6810745803",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Standing%20on%20the%20Corner%20Standing%20on%20the%20Corner%20%22II%22",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Standing%20on%20the%20Corner%20Standing%20on%20the%20Corner%20%22II%22&item_type=a",
      "exact": false
@@ -1631,10 +1495,6 @@
     },
     "appleMusic": {
      "url": "https://music.apple.com/us/search?term=Finn%20Loxbo%20Lummernikt",
-     "exact": false
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Finn%20Loxbo%20Lummernikt",
      "exact": false
     },
     "bandcamp": {
@@ -1679,10 +1539,6 @@
      "url": "https://music.apple.com/us/album/melodie/6769823972",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Slow%20Pulp%20Melodie",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Slow%20Pulp%20Melodie&item_type=a",
      "exact": false
@@ -1724,10 +1580,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/yours-sincerely/6769082566",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Haruomi%20Hosono%20Yours%20Sincerely",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Haruomi%20Hosono%20Yours%20Sincerely&item_type=a",
@@ -1775,10 +1627,6 @@
      "url": "https://music.apple.com/us/album/who-loves-the-sun/6769103496",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Chat%20Pile%20Who%20Loves%20the%20Sun",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Chat%20Pile%20Who%20Loves%20the%20Sun&item_type=a",
      "exact": false
@@ -1822,10 +1670,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/the-singer-in-my-band/6774172428",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=This%20Is%20Lorelei%20The%20Singer%20In%20My%20Band",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=This%20Is%20Lorelei%20The%20Singer%20In%20My%20Band&item_type=a",
@@ -1871,10 +1715,6 @@
      "url": "https://music.apple.com/us/album/chrome/1895415425",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Ty%20Segall%20Chrome",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Ty%20Segall%20Chrome&item_type=a",
      "exact": false
@@ -1916,10 +1756,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/opening/6802611783",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Klara%20Lewis%20Opening",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Klara%20Lewis%20Opening&item_type=a",
@@ -1968,10 +1804,6 @@
      "url": "https://music.apple.com/us/album/ultimate-love-forever/6791754055",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Lex%20Walton%20Ultimate%20Love%20Forever",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Lex%20Walton%20Ultimate%20Love%20Forever&item_type=a",
      "exact": false
@@ -2015,10 +1847,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/this-mirror-weighs-a-ton/6768694728",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Interpol%20This%20Mirror%20Weighs%20a%20Ton",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Interpol%20This%20Mirror%20Weighs%20a%20Ton&item_type=a",
@@ -2064,10 +1892,6 @@
      "url": "https://music.apple.com/us/album/lightspheres-on-their-way/6771438710",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Lily%20Seabird%20Lightspheres%20On%20Their%20Way",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Lily%20Seabird%20Lightspheres%20On%20Their%20Way&item_type=a",
      "exact": false
@@ -2112,10 +1936,6 @@
      "url": "https://music.apple.com/us/album/ii/6788465743",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Denzel%20Curry%20%26%20Kenneth%20Blume%20ii",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Denzel%20Curry%20%26%20Kenneth%20Blume%20ii&item_type=a",
      "exact": false
@@ -2157,10 +1977,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/olu-si-n-worshippers/6768613456",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Ibukun%20Sunday%20Ol%C3%BAs%C3%ADn%20%5BWorshippers%5D",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Ibukun%20Sunday%20Ol%C3%BAs%C3%ADn%20%5BWorshippers%5D&item_type=a",
@@ -2208,10 +2024,6 @@
      "url": "https://music.apple.com/us/album/doomed/6777189951",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Open%20Mike%20Eagle%20%26%20Kenny%20Segal%20DOOMED!",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Open%20Mike%20Eagle%20%26%20Kenny%20Segal%20DOOMED!&item_type=a",
      "exact": false
@@ -2256,10 +2068,6 @@
      "url": "https://music.apple.com/us/album/curi%C3%B3-curi%C3%B3/1893291679",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3%20Curi%C3%B3&item_type=a",
      "exact": false
@@ -2303,10 +2111,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/rotten-luck/6800289898",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Maripool%20Rotten%20Luck",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Maripool%20Rotten%20Luck&item_type=a",
@@ -2353,10 +2157,6 @@
      "url": "https://music.apple.com/us/album/punching-the-clown/1892045992",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Lambchop%20Punching%20the%20Clown",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Lambchop%20Punching%20the%20Clown&item_type=a",
      "exact": false
@@ -2394,10 +2194,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/k-drone/6793593945",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=%C5%A0imansk%C3%BD%20Va%C4%BEko%20Podrack%C3%BD%20K-drone",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=%C5%A0imansk%C3%BD%20Va%C4%BEko%20Podrack%C3%BD%20K-drone&item_type=a",
@@ -2445,10 +2241,6 @@
      "url": "https://music.apple.com/us/album/florida-water-blues-single/6784953318",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Twisted%20Teens%20Florida%20Water%20Blues",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Twisted%20Teens%20Florida%20Water%20Blues&item_type=a",
      "exact": false
@@ -2492,10 +2284,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/it-is-going-to-get-dark/6764899702",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=No%20Cure%20It%20Is%20Going%20to%20Get%20Dark",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=No%20Cure%20It%20Is%20Going%20to%20Get%20Dark&item_type=a",
@@ -2541,10 +2329,6 @@
      "url": "https://music.apple.com/us/album/it-goes-on/6768651964",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Westside%20Cowboy%20It%20Goes%20On",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Westside%20Cowboy%20It%20Goes%20On&item_type=a",
      "exact": false
@@ -2586,10 +2370,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/lost-in-another-world/6779725963",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=James%20Ellis%20Ford%20Lost%20In%20Another%20World",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=James%20Ellis%20Ford%20Lost%20In%20Another%20World&item_type=a",
@@ -2648,10 +2428,6 @@
      "url": "https://music.apple.com/us/album/lost-weekend/6781051268",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Phoebe%20Bridgers%20Lost%20Weekend",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Phoebe%20Bridgers%20Lost%20Weekend&item_type=a",
      "exact": false
@@ -2696,10 +2472,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/somewhere-over-the-rainbow/6796756524",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Nino%20Paid%20Somewhere%20Over%20the%20Rainbow",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Nino%20Paid%20Somewhere%20Over%20the%20Rainbow&item_type=a",
@@ -2756,10 +2528,6 @@
      "url": "https://music.apple.com/us/album/fata-morgana/6768756916",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=L%E2%80%99Rain%20fata%20morgana",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=L%E2%80%99Rain%20fata%20morgana&item_type=a",
      "exact": false
@@ -2804,10 +2572,6 @@
      "url": "https://music.apple.com/us/album/perdiendo-rasgos-adolescentes/6790923844",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Swaggerboyz%20PERDIENDO%20RASGOS%20ADOLESCENTES",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Swaggerboyz%20PERDIENDO%20RASGOS%20ADOLESCENTES&item_type=a",
      "exact": false
@@ -2845,10 +2609,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/na-gabhu-tam/6798429167",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Neptunian%20Maximalism%20Na%CC%84gabhu%CC%84tam%CC%A3",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Neptunian%20Maximalism%20Na%CC%84gabhu%CC%84tam%CC%A3&item_type=a",
@@ -2896,10 +2656,6 @@
      "url": "https://music.apple.com/us/album/tell-me-your-dream/6768712658",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Ceremony%20Tell%20Me%20Your%20Dream",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Ceremony%20Tell%20Me%20Your%20Dream&item_type=a",
      "exact": false
@@ -2941,10 +2697,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/xxxxx/6771049554",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Arca%20XXXXX",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Arca%20XXXXX&item_type=a",
@@ -2992,10 +2744,6 @@
      "url": "https://music.apple.com/us/album/chinook/1895766308",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Mallory%20Hawk%20Chinook",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Mallory%20Hawk%20Chinook&item_type=a",
      "exact": false
@@ -3040,10 +2788,6 @@
      "url": "https://music.apple.com/us/album/avant-nova-ep/6786787330",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=slayr%20AVANT%20NOVA%20(EP)",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=slayr%20AVANT%20NOVA%20(EP)&item_type=a",
      "exact": false
@@ -3084,10 +2828,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/uuuuuuuu/6821957116",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Picture%20Uuuuuuuu",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Picture%20Uuuuuuuu&item_type=a",
@@ -3132,10 +2872,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/emotional-junglist/1892437345",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Nia%20Archives%20Emotional%20Junglist",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Nia%20Archives%20Emotional%20Junglist&item_type=a",
@@ -3192,10 +2928,6 @@
      "url": "https://music.apple.com/us/album/music-fashion-film-b-sides-edition/6794163232",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Charli%20xcx%20Music%2C%20Fashion%2C%20Film",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Charli%20xcx%20Music%2C%20Fashion%2C%20Film&item_type=a",
      "exact": false
@@ -3237,10 +2969,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/my-heart-is-running-backwards-a-martial-artist/6770570819",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Nick%20Granata%20My%20Heart%20Is%20Running%20Backwards!%20A%20Martial%20Artist!%20With%20a%20Closed%20Fist!%20Woof!",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Nick%20Granata%20My%20Heart%20Is%20Running%20Backwards!%20A%20Martial%20Artist!%20With%20a%20Closed%20Fist!%20Woof!&item_type=a",
@@ -3288,10 +3016,6 @@
      "url": "https://music.apple.com/us/search?term=%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E%20%E0%BC%8E%E0%BA%B6%20%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96%20%EA%89%BA%E1%83%9A%20%CA%85()%3A%3A%20%E2%97%8F%20o%20%E2%97%8F%20o%20%E2%97%8F%20%D2%88%D2%88%D2%88%D2%88%D2%88%20%3A()(...",
      "exact": false
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E%20%E0%BC%8E%E0%BA%B6%20%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96%20%EA%89%BA%E1%83%9A%20%CA%85()%3A%3A%20%E2%97%8F%20o%20%E2%97%8F%20o%20%E2%97%8F%20%D2%88%D2%88%D2%88%D2%88%D2%88%20%3A()(...",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E%20%E0%BC%8E%E0%BA%B6%20%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96%20%EA%89%BA%E1%83%9A%20%CA%85()%3A%3A%20%E2%97%8F%20o%20%E2%97%8F%20o%20%E2%97%8F%20%D2%88%D2%88%D2%88%D2%88%D2%88%20%3A()(...&item_type=a",
      "exact": false
@@ -3331,10 +3055,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/i-can-see/6769136946",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Nick%20Hakim%20I%20Can%20See",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Nick%20Hakim%20I%20Can%20See&item_type=a",
@@ -3377,10 +3097,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/eye-wander/1893179487",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Ferries%20Eye%20Wander",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Ferries%20Eye%20Wander&item_type=a",
@@ -3428,10 +3144,6 @@
      "url": "https://music.apple.com/us/album/bring-on-the-psychics/1889232715",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Quicksand%20Bring%20On%20The%20Psychics",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Quicksand%20Bring%20On%20The%20Psychics&item_type=a",
      "exact": false
@@ -3472,10 +3184,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/my-skyscraper/6769192019",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Nirosta%20Steel%20My%20Skyscraper",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Nirosta%20Steel%20My%20Skyscraper&item_type=a",
@@ -3541,10 +3249,6 @@
      "url": "https://music.apple.com/us/album/new-avatar/1888561538",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Kelela%20new%20avatar",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Kelela%20new%20avatar&item_type=a",
      "exact": false
@@ -3586,10 +3290,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/driving-through-belgium/1893777745",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Anton%20Pearson%20Driving%20Through%20Belgium",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Anton%20Pearson%20Driving%20Through%20Belgium&item_type=a",
@@ -3637,10 +3337,6 @@
      "url": "https://music.apple.com/us/album/so-help-me-god/1876521144",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Kelsey%20Lu%20So%20Help%20Me%20God",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Kelsey%20Lu%20So%20Help%20Me%20God&item_type=a",
      "exact": false
@@ -3684,10 +3380,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/every-time-we-turn-a-corner/1875803297",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Nixon%20Boyd%20Every%20Time%20We%20Turn%20A%20Corner",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Nixon%20Boyd%20Every%20Time%20We%20Turn%20A%20Corner&item_type=a",
@@ -3744,10 +3436,6 @@
      "url": "https://music.apple.com/us/album/spontaneous-music-live/1892919451",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=SML%20Spontaneous%20Music%20Live",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=SML%20Spontaneous%20Music%20Live&item_type=a",
      "exact": false
@@ -3787,10 +3475,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/whacks-museum/6779443177",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Tierra%20Whack%20WHACK'S%20MUSEUM",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Tierra%20Whack%20WHACK'S%20MUSEUM&item_type=a",
@@ -3833,10 +3517,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/actual-earth-music-volume-3-4/1890143673",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=EarthBall%20Actual%20Earth%20Music%20%E2%80%93%20Volume%203%20%26%204",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=EarthBall%20Actual%20Earth%20Music%20%E2%80%93%20Volume%203%20%26%204&item_type=a",
@@ -3884,10 +3564,6 @@
      "url": "https://music.apple.com/us/album/you-are-spring/1887589690",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Tasha%20You%20Are%20Spring!",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Tasha%20You%20Are%20Spring!&item_type=a",
      "exact": false
@@ -3929,10 +3605,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/a-world-of-bodies-on-fire-ep/1888070509",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Tony%20Njoku%20A%20World%20of%20Bodies%20on%20Fire",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Tony%20Njoku%20A%20World%20of%20Bodies%20on%20Fire&item_type=a",
@@ -3979,10 +3651,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/any-river/1880736660",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Styrofoam%20Winos%20Any%20River",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Styrofoam%20Winos%20Any%20River&item_type=a",
@@ -4039,10 +3707,6 @@
      "url": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/6779097512",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Olivia%20Rodrigo%20you%20seem%20pretty%20sad%20for%20a%20girl%20so%20in%20love",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Olivia%20Rodrigo%20you%20seem%20pretty%20sad%20for%20a%20girl%20so%20in%20love&item_type=a",
      "exact": false
@@ -4084,10 +3748,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/demand-to-be-taken-to-heaven-alive/1880763995",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Horse%20Lords%20Demand%20to%20Be%20Taken%20to%20Heaven%20Alive!",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Horse%20Lords%20Demand%20to%20Be%20Taken%20to%20Heaven%20Alive!&item_type=a",
@@ -4135,10 +3795,6 @@
      "url": "https://music.apple.com/us/album/ancient-history/1896019015",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Wiki%20Ancient%20History",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Wiki%20Ancient%20History&item_type=a",
      "exact": false
@@ -4184,10 +3840,6 @@
      "url": "https://music.apple.com/us/album/exit-2b/6769526101",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=B0YG1RL%20%2F%20Novagang%20EXIT%202B",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=B0YG1RL%20%2F%20Novagang%20EXIT%202B&item_type=a",
      "exact": false
@@ -4232,10 +3884,6 @@
      "url": "https://music.apple.com/us/album/for-love-of-grace-the-hereafter/1880484160",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Iceage%20For%20Love%20of%20Grace%20%26%20the%20Hereafter",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Iceage%20For%20Love%20of%20Grace%20%26%20the%20Hereafter&item_type=a",
      "exact": false
@@ -4277,10 +3925,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/all-gates-open-original-motion-picture-soundtrack/1892301244",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Blood%20Incantation%20All%20Gates%20Open%3A%20Original%20Motion%20Picture%20Soundtrack",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Blood%20Incantation%20All%20Gates%20Open%3A%20Original%20Motion%20Picture%20Soundtrack&item_type=a",
@@ -4328,10 +3972,6 @@
      "url": "https://music.apple.com/us/album/slippers-08/1883100068",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Slippers%20Slippers%2008",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Slippers%20Slippers%2008&item_type=a",
      "exact": false
@@ -4375,10 +4015,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/redstar-wu-the-worldwide-scourge/1887196431",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Genesis%20Owusu%20Redstar%20Wu%20%26%20the%20Worldwide%20Scourge",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Genesis%20Owusu%20Redstar%20Wu%20%26%20the%20Worldwide%20Scourge&item_type=a",
@@ -4425,10 +4061,6 @@
      "url": "https://music.apple.com/us/album/inferno/1890015523",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Boards%20of%20Canada%20Inferno",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Boards%20of%20Canada%20Inferno&item_type=a",
      "exact": false
@@ -4470,10 +4102,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/cicatrizes-do-futuro/1882671571",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Deafkids%20Cicatrizes%20Do%20Futuro",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Deafkids%20Cicatrizes%20Do%20Futuro&item_type=a",
@@ -4517,10 +4145,6 @@
      "url": "https://music.apple.com/us/album/rumspringa/6766858352",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=ear%20Rumspringa",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=ear%20Rumspringa&item_type=a",
      "exact": false
@@ -4562,10 +4186,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/heavy-water/1876063899",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Magic%20Tuber%20Stringband%20Heavy%20Water",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Magic%20Tuber%20Stringband%20Heavy%20Water&item_type=a",
@@ -4613,10 +4233,6 @@
      "url": "https://music.apple.com/us/album/ugly-duckling-union/1872171971",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Lowertown%20Ugly%20Duckling%20Union",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Lowertown%20Ugly%20Duckling%20Union&item_type=a",
      "exact": false
@@ -4661,10 +4277,6 @@
      "url": "https://music.apple.com/us/album/look-for-your-mind/6789935518",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=The%20Lemon%20Twigs%20Look%20for%20Your%20Mind!",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=The%20Lemon%20Twigs%20Look%20for%20Your%20Mind!&item_type=a",
      "exact": false
@@ -4706,10 +4318,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/demonstration-01-anomalous-ep/1894069264",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Sam%20Hoyek%20Demonstration%2001%3A%20Anomalous",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Sam%20Hoyek%20Demonstration%2001%3A%20Anomalous&item_type=a",
@@ -4757,10 +4365,6 @@
      "url": "https://music.apple.com/us/album/graceful/1872109276",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Touch%20Girl%20Apple%20Blossom%20Graceful",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Touch%20Girl%20Apple%20Blossom%20Graceful&item_type=a",
      "exact": false
@@ -4802,10 +4406,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/extinction-burst/1883153535",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Guttersnipe%20Extinction%20Burst!",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Guttersnipe%20Extinction%20Burst!&item_type=a",
@@ -4864,10 +4464,6 @@
      "url": "https://music.apple.com/us/album/train-on-the-island/1876846303",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Aldous%20Harding%20Train%20on%20the%20Island",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Aldous%20Harding%20Train%20on%20the%20Island&item_type=a",
      "exact": false
@@ -4913,10 +4509,6 @@
      "url": "https://music.apple.com/us/album/poem-1/1876977313",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Ana%20Roxanne%20Poem%201",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Ana%20Roxanne%20Poem%201&item_type=a",
      "exact": false
@@ -4958,10 +4550,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/oblivion-seekers/1872123126",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Ben%20Vida%20Oblivion%20Seekers",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Ben%20Vida%20Oblivion%20Seekers&item_type=a",
@@ -5019,10 +4607,6 @@
      "url": "https://music.apple.com/us/album/theft-world/1852812554",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Lip%20Critic%20Theft%20World",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Lip%20Critic%20Theft%20World&item_type=a",
      "exact": false
@@ -5067,10 +4651,6 @@
      "url": "https://music.apple.com/us/album/caminhos-de-%C3%A1gua/6768540877",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Ka%C3%A1ta%C3%ACra%20Caminhos%20de%20%C3%81gua",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://kaatayra.bandcamp.com/album/caminhos-de-gua",
      "exact": true
@@ -5112,10 +4692,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/maramfa-musik-pro/1890549948",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Serokolo%207%20Maramfa%20Musick%20Pro",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Serokolo%207%20Maramfa%20Musick%20Pro&item_type=a",
@@ -5164,10 +4740,6 @@
      "url": "https://music.apple.com/us/search?term=Starker%20LIVING%20TYPE%20DANGEROUS%20Vol.%201",
      "exact": false
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Starker%20LIVING%20TYPE%20DANGEROUS%20Vol.%201",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Starker%20LIVING%20TYPE%20DANGEROUS%20Vol.%201&item_type=a",
      "exact": false
@@ -5207,10 +4779,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/confession/1875260543",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Carla%20dal%20Forno%20Confession",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Carla%20dal%20Forno%20Confession&item_type=a",
@@ -5256,10 +4824,6 @@
      "url": "https://music.apple.com/us/album/superbloom/1869414259",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Jessie%20Ware%20Superbloom",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Jessie%20Ware%20Superbloom&item_type=a",
      "exact": false
@@ -5301,10 +4865,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/life-day/1890109625",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Kristen%20Gallerneaux%20Life%20Day",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Kristen%20Gallerneaux%20Life%20Day&item_type=a",
@@ -5352,10 +4912,6 @@
      "url": "https://music.apple.com/us/album/100-acre-wood/1867514434",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Winston%20Hightower%20100%20Acre%20Wood",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Winston%20Hightower%20100%20Acre%20Wood&item_type=a",
      "exact": false
@@ -5399,10 +4955,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/distracted/1861531667",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Thundercat%20Distracted",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Thundercat%20Distracted&item_type=a",
@@ -5449,10 +5001,6 @@
      "url": "https://music.apple.com/us/album/my-new-band-believe/1866890640",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=My%20New%20Band%20Believe%20My%20New%20Band%20Believe",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=My%20New%20Band%20Believe%20My%20New%20Band%20Believe&item_type=a",
      "exact": false
@@ -5494,10 +5042,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/seismo/1867239458",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Upsammy%20%26%20Valentina%20Magaletti%20Seismo",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Upsammy%20%26%20Valentina%20Magaletti%20Seismo&item_type=a",
@@ -5546,10 +5090,6 @@
      "url": "https://music.apple.com/us/album/wendy-eisenberg/1865963435",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Wendy%20Eisenberg%20Wendy%20Eisenberg",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Wendy%20Eisenberg%20Wendy%20Eisenberg&item_type=a",
      "exact": false
@@ -5594,10 +5134,6 @@
      "url": "https://music.apple.com/us/search?term=WU%20LYF%20A%20Wave%20That%20Will%20Never%20Break",
      "exact": false
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=WU%20LYF%20A%20Wave%20That%20Will%20Never%20Break",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=WU%20LYF%20A%20Wave%20That%20Will%20Never%20Break&item_type=a",
      "exact": false
@@ -5635,10 +5171,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/sunn-o/1839324568",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=SUNN%20O)))%20SUNN%20O)))",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=SUNN%20O)))%20SUNN%20O)))&item_type=a",
@@ -5687,10 +5219,6 @@
      "url": "https://music.apple.com/us/album/wor%24t-girl-in-america/1867530577",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Slayyyter%20WOR%24T%20GIRL%20IN%20AMERICA",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Slayyyter%20WOR%24T%20GIRL%20IN%20AMERICA&item_type=a",
      "exact": false
@@ -5734,10 +5262,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/glass-and-bones/1853457041",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Makthaverskan%20Glass%20And%20Bones",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Makthaverskan%20Glass%20And%20Bones&item_type=a",
@@ -5783,10 +5307,6 @@
      "url": "https://music.apple.com/us/album/an-undying-love-for-a-burning-world/1882105289",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Neurosis%20An%20Undying%20Love%20for%20a%20Burning%20World",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Neurosis%20An%20Undying%20Love%20for%20a%20Burning%20World&item_type=a",
      "exact": false
@@ -5824,10 +5344,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/kinshasa-in-action/1886474264",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=KinAct%20Kinshasa%20in%20Action",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=KinAct%20Kinshasa%20in%20Action&item_type=a",
@@ -5885,10 +5401,6 @@
      "url": "https://music.apple.com/us/album/u/1878382378",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=underscores%20U",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://underscores.bandcamp.com/album/u",
      "exact": true
@@ -5932,10 +5444,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/trying-times/1880811313",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=James%20Blake%20Trying%20Times",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=James%20Blake%20Trying%20Times&item_type=a",
@@ -5981,10 +5489,6 @@
      "url": "https://music.apple.com/us/album/half-blood-bloodluxe/1896352425",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=slayr%20Half%20Blood%20(BloodLuxe)",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=slayr%20Half%20Blood%20(BloodLuxe)&item_type=a",
      "exact": false
@@ -6028,10 +5532,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/girlfriend/1876369944",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Grace%20Ives%20Girlfriend",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Grace%20Ives%20Girlfriend&item_type=a",
@@ -6077,10 +5577,6 @@
      "url": "https://music.apple.com/us/album/my-days-of-58/1846471021",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Bill%20Callahan%20My%20Days%20of%2058",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Bill%20Callahan%20My%20Days%20of%2058&item_type=a",
      "exact": false
@@ -6124,10 +5620,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/play-me/1859967390",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Kim%20Gordon%20PLAY%20ME",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Kim%20Gordon%20PLAY%20ME&item_type=a",
@@ -6173,10 +5665,6 @@
      "url": "https://music.apple.com/us/album/the-pleasure-is-yours/1860331452",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=GENA%20The%20Pleasure%20Is%20Yours",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=GENA%20The%20Pleasure%20Is%20Yours&item_type=a",
      "exact": false
@@ -6220,10 +5708,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/the-mountain-special-digital-edition/1880345579",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Gorillaz%20The%20Mountain",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Gorillaz%20The%20Mountain&item_type=a",
@@ -6269,10 +5753,6 @@
      "url": "https://music.apple.com/us/search?term=Various%20Artists%E2%80%99%20HELP(2)",
      "exact": false
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Various%20Artists%E2%80%99%20HELP(2)",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Various%20Artists%E2%80%99%20HELP(2)&item_type=a",
      "exact": false
@@ -6312,10 +5792,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/to-whom-this-may-concern/1876937000",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Jill%20Scott%20To%20Whom%20This%20May%20Concern",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Jill%20Scott%20To%20Whom%20This%20May%20Concern&item_type=a",
@@ -6361,10 +5837,6 @@
      "url": "https://music.apple.com/us/album/somersaults/1847159406",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=deathcrash%20Somersaults",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=deathcrash%20Somersaults&item_type=a",
      "exact": false
@@ -6408,10 +5880,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/love-is-not-enough/1848413292",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Converge%20Love%20Is%20Not%20Enough",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Converge%20Love%20Is%20Not%20Enough&item_type=a",
@@ -6457,10 +5925,6 @@
      "url": "https://music.apple.com/us/album/all-monsters/1846864362",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Mx%20Lonely%20All%20Monsters",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Mx%20Lonely%20All%20Monsters&item_type=a",
      "exact": false
@@ -6504,10 +5968,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/dungeon-vision/1854844603",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Earth%20Tongue%20Dungeon%20Vision",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Earth%20Tongue%20Dungeon%20Vision&item_type=a",
@@ -6563,10 +6023,6 @@
      "url": "https://music.apple.com/us/album/the-apple-tree-under-the-sea/1877161526",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=hemlocke%20springs%20the%20apple%20tree%20under%20the%20sea",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=hemlocke%20springs%20the%20apple%20tree%20under%20the%20sea&item_type=a",
      "exact": false
@@ -6621,10 +6077,6 @@
      "url": "https://music.apple.com/us/album/my-ghosts-go-ghost/1869647098",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=By%20Storm%20My%20Ghosts%20Go%20Ghost",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://injuryreserve.bandcamp.com/album/my-ghosts-go-ghost",
      "exact": true
@@ -6668,10 +6120,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/e-t-d-s/1872476970",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=IDK%20e.t.d.s.",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=IDK%20e.t.d.s.&item_type=a",
@@ -6727,10 +6175,6 @@
      "url": "https://music.apple.com/us/album/urgh/1846434012",
      "exact": true
     },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Mandy%2C%20Indiana%20URGH",
-     "exact": false
-    },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Mandy%2C%20Indiana%20URGH&item_type=a",
      "exact": false
@@ -6774,10 +6218,6 @@
     "appleMusic": {
      "url": "https://music.apple.com/us/album/i-used-to-go-to-this-bar/1839918836",
      "exact": true
-    },
-    "youtubeMusic": {
-     "url": "https://music.youtube.com/search?q=Joyce%20Manor%20I%20Used%20To%20Go%20To%20This%20Bar",
-     "exact": false
     },
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Joyce%20Manor%20I%20Used%20To%20Go%20To%20This%20Bar&item_type=a",

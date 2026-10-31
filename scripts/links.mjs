@@ -1,4 +1,4 @@
-import { fetchJSON, fetchText, similarity, decodeEntities } from './util.mjs';
+import { fetchJSON, fetchText, similarity } from './util.mjs';
 
 // Accept a catalog hit only when both artist and title are close enough.
 function best(candidates, artist, title) {
@@ -90,24 +90,6 @@ export async function spotify(artist, title) {
   );
 }
 
-// YouTube Music albums are auto-generated "OLAK5uy_" playlists, findable through the YouTube Data API.
-// Each search costs 100 of the 10,000 daily quota units. Returns { hit, top } so misses can be logged.
-export async function youtubeMusic(artist, title) {
-  const key = process.env.YOUTUBE_API_KEY;
-  const q = encodeURIComponent(`${artist} ${title}`);
-  const data = await fetchJSON(
-    `https://www.googleapis.com/youtube/v3/search?part=snippet&type=playlist&maxResults=10&q=${q}&key=${key}`,
-  );
-  const candidates = (data.items ?? [])
-    .filter((r) => r.id?.playlistId?.startsWith('OLAK5uy_'))
-    .map((r) => ({
-      artist: decodeEntities(r.snippet?.channelTitle ?? '').replace(/\s+-\s+Topic$/, ''),
-      title: decodeEntities(r.snippet?.title ?? '').replace(/^Album\s+-\s+/, ''),
-      url: `https://music.youtube.com/playlist?list=${r.id.playlistId}`,
-    }));
-  return { hit: best(candidates, artist, title), top: candidates[0] ?? null };
-}
-
 async function safe(fn, label, artist, title) {
   try {
     return await fn(artist, title);
@@ -122,7 +104,6 @@ export const searchLinks = (artist, title) => {
   return {
     spotify: { url: `https://open.spotify.com/search/${q}/albums`, exact: false },
     appleMusic: { url: `https://music.apple.com/us/search?term=${q}`, exact: false },
-    youtubeMusic: { url: `https://music.youtube.com/search?q=${q}`, exact: false },
     bandcamp: { url: `https://bandcamp.com/search?q=${q}&item_type=a`, exact: false },
   };
 };

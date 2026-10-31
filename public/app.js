@@ -10,7 +10,6 @@ const TREND_WEEKS = 52;
 const SERVICES = [
   ['spotify', 'Spotify', '#1db954'],
   ['appleMusic', 'Apple Music', '#fa2d48'],
-  ['youtubeMusic', 'YouTube Music', '#ff0033'],
   ['deezer', 'Deezer', '#a238ff'],
   ['bandcamp', 'Bandcamp', '#1da0c3'],
   ['qobuz', 'Qobuz', '#4a6cf7'],

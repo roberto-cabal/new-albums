@@ -4,7 +4,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import allSources from './sources/index.mjs';
 import { albumKey } from './util.mjs';
-import { resolveLinks, spotify, youtubeMusic } from './links.mjs';
+import { resolveLinks, spotify } from './links.mjs';
 
 const sources = allSources.filter((s) => s.enabled !== false);
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -12,8 +12,6 @@ const DB_PATH = join(ROOT, 'public', 'data', 'albums.json');
 const MAX_RESOLVE = Number(process.env.MAX_RESOLVE ?? 250);
 const RECHECK_DAYS = 7;
 const spotifyOn = Boolean(process.env.SPOTIFY_CLIENT_ID && process.env.SPOTIFY_CLIENT_SECRET);
-// The workflow runs 8 times a day; 12 searches per run stays under the ~100 searches/day YouTube quota.
-const MAX_YOUTUBE = Number(process.env.MAX_YOUTUBE ?? 12);
 const DAY = 86400000;
 
 async function loadDb() {
@@ -110,28 +108,6 @@ for (const album of backfill.slice(0, MAX_RESOLVE)) {
   } catch (err) {
     console.warn(`  ! Spotify: ${err.message}`);
     if (err.status === 400 || err.status === 401) break; // bad credentials: every lookup would fail
-  }
-}
-
-// YouTube Music, newest albums first; misses are retried weekly. Kept out of resolveLinks so running
-// out of quota doesn't make the other services resolve again.
-const ytPending = process.env.YOUTUBE_API_KEY
-  ? [...albums.values()]
-      .filter((a) => !a.links?.youtubeMusic?.exact)
-      .filter((a) => !a.youtubeCheckedAt || Date.now() - Date.parse(a.youtubeCheckedAt) > RECHECK_DAYS * DAY)
-      .sort((a, b) => (b.addedAt ?? b.firstSeen).localeCompare(a.addedAt ?? a.firstSeen))
-  : [];
-if (ytPending.length) console.log(`→ Buscando ${Math.min(ytPending.length, MAX_YOUTUBE)} / ${ytPending.length} álbumes en YouTube Music`);
-for (const album of ytPending.slice(0, MAX_YOUTUBE)) {
-  try {
-    const { hit, top } = await youtubeMusic(album.artist, album.title);
-    if (hit) album.links = { ...album.links, youtubeMusic: { url: hit.url, exact: true } };
-    else console.log(`  · sin match: ${album.artist} — ${album.title}${top ? ` (mejor: ${top.artist} — ${top.title})` : ''}`);
-    album.youtubeCheckedAt = now;
-  } catch (err) {
-    // Not the message: it contains the request URL, and with it the API key.
-    console.warn(`  ! YouTube: HTTP ${err.status ?? err.message}`);
-    if (err.status === 400 || err.status === 403) break; // invalid key or daily quota used up
   }
 }
 
