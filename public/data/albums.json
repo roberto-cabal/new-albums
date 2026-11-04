@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T11:06:10.979Z",
+ "updatedAt": "2026-11-04T19:51:40.359Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 57,
-   "checkedAt": "2026-11-04T11:06:10.979Z"
+   "checkedAt": "2026-11-04T19:51:40.359Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-04T11:06:10.979Z"
+   "checkedAt": "2026-11-04T19:51:40.359Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-04T11:06:10.979Z"
+   "checkedAt": "2026-11-04T19:51:40.359Z"
   },
   {
    "id": "quietus",
@@ -39,7 +39,7 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-04T11:06:10.979Z"
+   "checkedAt": "2026-11-04T19:51:40.359Z"
   }
  ],
  "albums": [
