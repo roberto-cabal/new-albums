@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T01:27:27.406Z",
+ "updatedAt": "2026-11-04T11:06:10.979Z",
  "sources": [
   {
    "id": "needledrop",
@@ -8,8 +8,8 @@
    "homepage": "https://theneedledrop.com/loved-list/2026/",
    "ok": true,
    "error": null,
-   "count": 56,
-   "checkedAt": "2026-11-04T01:27:27.406Z"
+   "count": 57,
+   "checkedAt": "2026-11-04T11:06:10.979Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-04T01:27:27.406Z"
+   "checkedAt": "2026-11-04T11:06:10.979Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-04T01:27:27.406Z"
+   "checkedAt": "2026-11-04T11:06:10.979Z"
   },
   {
    "id": "quietus",
@@ -39,10 +39,55 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-04T01:27:27.406Z"
+   "checkedAt": "2026-11-04T11:06:10.979Z"
   }
  ],
  "albums": [
+  {
+   "id": "baby-osamaa::on-tha-run",
+   "artist": "Baby Osamaa",
+   "title": "On Tha Run",
+   "firstSeen": "2026-11-04T11:06:10.979Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/",
+     "date": "2026-11-04T05:03:00.000Z",
+     "score": 8.2,
+     "bnm": false,
+     "note": "With delirious melodic instincts, the Bronx rapper’s new tape evokes Young Money-era swag on a SoundCloud budget.",
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6aea06e6b2a4ae06c18ac614/1:1/w_768,c_limit/Baby%20Osamaa%20-%20On%20Tha%20Run%20album%20art.jpg",
+   "genre": "Rap",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/album/4UvBAAnAvVV651YhPa7Ec4",
+     "exact": true
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/on-tha-run/6827743287",
+     "exact": true
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Baby%20Osamaa%20On%20Tha%20Run&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1132243601",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-28",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-11-04T11:06:10.979Z",
+   "spotifyCheckedAt": "2026-11-04T11:06:10.979Z",
+   "addedAt": "2026-11-04T05:03:00.000Z",
+   "lastPickAt": "2026-11-04T05:03:00.000Z"
+  },
   {
    "id": "willi-carlisle::the-universal-bubba",
    "artist": "Willi Carlisle",
@@ -168,6 +213,50 @@
    "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
   },
   {
+   "id": "piss::you-made-me-skin-on-linen",
+   "artist": "PISS",
+   "title": "you made me / skin on linen",
+   "firstSeen": "2026-11-04T11:06:10.979Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/de/b7/e8deb7a4-aa6f-a232-b44f-c8b9ab1fdd2d/098787175363.png/600x600bb.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN",
+     "exact": true
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/you-made-me-skin-on-linen/6796358325",
+     "exact": true
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=PISS%20you%20made%20me%20%2F%20skin%20on%20linen&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1042239632",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-10-30",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-11-04T11:06:10.979Z",
+   "spotifyCheckedAt": "2026-11-04T11:06:10.979Z",
+   "addedAt": "2026-10-30T12:00:00.000Z",
+   "lastPickAt": "2026-10-30T12:00:00.000Z"
+  },
+  {
    "id": "leo-chadburn-and-phaedra-ensemble::english-dancing-master",
    "artist": "Leo Chadburn & Phaedra Ensemble",
    "title": "English Dancing Master",
@@ -256,12 +345,12 @@
     {
      "source": "needledrop",
      "curator": "Anthony Fantano",
-     "url": "https://theneedledrop.com/loved-list/2026/",
+     "url": "https://theneedledrop.com/album-reviews/heavensouls-cantu-of-the-sower-album-review-z88g-jkrf78/",
      "date": null,
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 0
+     "rank": 1
     },
     {
      "source": "pitchfork",
@@ -272,7 +361,7 @@
      "bnm": false,
      "note": "An album-length EP by the 20-year-old producer is a dizzying and boundless collage of collages, using free-jazz logic and digital overload to chart new emotional terrain.",
      "listenUrl": null,
-     "rank": 0
+     "rank": 1
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6adb85c8eb79c260502e90fb/1:1/w_768,c_limit/heavensouls%20Cantu%20of%20the%20sower.jpg",
@@ -365,7 +454,7 @@
      "bnm": false,
      "note": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
      "listenUrl": null,
-     "rank": 1
+     "rank": 2
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ab1771595d5696b67afdb2c/1:1/w_768,c_limit/a0271857415_10.jpg",
@@ -454,7 +543,7 @@
      "bnm": false,
      "note": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
      "listenUrl": null,
-     "rank": 2
+     "rank": 3
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a885e2c3ebe66b3901a13cd/1:1/w_768,c_limit/Eris-Drew-Octo-Octa-Alchemical-Sisters.jpeg",
@@ -539,7 +628,7 @@
      "bnm": false,
      "note": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
      "listenUrl": null,
-     "rank": 3
+     "rank": 4
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ad133ea47a15edc7845996a/1:1/w_768,c_limit/Worldpeace%20DMT%20-%20Stick%20Around%20for%20Tea%20album%20art.jpg",
@@ -584,7 +673,7 @@
      "bnm": false,
      "note": "The UK selector throws caution—and genre—to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
      "listenUrl": null,
-     "rank": 4
+     "rank": 5
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ad0e91d056973d40b8be89e/1:1/w_768,c_limit/Djrum%20-%20DJ-Kicks.jpg",
@@ -628,7 +717,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 1
+     "rank": 2
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/636c69416eb6a6b9e9493d4671f4bd66/1000x1000-000000-80-0-0.jpg",
@@ -673,7 +762,7 @@
      "bnm": false,
      "note": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
      "listenUrl": null,
-     "rank": 5
+     "rank": 6
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a3be91e393fc0fa5a7423cb/1:1/w_768,c_limit/@-Autosmile.jpeg",
@@ -761,7 +850,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 2
+     "rank": 3
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/f93ac4a05846d7457a0d7563f19a1ece/1000x1000-000000-80-0-0.jpg",
@@ -850,7 +939,7 @@
      "bnm": false,
      "note": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
      "listenUrl": null,
-     "rank": 6
+     "rank": 7
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ab178b1e1cdfe6681b364a7/1:1/w_768,c_limit/3605.jpg",
@@ -894,7 +983,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 4
+     "rank": 5
     },
     {
      "source": "needledrop",
@@ -945,7 +1034,7 @@
      "bnm": false,
      "note": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and more dazzling than anything she’s done to date.",
      "listenUrl": null,
-     "rank": 7
+     "rank": 8
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a452b81a7029f511eacd6da/1:1/w_768,c_limit/Marina-Herlop-Dja-Dja.jpeg",
@@ -1033,7 +1122,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 3
+     "rank": 4
     },
     {
      "source": "needledrop",
@@ -1054,7 +1143,7 @@
      "bnm": false,
      "note": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
      "listenUrl": null,
-     "rank": 8
+     "rank": 9
     },
     {
      "source": "stereogum",
@@ -1153,7 +1242,7 @@
      "bnm": false,
      "note": "The UK artist brings a frenzy of club-grime provocation and internet humor to his glitched-out emo, but his portrayal of small-town malaise is what makes it a riot.",
      "listenUrl": null,
-     "rank": 9
+     "rank": 10
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6abd510c90e6bf2bda5674d9/1:1/w_768,c_limit/300SkullsAndCounting%20Jenny%20Sparks%20This%20Is%20Spa%20Town.png",
@@ -1197,7 +1286,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 6
+     "rank": 7
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/dd/cc/8cddcc79-f688-f2c3-8bae-0f4d839a4b0a/887828057160.png/600x600bb.jpg",
@@ -1241,7 +1330,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 5
+     "rank": 6
     },
     {
      "source": "pitchfork",
@@ -1252,7 +1341,7 @@
      "bnm": false,
      "note": "Tinashe’s eighth album is her best and bravest yet: more ambitious, more focused, and effortlessly in touch with the zeitgeist. It’s the best pop album of the year.",
      "listenUrl": null,
-     "rank": 10
+     "rank": 11
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ab4131ef7ef2378a6776d41/1:1/w_768,c_limit/Tinashe-%20Popstar%20.jpg",
@@ -1385,7 +1474,7 @@
      "bnm": false,
      "note": "Exploding its signature blend of noise-punk and dance music to masterful extremes, the Irish band gets louder, rawer, funnier, and more methodical on its exhilarating fourth album.",
      "listenUrl": null,
-     "rank": 11
+     "rank": 12
     },
     {
      "source": "stereogum",
@@ -1439,7 +1528,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 7
+     "rank": 8
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/5f/20/cd5f20d4-cf63-981a-73ee-d9f5870538b6/5063960172311_cover.jpg/600x600bb.jpg",
@@ -1483,7 +1572,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 8
+     "rank": 9
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/a2ce91f10c5da76681ba0b11665b2c2d/1000x1000-000000-80-0-0.jpg",
@@ -1655,7 +1744,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 9
+     "rank": 10
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/e07e3e7632d66462f645d590d127672f/1000x1000-000000-80-0-0.jpg",
@@ -1743,7 +1832,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 10
+     "rank": 11
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/66/49/ce66499d-b120-92e4-f015-5776a7fa4d7a/781484098027.png/600x600bb.jpg",
@@ -1832,7 +1921,7 @@
      "bnm": false,
      "note": "Earnest and disaffected, ironic and confrontational, the Brooklyn songwriter’s Sub Pop debut channels trans rage into scrappy DIY punk with no patience left.",
      "listenUrl": null,
-     "rank": 12
+     "rank": 13
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a9857dd83bf94901ac8f2c6/1:1/w_768,c_limit/Lex%20Walton%20-%20Ultimate%20Love%20Forever%20album%20art.png",
@@ -1876,7 +1965,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 11
+     "rank": 12
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/5b5fd451786ea4dda1b85984d9cfa4ac/1000x1000-000000-80-0-0.jpg",
@@ -1964,7 +2053,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 12
+     "rank": 13
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/78df7ecc02feba801c606eb234c55b5d/1000x1000-000000-80-0-0.jpg",
@@ -2052,7 +2141,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 13
+     "rank": 14
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d2/49/fdd24946-305e-ade3-0209-cdfc2868cd68/5063961889331_cover.jpg/600x600bb.jpg",
@@ -2096,7 +2185,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 15
+     "rank": 16
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/b3/2f/ddb32fc5-4252-6cab-895d-4e8ce1b2851b/cover.jpg/600x600bb.jpg",
@@ -2185,7 +2274,7 @@
      "bnm": false,
      "note": "Kurt Wagner reinvents his band yet again, this time slimming down to a bare-bones acoustic setup and stripping away the studio artifice. But his storytelling remains as expansive as ever.",
      "listenUrl": null,
-     "rank": 13
+     "rank": 14
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a8c5ccc67a78f90c0d9d783/1:1/w_768,c_limit/Lambchop%20-%20Punching%20the%20Clown.jpg",
@@ -2269,7 +2358,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 19
+     "rank": 20
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/29/e9/f129e944-a215-dd6d-4c80-a8bd4237ece6/artwork.jpg/600x600bb.jpg",
@@ -2313,7 +2402,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 17
+     "rank": 18
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/019c1c179da034cae78a102dbd839ef3/1000x1000-000000-80-0-0.jpg",
@@ -2445,7 +2534,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 14
+     "rank": 15
     },
     {
      "source": "pitchfork",
@@ -2456,7 +2545,7 @@
      "bnm": false,
      "note": "For her third solo album, Phoebe Bridgers expands and contracts, capturing experiences that are strange, solitary, and hers alone. It is the quietest, most cohesive record in her discography.",
      "listenUrl": null,
-     "rank": 15
+     "rank": 16
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a3bde6801a6ab17fa387818/1:1/w_768,c_limit/unnamed%20(48).jpg",
@@ -2501,7 +2590,7 @@
      "bnm": false,
      "note": "There are many rappers out there who dig deep into their lives for heavy stories of pain and sorrow. The DMV rapper does this too, but he elevates the art form to a whole new level.",
      "listenUrl": null,
-     "rank": 16
+     "rank": 17
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a70ef5fe24a0e2460878423/1:1/w_768,c_limit/196874628348.jpg",
@@ -2546,7 +2635,7 @@
      "bnm": false,
      "note": "The experimental Brooklyn project returns with a serene and spectral new album, using an ever-shifting musical backdrop to explore themes of illusion and doubt.",
      "listenUrl": null,
-     "rank": 14
+     "rank": 15
     },
     {
      "source": "stereogum",
@@ -2600,7 +2689,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 16
+     "rank": 17
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/32/66/0b3266a8-a9d5-95f6-882e-9fcdac01ac9b/885288027136.jpg/600x600bb.jpg",
@@ -2816,7 +2905,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 20
+     "rank": 21
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/47/bf/c447bf4e-0b3f-e278-4665-bebe8a087cf5/196874554166.jpg/600x600bb.jpg",
@@ -2857,7 +2946,7 @@
      "bnm": false,
      "note": "Natal Zaks brings dub techno to a higher level on an energetic and atmospheric 2x12\", another pin in the lapel of the new and outstanding Short Span label.",
      "listenUrl": null,
-     "rank": 17
+     "rank": 18
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a63b68adf8edba43266a72a/1:1/w_768,c_limit/Picture%20Uuuuuuuu.jpg",
@@ -2901,7 +2990,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 21
+     "rank": 22
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/04/ea/cd04ea55-727d-782a-5ca6-265e0ecc1040/26UMGIM39397.rgb.jpg/600x600bb.jpg",
@@ -2945,7 +3034,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 18
+     "rank": 19
     },
     {
      "source": "pitchfork",
@@ -2956,7 +3045,7 @@
      "bnm": false,
      "note": "On the follow-up to BRAT, the pop auteur pivots to a referential, proudly tossed-off rock sound that offers mystifying glances behind the curtain of stardom.",
      "listenUrl": null,
-     "rank": 18
+     "rank": 19
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a1d8c4a7bd12195f2446647/1:1/w_768,c_limit/Charli-XCX-Music-Fashion-Film.jpeg",
@@ -3044,7 +3133,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 22
+     "rank": 23
     }
    ],
    "cover": null,
@@ -3213,7 +3302,7 @@
      "bnm": false,
      "note": "The longtime Arthur Russell collaborator finally gets a solo exhibition: a gorgeously realized and fundamentally incomplete work of sensual art-folk, leftfield disco, and experimental synth-pop. It’s at once an archival triumph and one of the year’s most thrilling new releases.",
      "listenUrl": null,
-     "rank": 19
+     "rank": 20
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a4ea158145e5bc58a483445/1:1/w_768,c_limit/Nirosta%20Steel%20-%20My%20Skyscraper%20album%20art.jpg",
@@ -3257,7 +3346,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 23
+     "rank": 24
     },
     {
      "source": "stereogum",
@@ -3365,7 +3454,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 26
+     "rank": 27
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/0f4b9b57d66c1da65b0b8d63ac924cde/1000x1000-000000-80-0-0.jpg",
@@ -3453,7 +3542,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 25
+     "rank": 26
     },
     {
      "source": "pitchfork",
@@ -3464,7 +3553,7 @@
      "bnm": false,
      "note": "The L.A. improv quintet made its first two LPs by remixing key moments from its gigs; now, on a pair of astonishing unedited live takes, the group proves that performance is the heart of its music.",
      "listenUrl": null,
-     "rank": 20
+     "rank": 21
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a42a44b70798f2594513ffc/1:1/w_768,c_limit/SML%20-%20Spontaneous%20Music%20Live.jpg",
@@ -3504,7 +3593,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 27
+     "rank": 28
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/3d/16/593d1699-7a94-ddc4-908e-eb48aed1ce87/26UMGIM65013.rgb.jpg/600x600bb.jpg",
@@ -3724,7 +3813,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 28
+     "rank": 29
     },
     {
      "source": "pitchfork",
@@ -3735,7 +3824,7 @@
      "bnm": false,
      "note": "The pop star’s third album is a heartbreaking account of an intense romance and its demise. Its mood is perfectly reflected in the music, and her evolution as a songwriter is a sight to behold.",
      "listenUrl": null,
-     "rank": 21
+     "rank": 22
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a1064f4cdd971dc49dbe97b/1:1/w_768,c_limit/Olivia%20Rodrigo%20-%20You%20Seem%20Pretty%20Sad%20for%20a%20Girl%20So%20in%20Love%20album%20art%20(no%20sticker).png",
@@ -3868,7 +3957,7 @@
      "bnm": false,
      "note": "The Miami duo’s electrifying, boundary-bending combination of Haitian kompa, underground rap, reggaeton, electro-pop, and baile funk is loud as hell and rich in egalitarian spirit.",
      "listenUrl": null,
-     "rank": 22
+     "rank": 23
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a0b5f507fc6f92eeff4275c/1:1/w_768,c_limit/B0YG1RL:%20EXIT%202B.jpg",
@@ -3912,7 +4001,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 29
+     "rank": 30
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/663157ef2287ac5bbb21a7795b61183c/1000x1000-000000-80-0-0.jpg",
@@ -4044,7 +4133,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 30
+     "rank": 31
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/706fd8ee89513b7bea5de80753ad820c/1000x1000-000000-80-0-0.jpg",
@@ -4089,7 +4178,7 @@
      "bnm": false,
      "note": "Laced with occult imagery and enigmatic samples, the Scottish duo’s immersive new album—their first in 13 years—offers some of the most captivating music of their career.",
      "listenUrl": null,
-     "rank": 23
+     "rank": 24
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a184638c26aa3f286532e4a/1:1/w_768,c_limit/Boards%20of%20Canada%20Inferno.png",
@@ -4305,7 +4394,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 32
+     "rank": 33
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/8b/c8/668bc89c-6bff-2485-6d84-4ab11b8abed2/cover.jpg/600x600bb.jpg",
@@ -4482,7 +4571,7 @@
      "bnm": false,
      "note": "On her spellbinding fifth album, Aldous Harding steps closer than ever to the camera lens without coming into focus. It’s an oblique character study of herself, and the best album of her career so far.",
      "listenUrl": null,
-     "rank": 24
+     "rank": 25
     },
     {
      "source": "stereogum",
@@ -4537,7 +4626,7 @@
      "bnm": false,
      "note": "The ambient musician’s new album is a tremendous leap in scale, a quiet conjuring of vast, prayerlike yearning.",
      "listenUrl": null,
-     "rank": 25
+     "rank": 26
     }
    ],
    "cover": "https://media.pitchfork.com/photos/699483a0916d569fd95d34db/1:1/w_768,c_limit/Ana-Roxanne-Poem-1.jpeg",
@@ -4625,7 +4714,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 31
+     "rank": 32
     },
     {
      "source": "stereogum",
@@ -4768,7 +4857,7 @@
      "bnm": false,
      "note": "Retro but never dusty, the rapper’s brilliantly bugged-out new tape sounds like a New York that hardly exists anymore.",
      "listenUrl": null,
-     "rank": 26
+     "rank": 27
     }
    ],
    "cover": "https://media.pitchfork.com/photos/69e91650556614c9bfc04bcd/1:1/w_768,c_limit/Starker%20-%20LIVING%20TYPE%20DANGEROUS%20Vol.%201%20album%20art.jpg",
@@ -4852,7 +4941,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 33
+     "rank": 34
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/ab/34/50ab34f5-11bc-5e78-9c43-80aca9e301b4/25UM2IM06906.rgb.jpg/600x600bb.jpg",
@@ -4984,7 +5073,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 34
+     "rank": 35
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/1000x1000-000000-80-0-0.jpg",
@@ -5029,7 +5118,7 @@
      "bnm": false,
      "note": "Former Black Midi bassist Cameron Picton’s dazzlingly complicated solo debut is a tangle of baroque melodies, chamber-punk arrangements, and garden-path lyrics.",
      "listenUrl": null,
-     "rank": 27
+     "rank": 28
     }
    ],
    "cover": "https://media.pitchfork.com/photos/69d67c86fb43b4012c9d2abd/1:1/w_768,c_limit/My%20New%20Band%20Believe%20-%20My%20New%20Band%20Believe%20album%20art%20HI%20RES.png",
@@ -5118,7 +5207,7 @@
      "bnm": false,
      "note": "On a daring new album, the singer-songwriter and guitar virtuoso examines happiness, love, and memory with a forensic curiosity.",
      "listenUrl": null,
-     "rank": 28
+     "rank": 29
     }
    ],
    "cover": "https://media.pitchfork.com/photos/69d6a561117a16414f93f9e4/1:1/w_768,c_limit/Wendy%20Eisenberg%20Wendy%20Eisenberg.jpg",
@@ -5335,7 +5424,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 35
+     "rank": 36
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/e1/f6/b9e1f691-4ea1-3c6e-1e85-7fb3101b89c9/769152436630.jpg/600x600bb.jpg",
@@ -5419,7 +5508,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 36
+     "rank": 37
     },
     {
      "source": "needledrop",
@@ -5473,7 +5562,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 38
+     "rank": 39
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/00/19/c500197f-a99c-c3aa-65f2-2a3a78b90630/00198704897481_Cover.jpg/600x600bb.jpg",
@@ -5517,7 +5606,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 37
+     "rank": 38
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/ae542da8789dbc3cb732aab931093b31/1000x1000-000000-80-0-0.jpg",
@@ -5605,7 +5694,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 39
+     "rank": 40
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/8e/7a/1d8e7ab4-364a-b86d-0c23-c920c25ee502/781484096429.png/600x600bb.jpg",
@@ -5693,7 +5782,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 40
+     "rank": 41
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/04992a627a83f8676aa972a391dada0d/1000x1000-000000-80-0-0.jpg",
@@ -5737,7 +5826,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 41
+     "rank": 42
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/fb86decc775f4140fdc5c9433ac1170d/1000x1000-000000-80-0-0.jpg",
@@ -5821,7 +5910,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 42
+     "rank": 43
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/f6/b4/f8f6b4c1-8f02-6604-bb51-2dc54bfa9ec2/820200224248.jpg/600x600bb.jpg",
@@ -5909,7 +5998,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 43
+     "rank": 44
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c0/d2/30c0d2e8-c0b8-ee61-bcc4-b29809b67fd2/0045778813568.png/600x600bb.jpg",
@@ -5997,7 +6086,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 24
+     "rank": 25
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/69/5d/ed695dd0-e14e-1599-a5d6-d1ca237ffde8/657628456629.jpg/600x600bb.jpg",
@@ -6041,7 +6130,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 44
+     "rank": 45
     },
     {
      "source": "stereogum",
@@ -6095,7 +6184,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 46
+     "rank": 47
     },
     {
      "source": "needledrop",
@@ -6149,7 +6238,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 47
+     "rank": 48
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/7f/db/777fdb02-af33-dcb3-0297-aa9310c77fe0/663918829998.jpg/600x600bb.jpg",
@@ -6193,7 +6282,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 45
+     "rank": 46
     },
     {
      "source": "stereogum",
