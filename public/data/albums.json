@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T11:04:16.461Z",
+ "updatedAt": "2026-11-06T19:29:25.399Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 58,
-   "checkedAt": "2026-11-06T11:04:16.461Z"
+   "checkedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-06T11:04:16.461Z"
+   "checkedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-06T11:04:16.461Z"
+   "checkedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "quietus",
@@ -39,7 +39,7 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-06T11:04:16.461Z"
+   "checkedAt": "2026-11-06T19:29:25.399Z"
   }
  ],
  "albums": [
@@ -209,8 +209,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "leroy::status-update-music",
@@ -249,8 +249,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "piss::you-made-me-skin-on-linen",
@@ -694,8 +694,8 @@
    },
    "releaseDate": "2026-10-23",
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "worldpeace-dmt::stick-around-for-tea",
@@ -1721,10 +1721,10 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
    "addedAt": "2026-09-17T05:41:00.000Z",
    "lastPickAt": "2026-09-17T05:41:00.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "slow-pulp::melodie",
@@ -2423,10 +2423,10 @@
    },
    "releaseDate": "2026-08-25",
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
    "addedAt": "2026-08-20T05:30:00.000Z",
    "lastPickAt": "2026-08-20T05:30:00.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "twisted-teens::florida-water-blues",
@@ -3057,8 +3057,8 @@
    },
    "releaseDate": "2026-10-19",
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T13:44:18.812Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "nia-archives::emotional-junglist",
@@ -3240,8 +3240,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "nick-hakim::i-can-see",
@@ -3326,10 +3326,10 @@
    },
    "releaseDate": "2026-07-17",
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
    "addedAt": "2026-07-16T08:42:26.000Z",
    "lastPickAt": "2026-07-16T08:42:26.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "quicksand::bring-on-the-psychics",
@@ -3746,10 +3746,10 @@
    },
    "releaseDate": "2026-06-26",
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
    "addedAt": "2026-06-25T07:54:07.000Z",
    "lastPickAt": "2026-06-25T07:54:07.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "tasha::you-are-spring",
@@ -4921,10 +4921,10 @@
    },
    "releaseDate": "2026-04-24",
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T19:03:19.178Z",
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
    "addedAt": "2026-04-23T08:02:58.000Z",
    "lastPickAt": "2026-04-23T08:02:58.000Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "starker::living-type-dangerous-vol-1",
@@ -4964,8 +4964,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "carla-dal-forno::confession",
@@ -5358,8 +5358,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "sunn-o::sunn-o",
@@ -5977,8 +5977,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-10-30T14:49:40.760Z",
-   "spotifyCheckedAt": "2026-10-31T14:30:42.873Z"
+   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
   },
   {
    "id": "jill-scott::to-whom-this-may-concern",
