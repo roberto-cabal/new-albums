@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T17:07:01.391Z",
+ "updatedAt": "2026-11-10T23:28:39.734Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 58,
-   "checkedAt": "2026-11-10T17:07:01.391Z"
+   "checkedAt": "2026-11-10T23:28:39.734Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-10T17:07:01.391Z"
+   "checkedAt": "2026-11-10T23:28:39.734Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-10T17:07:01.391Z"
+   "checkedAt": "2026-11-10T23:28:39.734Z"
   },
   {
    "id": "quietus",
@@ -39,10 +39,54 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-10T17:07:01.391Z"
+   "checkedAt": "2026-11-10T23:28:39.734Z"
   }
  ],
  "albums": [
+  {
+   "id": "krill::secret-language",
+   "artist": "Krill",
+   "title": "Secret Language",
+   "firstSeen": "2026-11-10T23:28:39.734Z",
+   "picks": [
+    {
+     "source": "stereogum",
+     "curator": null,
+     "url": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/",
+     "date": "2026-11-10T21:01:17.000Z",
+     "score": null,
+     "note": null,
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/krill_secretlanguage_3000.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/album/3EUePMvDzGohNXU55LkCWw",
+     "exact": true
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/secret-language/6798805070",
+     "exact": true
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Krill%20Secret%20Language&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1047956722",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-11-13",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-11-10T23:28:39.734Z",
+   "spotifyCheckedAt": "2026-11-10T23:28:39.734Z",
+   "addedAt": "2026-11-10T21:01:17.000Z",
+   "lastPickAt": "2026-11-10T21:01:17.000Z"
+  },
   {
    "id": "randall-dunn::manifold-of-partially-actualized-realities",
    "artist": "Randall Dunn",
@@ -142,15 +186,15 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 0
+     "rank": 1
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/TheUniversalBubba_Cover.jpg",
    "genre": null,
    "links": {
     "spotify": {
-     "url": "https://open.spotify.com/search/Willi%20Carlisle%20The%20Universal%20Bubba/albums",
-     "exact": false
+     "url": "https://open.spotify.com/album/12nyB0HBhKLnGGzSkckxL1",
+     "exact": true
     },
     "appleMusic": {
      "url": "https://music.apple.com/us/album/the-universal-bubba/6782666203",
@@ -166,9 +210,9 @@
     }
    },
    "releaseDate": "2026-11-06",
-   "linksComplete": false,
-   "linksCheckedAt": "2026-11-03T19:34:16.545Z",
-   "spotifyCheckedAt": "2026-11-03T19:34:16.545Z",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-11-10T23:28:39.734Z",
+   "spotifyCheckedAt": "2026-11-10T23:28:39.734Z",
    "addedAt": "2026-11-03T17:46:10.000Z",
    "lastPickAt": "2026-11-03T17:46:10.000Z"
   },
@@ -350,7 +394,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 1
+     "rank": 2
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/a3856471150_10_047c1d.jpg",
@@ -671,7 +715,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 2
+     "rank": 3
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Animative.jpg",
@@ -978,7 +1022,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 3
+     "rank": 4
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Sophia-Stel-The-Greatest-Album-Of-All-Time.jpg",
@@ -1237,7 +1281,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 4
+     "rank": 5
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a8374d55eeaf65ef2de9c77/1:1/w_768,c_limit/Live%20at%20Carnegie%20Hall_1500X.jpg",
@@ -1469,7 +1513,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 5
+     "rank": 6
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Greg-Freeman-All-Set-The-Bone.jpeg",
@@ -1568,7 +1612,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 6
+     "rank": 7
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ab1778795d5696b67afdb32/1:1/w_768,c_limit/191402061673.png",
@@ -1740,7 +1784,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 7
+     "rank": 8
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Slow_Pulp_Melodie_3000.jpeg",
@@ -1872,7 +1916,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 8
+     "rank": 9
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/This-Is-Lorelei-The-Singer-In-My-Band.jpg",
@@ -2093,7 +2137,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 9
+     "rank": 10
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/unnamed-2026-08-25T173205.318.jpg",
@@ -2313,7 +2357,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 10
+     "rank": 11
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/image_3-1.jpeg",
@@ -2530,7 +2574,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 11
+     "rank": 12
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/Westside-Cowboy-It-Goes-On.jpg",
@@ -2729,7 +2773,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 12
+     "rank": 13
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a29d6e31e3965e99ceed885/1:1/w_768,c_limit/L'Rain%20-%20fata%20morgana%20album%20art.jpg",
@@ -2857,7 +2901,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 13
+     "rank": 14
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Ceremony-Tell-Me-Your-Dream.jpg",
@@ -2945,7 +2989,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 14
+     "rank": 15
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Mallory-Hawk-Chinook-Cover-final-1-scaled-2.jpg",
@@ -3257,7 +3301,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 15
+     "rank": 16
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/unnamed-2026-07-15T163831.418.jpg",
@@ -3345,7 +3389,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 16
+     "rank": 17
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Quicksand-Bring-On-The-Psychics.jpg",
@@ -3440,7 +3484,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 17
+     "rank": 18
     },
     {
      "source": "quietus",
@@ -3582,7 +3626,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 18
+     "rank": 19
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/download-1.jpeg",
@@ -3765,7 +3809,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 19
+     "rank": 20
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/download-9.png",
@@ -3853,7 +3897,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 20
+     "rank": 21
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1568021251_10-1.jpg",
@@ -3996,7 +4040,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 21
+     "rank": 22
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Wiki-Ancient-History.jpg",
@@ -4173,7 +4217,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 22
+     "rank": 23
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1243030580_10.jpg",
@@ -4346,7 +4390,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 23
+     "rank": 24
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/ear-Rumspringa.jpg",
@@ -4434,7 +4478,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 24
+     "rank": 25
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Lowertown-Album-Art-Ugly-Duckling-Union.jpg",
@@ -4566,7 +4610,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 25
+     "rank": 26
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/tgab.jpg",
@@ -4665,7 +4709,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 26
+     "rank": 27
     }
    ],
    "cover": "https://media.pitchfork.com/photos/69a74be0d195be68418183f5/1:1/w_768,c_limit/aldous%20harding%20train%20on%20the%20island.png",
@@ -4808,7 +4852,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 27
+     "rank": 28
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Theft-World.jpg",
@@ -4981,7 +5025,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 28
+     "rank": 29
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Carla-Dal-Forno-Confession.jpg",
@@ -5113,7 +5157,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 29
+     "rank": 30
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/100-Acre-Wood.jpg",
@@ -5335,7 +5379,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 30
+     "rank": 31
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/WU-LYF-A-Wave-That-Will-Never-Break.jpeg",
@@ -5464,7 +5508,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 31
+     "rank": 32
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/Cover_-Makthaverskan-Glass-and-Bones.png",
@@ -5734,7 +5778,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 32
+     "rank": 33
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/Grace-Ives-Girlfriend.jpg",
@@ -5822,7 +5866,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 33
+     "rank": 34
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/cover-Kim-Gordon-PLAY-ME.jpg",
@@ -5954,7 +5998,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 34
+     "rank": 35
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Help2.jpeg",
@@ -6038,7 +6082,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 35
+     "rank": 36
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Deathcrash-Somersaults.jpg",
@@ -6126,7 +6170,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 36
+     "rank": 37
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Mx-Lonely-All-Monsters.jpg",
@@ -6224,7 +6268,7 @@
      "score": null,
      "note": null,
      "listenUrl": null,
-     "rank": 37
+     "rank": 38
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Hemlocke-Springs.jpg",
