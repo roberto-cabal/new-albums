@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T00:49:28.449Z",
+ "updatedAt": "2026-11-12T11:27:05.793Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 58,
-   "checkedAt": "2026-11-12T00:49:28.449Z"
+   "checkedAt": "2026-11-12T11:27:05.793Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-12T00:49:28.449Z"
+   "checkedAt": "2026-11-12T11:27:05.793Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-12T00:49:28.449Z"
+   "checkedAt": "2026-11-12T11:27:05.793Z"
   },
   {
    "id": "quietus",
@@ -39,10 +39,50 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-12T00:49:28.449Z"
+   "checkedAt": "2026-11-12T11:27:05.793Z"
   }
  ],
  "albums": [
+  {
+   "id": "blackhaine::saints-in-the-wethouse",
+   "artist": "Blackhaine",
+   "title": "Saints in The Wethouse",
+   "firstSeen": "2026-11-12T11:27:05.793Z",
+   "picks": [
+    {
+     "source": "quietus",
+     "curator": null,
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/blackhaine-saints-in-the-wethouse-review/",
+     "date": "2026-11-12T06:00:00.000Z",
+     "score": null,
+     "note": "The \"debut album\" by the Preston-born musician, rapper and choreographer establishes Blackhaine as one of the most confident voices in the new Northern Gothic scene developing around Yorkshire and Lancashire",
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://thequietus.com/app/uploads/2026/11/Blackhaine_credit-Archie-Finch-copy-700x466.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/search/Blackhaine%20Saints%20in%20The%20Wethouse/albums",
+     "exact": false
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/saints-in-the-wethouse/6810135248",
+     "exact": true
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Blackhaine%20Saints%20in%20The%20Wethouse&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-11-13",
+   "linksComplete": false,
+   "linksCheckedAt": "2026-11-12T11:27:05.793Z",
+   "spotifyCheckedAt": "2026-11-12T11:27:05.793Z",
+   "addedAt": "2026-11-12T06:00:00.000Z",
+   "lastPickAt": "2026-11-12T06:00:00.000Z"
+  },
   {
    "id": "krill::secret-language",
    "artist": "Krill",
@@ -101,7 +141,7 @@
      "score": null,
      "note": "The American composer, producer and audio engineer warps time and space on a slow-burning album that riffs on Philip K. Dick's \"orthogonal\" temporalities",
      "listenUrl": null,
-     "rank": 0
+     "rank": 1
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/11/KOU015_Randall-Dunn_Artist-Image-3_-Charmaine-Lee-700x466.jpg",
@@ -118,12 +158,16 @@
     "bandcamp": {
      "url": "https://bandcamp.com/search?q=Randall%20Dunn%20Manifold%20of%20Partially%20Actualized%20Realities&item_type=a",
      "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1028312482",
+     "exact": true
     }
    },
    "releaseDate": "2026-11-06",
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-05T11:06:59.411Z",
-   "spotifyCheckedAt": "2026-11-05T11:06:59.411Z",
+   "linksCheckedAt": "2026-11-12T11:27:05.793Z",
+   "spotifyCheckedAt": "2026-11-12T11:27:05.793Z",
    "addedAt": "2026-11-05T06:00:00.000Z",
    "lastPickAt": "2026-11-05T06:00:00.000Z"
   },
@@ -354,7 +398,7 @@
      "score": null,
      "note": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to raving at Castlemorton Common",
      "listenUrl": null,
-     "rank": 1
+     "rank": 2
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/10/Shadows-2021-Credit-Leo-Chadburn-1024x767.jpg",
@@ -626,7 +670,7 @@
      "score": null,
      "note": "The London experimental folk outliers’ triumphant third album is a demonstration of traditional music at its most progressive, outward-looking and migratory",
      "listenUrl": null,
-     "rank": 2
+     "rank": 3
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/10/Shovel-Dance-Collective-by-Brad-Gilbert-horizontal-03-1024x682.jpg",
@@ -934,7 +978,7 @@
      "score": null,
      "note": "The third album to feature Valentina Magaletti in as many weeks finds the tireless rhythmic innovator teaming up with sculptor and gong-maker João Pais Filipe plus producer Leon Marks for an album of clattering polyrhythms and subtle synth washes",
      "listenUrl": null,
-     "rank": 3
+     "rank": 4
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/10/CZN-press-shot-1-1024x682.jpeg",
@@ -1206,7 +1250,7 @@
      "score": null,
      "note": "Eight years after Bone Bame, the Paris collective return with a record named after a Cameroonian mountain that traps walkers in a dance they cannot quit. The reason they chose that story is more pointed than the sleeve lets on",
      "listenUrl": null,
-     "rank": 4
+     "rank": 5
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/10/unnamed-17-1024x683.jpg",
@@ -1325,7 +1369,7 @@
      "score": null,
      "note": "Absence makes the art grow bolder says Will Ainsley about Archives, which sounds like Chiastic Slide-era Autechre reimagining the Wicker Man soundtrack",
      "listenUrl": null,
-     "rank": 5
+     "rank": 6
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/09/a2836792223_10-1024x1024.jpg",
@@ -1557,7 +1601,7 @@
      "score": null,
      "note": "Manchester duo go big, vastly expanding their palette with strings, harps and a plethora of special guests",
      "listenUrl": null,
-     "rank": 6
+     "rank": 7
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/09/3-Alternate-Landscape-SpaceAfrika2026-TimonBenson-AlexanderLuc-OmarAfridi-VUJADE-02-1024x679.jpg",
@@ -1744,7 +1788,7 @@
      "score": null,
      "note": "For all its stunning virtuosity, the tumbling fingerstyle guitar of Swedish guitarist Finn Loxbo is always in service to a set of brilliant compositional ideas",
      "listenUrl": null,
-     "rank": 7
+     "rank": 8
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/09/DSCF0528-1024x683.jpg",
@@ -1828,7 +1872,7 @@
      "score": null,
      "note": "At 79 years old, the former Yellow Magic Orchestra and Happy End member has produced a true labour of love, offering a sometimes croonsome window on the sunlit uplands",
      "listenUrl": null,
-     "rank": 8
+     "rank": 9
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/09/Sincerely-Press-Photo-Credit_-Masahiro-Handa-1024x576.jpg",
@@ -2004,7 +2048,7 @@
      "score": null,
      "note": "The Swedish sound sculptor enters the backrooms with an album of unstable electronic textures united by their uncanny, reality-warping potential",
      "listenUrl": null,
-     "rank": 9
+     "rank": 10
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/09/01.-Klara-Lewis-2022.-Photo-by-Hampus-Hogberg-1024x768.jpg",
@@ -2225,7 +2269,7 @@
      "score": null,
      "note": "The UK-based Nigerian producer stretches and pulls the sonics of sacred spaces into mind-bending new shapes",
      "listenUrl": null,
-     "rank": 10
+     "rank": 11
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/08/Ibukun-Sunday-on-25.10.2025-at-Daylight-Music-at-St-Johns-Leytonstone-credit-Kat-Ciemiega-Photography-1024x729.jpg",
@@ -2442,7 +2486,7 @@
      "score": null,
      "note": "Three explorers from the Czech-Slovak experimental music scene burrow deep into the woodland in search of some heady drones and – just maybe – a new experience of time itself",
      "listenUrl": null,
-     "rank": 11
+     "rank": 12
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/08/DSC04384c-1024x683.jpg",
@@ -2618,7 +2662,7 @@
      "score": null,
      "note": "Recorded at London's St Bartholomew's Hospital, the new album by the former member of Simian Mobile Disco and the Last Shadow Puppets lays bare a journey of sickness and recovery",
      "listenUrl": null,
-     "rank": 12
+     "rank": 13
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/08/James-Ellis-Ford-3351-pc-Dan-Wilton-landscape-extended-300-dpi-1024x732.jpg",
@@ -2857,7 +2901,7 @@
      "score": null,
      "note": "A live album from the freewheeling Belgian metal collective, recorded April 2025, proves improvised music is at its best when the players leave their egos behind at the door, finds Jacob Manieson",
      "listenUrl": null,
-     "rank": 13
+     "rank": 14
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/08/neptunian-landscape.jpg",
@@ -2945,7 +2989,7 @@
      "score": null,
      "note": "Her first album since the KICK pentalogy began life as a mixtape and still retains the rough energy of that looser, freer format",
      "listenUrl": null,
-     "rank": 14
+     "rank": 15
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/07/Nikki_Sequence-02.01_25_07_34.Still231-1024x576.jpg",
@@ -3217,7 +3261,7 @@
      "score": null,
      "note": "The debut solo LP from Shovel Dance Collective’s Nick Granata is a whimsical triumph that weaves the humdrum minutiae of modern life into a rousing and transcendent progressive folk tapestry",
      "listenUrl": null,
-     "rank": 15
+     "rank": 16
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/07/ReptileTank04-credit-Robin-Bazalgette-1-1024x683.jpg",
@@ -3345,7 +3389,7 @@
      "score": null,
      "note": "The anonymous band’s second album lacks in nuance, but makes up for it for the fascinating connection between dub and krautrock it reveals",
      "listenUrl": null,
-     "rank": 16
+     "rank": 17
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/07/Ferries_EyeWander_exploded_pack_shot_WOE029.jpeg",
@@ -3494,7 +3538,7 @@
      "score": null,
      "note": "The new album from the Washington DC-born singer makes a strong case for the argument that R&B is the most versatile, wide-ranging genre on the block",
      "listenUrl": null,
-     "rank": 17
+     "rank": 18
     }
    ],
    "cover": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/a1820018607_10.jpg",
@@ -3538,7 +3582,7 @@
      "score": null,
      "note": "This ambient side project from the guitarist in Squid reaches back through a deep history of British music inspired by the countryside",
      "listenUrl": null,
-     "rank": 18
+     "rank": 19
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/07/AntonPearson_credit_HollyWhitaker-1024x668.jpg",
@@ -3765,7 +3809,7 @@
      "score": null,
      "note": "Exploratory Canadians capture lightning in a bottle, marshalling their transcendent free rock into a package that feels joyful, communicating effortlessly",
      "listenUrl": null,
-     "rank": 19
+     "rank": 20
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/06/EarthBall-2026-scanner-1024x1024.jpg",
@@ -3853,7 +3897,7 @@
      "score": null,
      "note": "Eschewing his former maximalist approach to music making, Tony Njoku’s new EP sounds like a complete reset, where he rediscovers his voice and lets go of frustration through meditations for synth and piano",
      "listenUrl": null,
-     "rank": 20
+     "rank": 21
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/06/DSC00376-1024x683.jpg",
@@ -3996,7 +4040,7 @@
      "score": null,
      "note": "Baltimore avant-rock group propose a revolution in everyday life, reconstructing American vernacular traditions from the ground up",
      "listenUrl": null,
-     "rank": 21
+     "rank": 22
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/06/Horse_Lords_credit_Kasia_Zacharko_002-1024x683.jpg",
@@ -4173,7 +4217,7 @@
      "score": null,
      "note": "The soundtrack to a new film about the Denver heavy metal four-piece takes the listener deep into an exploration of outer – and inner – space",
      "listenUrl": null,
-     "rank": 22
+     "rank": 23
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/06/BloodIn_-Alessandro-di-Martino-1024x576.jpg",
@@ -4350,7 +4394,7 @@
      "score": null,
      "note": "Drawing inspiration from the carnival-esque rituals of Bumba Meu Boi, the Brazilian duo find paths to the future in ancient rhythms, not far-off galaxies",
      "listenUrl": null,
-     "rank": 23
+     "rank": 24
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/05/DEAFKIDS_2026_H_02_CREDIT_IVI-MAIGA-BUGRIMENKO.jpg-1024x680.jpg",
@@ -4434,7 +4478,7 @@
      "score": null,
      "note": "Magic Tuber Stringband’s first LP as a trio is a work of unruly beauty that doubles as a cautionary tale, says Bernie Brooks",
      "listenUrl": null,
-     "rank": 24
+     "rank": 25
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/05/13-Magic-Tuber-Stringband-by-Dani-Smith-1024x683.jpg",
@@ -4566,7 +4610,7 @@
      "score": null,
      "note": "An album of sonic and metaphysical skirmishes from the Syrian-born, Montreal-based experimental musician",
      "listenUrl": null,
-     "rank": 25
+     "rank": 26
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/05/dd0f0a4d-365b-458a-9d8f-c6f62d3db62c-1024x683.jpg",
@@ -4654,7 +4698,7 @@
      "score": null,
      "note": "Back after an eight-year album gap, the Leeds duo have met the moment, matching the scale of our psychic overwhelm with an album of more-than-human intensity",
      "listenUrl": null,
-     "rank": 26
+     "rank": 27
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/05/guttersnipe_1_1_-1024x683.jpg",
@@ -4798,7 +4842,7 @@
      "score": null,
      "note": "Following a series of journeys in tech-abstraction, the American composer swerves towards the analogue and the limpid presence of the human voice",
      "listenUrl": null,
-     "rank": 27
+     "rank": 28
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2024/05/tq_ImageShare.jpg",
@@ -4940,7 +4984,7 @@
      "score": null,
      "note": "On his new album, Maramfa Musick Pro, the 27-year-old South African producer bypasses the polished globalism of modern club music to deliver a raw, ancestral, and intensely localised masterpiece",
      "listenUrl": null,
-     "rank": 28
+     "rank": 29
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/04/serokolo-landscape.jpg",
@@ -5113,7 +5157,7 @@
      "score": null,
      "note": "Suffused with birdsong and seemingly haunted acoustic instruments, the new album from the Michigan-based artist and curator evokes the eerie sonics of the hospital ward, finds Joel Stern",
      "listenUrl": null,
-     "rank": 29
+     "rank": 30
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/04/Stacked-6-300-1024x576.jpg",
@@ -5290,7 +5334,7 @@
      "score": null,
      "note": "Originally commissioned by Amsterdam's Rijksmuseum, this collaboration between the Amsterdam-based producer and ther UK's busiest drummer opens up dazzling worlds of percussive sound",
      "listenUrl": null,
-     "rank": 30
+     "rank": 31
     }
    ],
    "cover": "https://thequietus.com/app/uploads/2026/04/MUTEK26_Upsammy-ValentinaMagaletti_Bruno-Aiello-Destombes_DSC07821-1024x663.jpeg",
