@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T01:54:26.035Z",
+ "updatedAt": "2026-11-13T11:10:36.913Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 58,
-   "checkedAt": "2026-11-13T01:54:26.035Z"
+   "checkedAt": "2026-11-13T11:10:36.913Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-13T01:54:26.035Z"
+   "checkedAt": "2026-11-13T11:10:36.913Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-13T01:54:26.035Z"
+   "checkedAt": "2026-11-13T11:10:36.913Z"
   },
   {
    "id": "quietus",
@@ -39,10 +39,55 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-13T01:54:26.035Z"
+   "checkedAt": "2026-11-13T11:10:36.913Z"
   }
  ],
  "albums": [
+  {
+   "id": "armand-hammer::snakes-and-ladders",
+   "artist": "Armand Hammer",
+   "title": "Snakes & Ladders",
+   "firstSeen": "2026-11-13T11:10:36.913Z",
+   "picks": [
+    {
+     "source": "pitchfork",
+     "curator": null,
+     "url": "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/",
+     "date": "2026-11-13T05:03:00.000Z",
+     "score": 8.3,
+     "bnm": false,
+     "note": "It’s a marathon and the New York duo keeps the faith, delivering another lyrical masterclass over engrossing beats from the indie rap all-stars whose work they’ve cultivated.",
+     "listenUrl": null,
+     "rank": 0
+    }
+   ],
+   "cover": "https://media.pitchfork.com/photos/6af5f3f605ae8a8ec42748c2/1:1/w_768,c_limit/Armand%20Hammer%20-%20Snakes%20&%20Ladders%20album%20art.jpg",
+   "genre": "Rap",
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/album/7mM5Tj5zFnL8ZSHbADTyjJ",
+     "exact": true
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/snakes-ladders/6826321007",
+     "exact": true
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Armand%20Hammer%20Snakes%20%26%20Ladders&item_type=a",
+     "exact": false
+    },
+    "deezer": {
+     "url": "https://www.deezer.com/album/1129056971",
+     "exact": true
+    }
+   },
+   "releaseDate": "2026-11-11",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-11-13T11:10:36.913Z",
+   "spotifyCheckedAt": "2026-11-13T11:10:36.913Z",
+   "addedAt": "2026-11-13T05:03:00.000Z",
+   "lastPickAt": "2026-11-13T05:03:00.000Z"
+  },
   {
    "id": "blackhaine::saints-in-the-wethouse",
    "artist": "Blackhaine",
@@ -186,7 +231,7 @@
      "bnm": false,
      "note": "With delirious melodic instincts, the Bronx rapper’s new tape evokes Young Money-era swag on a SoundCloud budget.",
      "listenUrl": null,
-     "rank": 0
+     "rank": 1
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6aea06e6b2a4ae06c18ac614/1:1/w_768,c_limit/Baby%20Osamaa%20-%20On%20Tha%20Run%20album%20art.jpg",
@@ -489,7 +534,7 @@
      "bnm": false,
      "note": "An album-length EP by the 20-year-old producer is a dizzying and boundless collage of collages, using free-jazz logic and digital overload to chart new emotional terrain.",
      "listenUrl": null,
-     "rank": 1
+     "rank": 2
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6adb85c8eb79c260502e90fb/1:1/w_768,c_limit/heavensouls%20Cantu%20of%20the%20sower.jpg",
@@ -626,7 +671,7 @@
      "bnm": false,
      "note": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
      "listenUrl": null,
-     "rank": 2
+     "rank": 3
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ab1771595d5696b67afdb2c/1:1/w_768,c_limit/a0271857415_10.jpg",
@@ -715,7 +760,7 @@
      "bnm": false,
      "note": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
      "listenUrl": null,
-     "rank": 3
+     "rank": 4
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a885e2c3ebe66b3901a13cd/1:1/w_768,c_limit/Eris-Drew-Octo-Octa-Alchemical-Sisters.jpeg",
@@ -800,7 +845,7 @@
      "bnm": false,
      "note": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
      "listenUrl": null,
-     "rank": 4
+     "rank": 5
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ad133ea47a15edc7845996a/1:1/w_768,c_limit/Worldpeace%20DMT%20-%20Stick%20Around%20for%20Tea%20album%20art.jpg",
@@ -845,7 +890,7 @@
      "bnm": false,
      "note": "The UK selector throws caution—and genre—to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
      "listenUrl": null,
-     "rank": 5
+     "rank": 6
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ad0e91d056973d40b8be89e/1:1/w_768,c_limit/Djrum%20-%20DJ-Kicks.jpg",
@@ -934,7 +979,7 @@
      "bnm": false,
      "note": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
      "listenUrl": null,
-     "rank": 6
+     "rank": 7
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a3be91e393fc0fa5a7423cb/1:1/w_768,c_limit/@-Autosmile.jpeg",
@@ -1111,7 +1156,7 @@
      "bnm": false,
      "note": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
      "listenUrl": null,
-     "rank": 7
+     "rank": 8
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ab178b1e1cdfe6681b364a7/1:1/w_768,c_limit/3605.jpg",
@@ -1206,7 +1251,7 @@
      "bnm": false,
      "note": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and more dazzling than anything she’s done to date.",
      "listenUrl": null,
-     "rank": 8
+     "rank": 9
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a452b81a7029f511eacd6da/1:1/w_768,c_limit/Marina-Herlop-Dja-Dja.jpeg",
@@ -1315,7 +1360,7 @@
      "bnm": false,
      "note": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
      "listenUrl": null,
-     "rank": 9
+     "rank": 10
     },
     {
      "source": "stereogum",
@@ -1414,7 +1459,7 @@
      "bnm": false,
      "note": "The UK artist brings a frenzy of club-grime provocation and internet humor to his glitched-out emo, but his portrayal of small-town malaise is what makes it a riot.",
      "listenUrl": null,
-     "rank": 10
+     "rank": 11
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6abd510c90e6bf2bda5674d9/1:1/w_768,c_limit/300SkullsAndCounting%20Jenny%20Sparks%20This%20Is%20Spa%20Town.png",
@@ -1513,7 +1558,7 @@
      "bnm": false,
      "note": "Tinashe’s eighth album is her best and bravest yet: more ambitious, more focused, and effortlessly in touch with the zeitgeist. It’s the best pop album of the year.",
      "listenUrl": null,
-     "rank": 11
+     "rank": 12
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6ab4131ef7ef2378a6776d41/1:1/w_768,c_limit/Tinashe-%20Popstar%20.jpg",
@@ -1646,7 +1691,7 @@
      "bnm": false,
      "note": "Exploding its signature blend of noise-punk and dance music to masterful extremes, the Irish band gets louder, rawer, funnier, and more methodical on its exhilarating fourth album.",
      "listenUrl": null,
-     "rank": 12
+     "rank": 13
     },
     {
      "source": "stereogum",
@@ -2093,7 +2138,7 @@
      "bnm": false,
      "note": "Earnest and disaffected, ironic and confrontational, the Brooklyn songwriter’s Sub Pop debut channels trans rage into scrappy DIY punk with no patience left.",
      "listenUrl": null,
-     "rank": 13
+     "rank": 14
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a9857dd83bf94901ac8f2c6/1:1/w_768,c_limit/Lex%20Walton%20-%20Ultimate%20Love%20Forever%20album%20art.png",
@@ -2446,7 +2491,7 @@
      "bnm": false,
      "note": "Kurt Wagner reinvents his band yet again, this time slimming down to a bare-bones acoustic setup and stripping away the studio artifice. But his storytelling remains as expansive as ever.",
      "listenUrl": null,
-     "rank": 14
+     "rank": 15
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a8c5ccc67a78f90c0d9d783/1:1/w_768,c_limit/Lambchop%20-%20Punching%20the%20Clown.jpg",
@@ -2717,7 +2762,7 @@
      "bnm": false,
      "note": "For her third solo album, Phoebe Bridgers expands and contracts, capturing experiences that are strange, solitary, and hers alone. It is the quietest, most cohesive record in her discography.",
      "listenUrl": null,
-     "rank": 16
+     "rank": 17
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a3bde6801a6ab17fa387818/1:1/w_768,c_limit/unnamed%20(48).jpg",
@@ -2762,7 +2807,7 @@
      "bnm": false,
      "note": "There are many rappers out there who dig deep into their lives for heavy stories of pain and sorrow. The DMV rapper does this too, but he elevates the art form to a whole new level.",
      "listenUrl": null,
-     "rank": 17
+     "rank": 18
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a70ef5fe24a0e2460878423/1:1/w_768,c_limit/196874628348.jpg",
@@ -2807,7 +2852,7 @@
      "bnm": false,
      "note": "The experimental Brooklyn project returns with a serene and spectral new album, using an ever-shifting musical backdrop to explore themes of illusion and doubt.",
      "listenUrl": null,
-     "rank": 15
+     "rank": 16
     },
     {
      "source": "stereogum",
@@ -3118,7 +3163,7 @@
      "bnm": false,
      "note": "Natal Zaks brings dub techno to a higher level on an energetic and atmospheric 2x12\", another pin in the lapel of the new and outstanding Short Span label.",
      "listenUrl": null,
-     "rank": 18
+     "rank": 19
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a63b68adf8edba43266a72a/1:1/w_768,c_limit/Picture%20Uuuuuuuu.jpg",
@@ -3217,7 +3262,7 @@
      "bnm": false,
      "note": "On the follow-up to BRAT, the pop auteur pivots to a referential, proudly tossed-off rock sound that offers mystifying glances behind the curtain of stardom.",
      "listenUrl": null,
-     "rank": 19
+     "rank": 20
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a1d8c4a7bd12195f2446647/1:1/w_768,c_limit/Charli-XCX-Music-Fashion-Film.jpeg",
@@ -3474,7 +3519,7 @@
      "bnm": false,
      "note": "The longtime Arthur Russell collaborator finally gets a solo exhibition: a gorgeously realized and fundamentally incomplete work of sensual art-folk, leftfield disco, and experimental synth-pop. It’s at once an archival triumph and one of the year’s most thrilling new releases.",
      "listenUrl": null,
-     "rank": 20
+     "rank": 21
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a4ea158145e5bc58a483445/1:1/w_768,c_limit/Nirosta%20Steel%20-%20My%20Skyscraper%20album%20art.jpg",
@@ -3725,7 +3770,7 @@
      "bnm": false,
      "note": "The L.A. improv quintet made its first two LPs by remixing key moments from its gigs; now, on a pair of astonishing unedited live takes, the group proves that performance is the heart of its music.",
      "listenUrl": null,
-     "rank": 21
+     "rank": 22
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a42a44b70798f2594513ffc/1:1/w_768,c_limit/SML%20-%20Spontaneous%20Music%20Live.jpg",
@@ -3996,7 +4041,7 @@
      "bnm": false,
      "note": "The pop star’s third album is a heartbreaking account of an intense romance and its demise. Its mood is perfectly reflected in the music, and her evolution as a songwriter is a sight to behold.",
      "listenUrl": null,
-     "rank": 22
+     "rank": 23
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a1064f4cdd971dc49dbe97b/1:1/w_768,c_limit/Olivia%20Rodrigo%20-%20You%20Seem%20Pretty%20Sad%20for%20a%20Girl%20So%20in%20Love%20album%20art%20(no%20sticker).png",
@@ -4129,7 +4174,7 @@
      "bnm": false,
      "note": "The Miami duo’s electrifying, boundary-bending combination of Haitian kompa, underground rap, reggaeton, electro-pop, and baile funk is loud as hell and rich in egalitarian spirit.",
      "listenUrl": null,
-     "rank": 23
+     "rank": 24
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a0b5f507fc6f92eeff4275c/1:1/w_768,c_limit/B0YG1RL:%20EXIT%202B.jpg",
@@ -4350,7 +4395,7 @@
      "bnm": false,
      "note": "Laced with occult imagery and enigmatic samples, the Scottish duo’s immersive new album—their first in 13 years—offers some of the most captivating music of their career.",
      "listenUrl": null,
-     "rank": 24
+     "rank": 25
     }
    ],
    "cover": "https://media.pitchfork.com/photos/6a184638c26aa3f286532e4a/1:1/w_768,c_limit/Boards%20of%20Canada%20Inferno.png",
@@ -4743,7 +4788,7 @@
      "bnm": false,
      "note": "On her spellbinding fifth album, Aldous Harding steps closer than ever to the camera lens without coming into focus. It’s an oblique character study of herself, and the best album of her career so far.",
      "listenUrl": null,
-     "rank": 25
+     "rank": 26
     },
     {
      "source": "stereogum",
@@ -4798,7 +4843,7 @@
      "bnm": false,
      "note": "The ambient musician’s new album is a tremendous leap in scale, a quiet conjuring of vast, prayerlike yearning.",
      "listenUrl": null,
-     "rank": 26
+     "rank": 27
     }
    ],
    "cover": "https://media.pitchfork.com/photos/699483a0916d569fd95d34db/1:1/w_768,c_limit/Ana-Roxanne-Poem-1.jpeg",
@@ -5029,7 +5074,7 @@
      "bnm": false,
      "note": "Retro but never dusty, the rapper’s brilliantly bugged-out new tape sounds like a New York that hardly exists anymore.",
      "listenUrl": null,
-     "rank": 27
+     "rank": 28
     }
    ],
    "cover": "https://media.pitchfork.com/photos/69e91650556614c9bfc04bcd/1:1/w_768,c_limit/Starker%20-%20LIVING%20TYPE%20DANGEROUS%20Vol.%201%20album%20art.jpg",
@@ -5290,7 +5335,7 @@
      "bnm": false,
      "note": "Former Black Midi bassist Cameron Picton’s dazzlingly complicated solo debut is a tangle of baroque melodies, chamber-punk arrangements, and garden-path lyrics.",
      "listenUrl": null,
-     "rank": 28
+     "rank": 29
     }
    ],
    "cover": "https://media.pitchfork.com/photos/69d67c86fb43b4012c9d2abd/1:1/w_768,c_limit/My%20New%20Band%20Believe%20-%20My%20New%20Band%20Believe%20album%20art%20HI%20RES.png",
