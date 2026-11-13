@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T11:10:36.913Z",
+ "updatedAt": "2026-11-13T19:50:19.857Z",
  "sources": [
   {
    "id": "needledrop",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "count": 58,
-   "checkedAt": "2026-11-13T11:10:36.913Z"
+   "checkedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-13T11:10:36.913Z"
+   "checkedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-13T11:10:36.913Z"
+   "checkedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "quietus",
@@ -39,7 +39,7 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-13T11:10:36.913Z"
+   "checkedAt": "2026-11-13T19:50:19.857Z"
   }
  ],
  "albums": [
@@ -342,8 +342,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "leroy::status-update-music",
@@ -382,8 +382,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "piss::you-made-me-skin-on-linen",
@@ -813,8 +813,8 @@
    "lastPickAt": "2026-10-20T17:51:53.000Z",
    "links": {
     "spotify": {
-     "url": "https://open.spotify.com/search/Josh%20Johnson%20Animative/albums",
-     "exact": false
+     "url": "https://open.spotify.com/album/2Dky1fEIKf5zyUVI6ISRlx",
+     "exact": true
     },
     "appleMusic": {
      "url": "https://music.apple.com/us/album/animative/6795766313",
@@ -826,9 +826,9 @@
     }
    },
    "releaseDate": "2026-10-23",
-   "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksComplete": true,
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "worldpeace-dmt::stick-around-for-tea",
@@ -1854,10 +1854,10 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
    "addedAt": "2026-09-17T05:41:00.000Z",
    "lastPickAt": "2026-09-17T05:41:00.000Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "slow-pulp::melodie",
@@ -2556,10 +2556,10 @@
    },
    "releaseDate": "2026-08-25",
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
    "addedAt": "2026-08-20T05:30:00.000Z",
    "lastPickAt": "2026-08-20T05:30:00.000Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "twisted-teens::florida-water-blues",
@@ -3190,8 +3190,8 @@
    },
    "releaseDate": "2026-10-19",
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "nia-archives::emotional-junglist",
@@ -3373,8 +3373,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "nick-hakim::i-can-see",
@@ -3459,10 +3459,10 @@
    },
    "releaseDate": "2026-07-17",
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
    "addedAt": "2026-07-16T08:42:26.000Z",
    "lastPickAt": "2026-07-16T08:42:26.000Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "quicksand::bring-on-the-psychics",
@@ -3879,10 +3879,10 @@
    },
    "releaseDate": "2026-06-26",
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
    "addedAt": "2026-06-25T07:54:07.000Z",
    "lastPickAt": "2026-06-25T07:54:07.000Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "tasha::you-are-spring",
@@ -5054,10 +5054,10 @@
    },
    "releaseDate": "2026-04-24",
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
    "addedAt": "2026-04-23T08:02:58.000Z",
    "lastPickAt": "2026-04-23T08:02:58.000Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "starker::living-type-dangerous-vol-1",
@@ -5097,8 +5097,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "carla-dal-forno::confession",
@@ -5491,8 +5491,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "sunn-o::sunn-o",
@@ -6110,8 +6110,8 @@
    },
    "releaseDate": null,
    "linksComplete": false,
-   "linksCheckedAt": "2026-11-06T19:29:25.399Z",
-   "spotifyCheckedAt": "2026-11-06T19:29:25.399Z"
+   "linksCheckedAt": "2026-11-13T19:50:19.857Z",
+   "spotifyCheckedAt": "2026-11-13T19:50:19.857Z"
   },
   {
    "id": "jill-scott::to-whom-this-may-concern",
