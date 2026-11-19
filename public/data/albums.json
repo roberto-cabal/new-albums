@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T20:39:16.378Z",
+ "updatedAt": "2026-11-19T02:38:28.959Z",
  "sources": [
   {
    "id": "needledrop",
@@ -8,8 +8,8 @@
    "homepage": "https://theneedledrop.com/loved-list/2026/",
    "ok": true,
    "error": null,
-   "count": 58,
-   "checkedAt": "2026-11-18T20:39:16.378Z"
+   "count": 60,
+   "checkedAt": "2026-11-19T02:38:28.959Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-18T20:39:16.378Z"
+   "checkedAt": "2026-11-19T02:38:28.959Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-18T20:39:16.378Z"
+   "checkedAt": "2026-11-19T02:38:28.959Z"
   },
   {
    "id": "quietus",
@@ -39,7 +39,7 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-18T20:39:16.378Z"
+   "checkedAt": "2026-11-19T02:38:28.959Z"
   }
  ],
  "albums": [
@@ -98,6 +98,16 @@
      "bnm": false,
      "note": "It’s a marathon and the New York duo keeps the faith, delivering another lyrical masterclass over engrossing beats from the indie rap all-stars whose work they’ve cultivated.",
      "listenUrl": null,
+     "rank": 0
+    },
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": "https://theneedledrop.com/armand-hammer-snakes-ladders-album-review-1kxxkuan-ek/",
      "rank": 0
     }
    ],
@@ -211,6 +221,46 @@
    "spotifyCheckedAt": "2026-11-10T23:28:39.734Z",
    "addedAt": "2026-11-10T21:01:17.000Z",
    "lastPickAt": "2026-11-10T21:01:17.000Z"
+  },
+  {
+   "id": "wolves-in-the-throne-room::estuary",
+   "artist": "Wolves in the Throne Room",
+   "title": "Estuary",
+   "firstSeen": "2026-11-19T02:38:28.959Z",
+   "picks": [
+    {
+     "source": "needledrop",
+     "curator": "Anthony Fantano",
+     "url": "https://theneedledrop.com/album-reviews/wolves-in-the-throne-room-estuary-album-review-zd4md0jhuuc/",
+     "date": "2026-11-10T13:10:11.000Z",
+     "score": null,
+     "note": "Anthony 8/10+",
+     "listenUrl": null,
+     "rank": 1
+    }
+   ],
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/0a/a9/6e0aa91b-692b-09da-37ad-ec256866528a/781676573615.jpg/600x600bb.jpg",
+   "genre": null,
+   "links": {
+    "spotify": {
+     "url": "https://open.spotify.com/album/6tZoeDqqpwcNs2jSp7yYPb",
+     "exact": true
+    },
+    "appleMusic": {
+     "url": "https://music.apple.com/us/album/estuary/6786006978",
+     "exact": true
+    },
+    "bandcamp": {
+     "url": "https://bandcamp.com/search?q=Wolves%20in%20the%20Throne%20Room%20Estuary&item_type=a",
+     "exact": false
+    }
+   },
+   "releaseDate": "2026-10-23",
+   "linksComplete": true,
+   "linksCheckedAt": "2026-11-19T02:38:28.959Z",
+   "spotifyCheckedAt": "2026-11-19T02:38:28.959Z",
+   "addedAt": "2026-11-10T13:10:11.000Z",
+   "lastPickAt": "2026-11-10T13:10:11.000Z"
   },
   {
    "id": "randall-dunn::manifold-of-partially-actualized-realities",
@@ -439,7 +489,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 1
+     "rank": 3
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/de/b7/e8deb7a4-aa6f-a232-b44f-c8b9ab1fdd2d/098787175363.png/600x600bb.jpg",
@@ -563,7 +613,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 2
+     "rank": 4
     },
     {
      "source": "pitchfork",
@@ -666,7 +716,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 0
+     "rank": 2
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/87/68/8a8768b3-d686-dac5-25da-fca1ea373114/25UMGIM95889.rgb.jpg/600x600bb.jpg",
@@ -974,7 +1024,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 3
+     "rank": 5
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/636c69416eb6a6b9e9493d4671f4bd66/1000x1000-000000-80-0-0.jpg",
@@ -1107,7 +1157,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 4
+     "rank": 6
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/f93ac4a05846d7457a0d7563f19a1ece/1000x1000-000000-80-0-0.jpg",
@@ -1240,7 +1290,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 6
+     "rank": 8
     },
     {
      "source": "needledrop",
@@ -1379,7 +1429,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 5
+     "rank": 7
     },
     {
      "source": "needledrop",
@@ -1543,7 +1593,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 8
+     "rank": 10
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/dd/cc/8cddcc79-f688-f2c3-8bae-0f4d839a4b0a/887828057160.png/600x600bb.jpg",
@@ -1587,7 +1637,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 7
+     "rank": 9
     },
     {
      "source": "pitchfork",
@@ -1785,7 +1835,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 9
+     "rank": 11
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/5f/20/cd5f20d4-cf63-981a-73ee-d9f5870538b6/5063960172311_cover.jpg/600x600bb.jpg",
@@ -1829,7 +1879,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 10
+     "rank": 12
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/a2ce91f10c5da76681ba0b11665b2c2d/1000x1000-000000-80-0-0.jpg",
@@ -2001,7 +2051,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 11
+     "rank": 13
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/e07e3e7632d66462f645d590d127672f/1000x1000-000000-80-0-0.jpg",
@@ -2089,7 +2139,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 12
+     "rank": 14
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/66/49/ce66499d-b120-92e4-f015-5776a7fa4d7a/781484098027.png/600x600bb.jpg",
@@ -2222,7 +2272,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 13
+     "rank": 15
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/5b5fd451786ea4dda1b85984d9cfa4ac/1000x1000-000000-80-0-0.jpg",
@@ -2310,7 +2360,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 14
+     "rank": 16
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/78df7ecc02feba801c606eb234c55b5d/1000x1000-000000-80-0-0.jpg",
@@ -2398,7 +2448,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 15
+     "rank": 17
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d2/49/fdd24946-305e-ade3-0209-cdfc2868cd68/5063961889331_cover.jpg/600x600bb.jpg",
@@ -2442,7 +2492,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 17
+     "rank": 19
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/b3/2f/ddb32fc5-4252-6cab-895d-4e8ce1b2851b/cover.jpg/600x600bb.jpg",
@@ -2615,7 +2665,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 21
+     "rank": 23
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/29/e9/f129e944-a215-dd6d-4c80-a8bd4237ece6/artwork.jpg/600x600bb.jpg",
@@ -2659,7 +2709,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 19
+     "rank": 21
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/019c1c179da034cae78a102dbd839ef3/1000x1000-000000-80-0-0.jpg",
@@ -2791,7 +2841,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 16
+     "rank": 18
     },
     {
      "source": "pitchfork",
@@ -2946,7 +2996,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 18
+     "rank": 20
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/32/66/0b3266a8-a9d5-95f6-882e-9fcdac01ac9b/885288027136.jpg/600x600bb.jpg",
@@ -3162,7 +3212,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 22
+     "rank": 24
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/47/bf/c447bf4e-0b3f-e278-4665-bebe8a087cf5/196874554166.jpg/600x600bb.jpg",
@@ -3247,7 +3297,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 23
+     "rank": 25
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/04/ea/cd04ea55-727d-782a-5ca6-265e0ecc1040/26UMGIM39397.rgb.jpg/600x600bb.jpg",
@@ -3291,7 +3341,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 20
+     "rank": 22
     },
     {
      "source": "pitchfork",
@@ -3390,7 +3440,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 24
+     "rank": 26
     }
    ],
    "cover": null,
@@ -3603,7 +3653,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 25
+     "rank": 27
     },
     {
      "source": "stereogum",
@@ -3711,7 +3761,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 28
+     "rank": 30
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/0f4b9b57d66c1da65b0b8d63ac924cde/1000x1000-000000-80-0-0.jpg",
@@ -3799,7 +3849,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 27
+     "rank": 29
     },
     {
      "source": "pitchfork",
@@ -3850,7 +3900,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 29
+     "rank": 31
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/3d/16/593d1699-7a94-ddc4-908e-eb48aed1ce87/26UMGIM65013.rgb.jpg/600x600bb.jpg",
@@ -4070,7 +4120,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 30
+     "rank": 32
     },
     {
      "source": "pitchfork",
@@ -4258,7 +4308,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 31
+     "rank": 33
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/663157ef2287ac5bbb21a7795b61183c/1000x1000-000000-80-0-0.jpg",
@@ -4390,7 +4440,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 32
+     "rank": 34
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/706fd8ee89513b7bea5de80753ad820c/1000x1000-000000-80-0-0.jpg",
@@ -4651,7 +4701,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 34
+     "rank": 36
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/8b/c8/668bc89c-6bff-2485-6d84-4ab11b8abed2/cover.jpg/600x600bb.jpg",
@@ -4971,7 +5021,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 33
+     "rank": 35
     },
     {
      "source": "stereogum",
@@ -5198,7 +5248,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 35
+     "rank": 37
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/ab/34/50ab34f5-11bc-5e78-9c43-80aca9e301b4/25UM2IM06906.rgb.jpg/600x600bb.jpg",
@@ -5330,7 +5380,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 36
+     "rank": 38
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/1000x1000-000000-80-0-0.jpg",
@@ -5681,7 +5731,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 37
+     "rank": 39
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/e1/f6/b9e1f691-4ea1-3c6e-1e85-7fb3101b89c9/769152436630.jpg/600x600bb.jpg",
@@ -5765,7 +5815,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 38
+     "rank": 40
     },
     {
      "source": "needledrop",
@@ -5819,7 +5869,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 40
+     "rank": 42
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/00/19/c500197f-a99c-c3aa-65f2-2a3a78b90630/00198704897481_Cover.jpg/600x600bb.jpg",
@@ -5863,7 +5913,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 39
+     "rank": 41
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/ae542da8789dbc3cb732aab931093b31/1000x1000-000000-80-0-0.jpg",
@@ -5951,7 +6001,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 41
+     "rank": 43
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/8e/7a/1d8e7ab4-364a-b86d-0c23-c920c25ee502/781484096429.png/600x600bb.jpg",
@@ -6039,7 +6089,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 42
+     "rank": 44
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/04992a627a83f8676aa972a391dada0d/1000x1000-000000-80-0-0.jpg",
@@ -6083,7 +6133,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 43
+     "rank": 45
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/fb86decc775f4140fdc5c9433ac1170d/1000x1000-000000-80-0-0.jpg",
@@ -6167,7 +6217,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 44
+     "rank": 46
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/f6/b4/f8f6b4c1-8f02-6604-bb51-2dc54bfa9ec2/820200224248.jpg/600x600bb.jpg",
@@ -6255,7 +6305,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 45
+     "rank": 47
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c0/d2/30c0d2e8-c0b8-ee61-bcc4-b29809b67fd2/0045778813568.png/600x600bb.jpg",
@@ -6343,7 +6393,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 26
+     "rank": 28
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/69/5d/ed695dd0-e14e-1599-a5d6-d1ca237ffde8/657628456629.jpg/600x600bb.jpg",
@@ -6387,7 +6437,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 46
+     "rank": 48
     },
     {
      "source": "stereogum",
@@ -6441,7 +6491,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 48
+     "rank": 50
     },
     {
      "source": "needledrop",
@@ -6495,7 +6545,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 49
+     "rank": 51
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/7f/db/777fdb02-af33-dcb3-0297-aa9310c77fe0/663918829998.jpg/600x600bb.jpg",
@@ -6539,7 +6589,7 @@
      "score": null,
      "note": "Anthony 8/10+",
      "listenUrl": null,
-     "rank": 47
+     "rank": 49
     },
     {
      "source": "stereogum",
