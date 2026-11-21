@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T02:25:48.159Z",
+ "updatedAt": "2026-11-21T11:18:55.278Z",
  "sources": [
   {
    "id": "needledrop",
@@ -8,8 +8,8 @@
    "homepage": "https://theneedledrop.com/loved-list/2026/",
    "ok": true,
    "error": null,
-   "count": 60,
-   "checkedAt": "2026-11-21T02:25:48.159Z"
+   "count": 61,
+   "checkedAt": "2026-11-21T11:18:55.278Z"
   },
   {
    "id": "pitchfork",
@@ -19,7 +19,7 @@
    "ok": true,
    "error": null,
    "count": 30,
-   "checkedAt": "2026-11-21T02:25:48.159Z"
+   "checkedAt": "2026-11-21T11:18:55.278Z"
   },
   {
    "id": "stereogum",
@@ -29,7 +29,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "checkedAt": "2026-11-21T02:25:48.159Z"
+   "checkedAt": "2026-11-21T11:18:55.278Z"
   },
   {
    "id": "quietus",
@@ -39,7 +39,7 @@
    "ok": true,
    "error": null,
    "count": 32,
-   "checkedAt": "2026-11-21T02:25:48.159Z"
+   "checkedAt": "2026-11-21T11:18:55.278Z"
   }
  ],
  "albums": [
@@ -457,7 +457,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://erstwhilerecords.bandcamp.com/album/the-professional",
-     "rank": 3
+     "rank": 4
     }
    ],
    "cover": null,
@@ -497,7 +497,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://janeremover.bandcamp.com/album/status-update-music",
-     "rank": 4
+     "rank": 5
     }
    ],
    "cover": null,
@@ -538,6 +538,16 @@
      "note": "Anthony 8/10+",
      "listenUrl": null,
      "rank": 3
+    },
+    {
+     "source": "needledrop",
+     "curator": "austen",
+     "url": "https://theneedledrop.com/loved-list/2026/",
+     "date": null,
+     "score": null,
+     "note": "Loved List de austen",
+     "listenUrl": "https://pisstheband.bandcamp.com/album/you-made-me-skin-on-linen",
+     "rank": 0
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/de/b7/e8deb7a4-aa6f-a232-b44f-c8b9ab1fdd2d/098787175363.png/600x600bb.jpg",
@@ -716,7 +726,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://www.qobuz.com/us-en/album/marrow-brakence/qk51l8qhg08pm",
-     "rank": 0
+     "rank": 1
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/f9a09fcf05772360180e819835f02f04/1000x1000-000000-80-0-0.jpg",
@@ -1348,7 +1358,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://swans.bandcamp.com/album/newly-sentient-being",
-     "rank": 2
+     "rank": 3
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/67/61/85676142-ad0f-ae20-885c-cd7365aba950/658457060964_cover.jpg/600x600bb.jpg",
@@ -1487,7 +1497,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall",
-     "rank": 1
+     "rank": 2
     },
     {
      "source": "pitchfork",
@@ -5123,7 +5133,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://kaatayra.bandcamp.com/album/caminhos-de-gua",
-     "rank": 5
+     "rank": 6
     }
    ],
    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/f1/a4/94f1a4b8-61cc-f049-c8a5-b005bdc42216/7333583275293.jpg/600x600bb.jpg",
@@ -5873,7 +5883,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://underscores.bandcamp.com/album/u",
-     "rank": 6
+     "rank": 7
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/2b7ebf336f61c1aca52c0bfec0a4b30e/1000x1000-000000-80-0-0.jpg",
@@ -6549,7 +6559,7 @@
      "score": null,
      "note": "Loved List de austen",
      "listenUrl": "https://injuryreserve.bandcamp.com/album/my-ghosts-go-ghost",
-     "rank": 7
+     "rank": 8
     }
    ],
    "cover": "https://cdn-images.dzcdn.net/images/cover/d3bcfd14e834207f8aa86ef8e63607a2/1000x1000-000000-80-0-0.jpg",
